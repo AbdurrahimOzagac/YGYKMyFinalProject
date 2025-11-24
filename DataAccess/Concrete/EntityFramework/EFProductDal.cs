@@ -1,13 +1,38 @@
+using System.Linq.Expressions;
 using DataAccess.Abstract;
 using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFramework;
 
-public class EFProductDal : EfEntityRepositoryBase<Product, ApplicationDbContext>, IProductDal
+public class EFProductDal : IProductDal
 {
-    public override List<Product> GetAllByCategory(int categoryId)
+    public void Add(Product entity)
     {
-        using var context = new ApplicationDbContext();
-        return context.Products.Where(p => p.CategoryId == categoryId).ToList();
+        throw new NotImplementedException();
+    }
+
+    public void Delete(Product entity)
+    {
+        throw new NotImplementedException();
+    }
+
+    public Product Get(Expression<Func<Product, bool>> filter)
+    {
+        throw new NotImplementedException();
+    }
+
+    public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
+    {
+        throw new NotImplementedException();
+    }
+
+    public List<Product> GetAllByCategory(int categoryId)
+    {
+        throw new NotImplementedException();
+    }
+
+    public void Update(Product entity)
+    {
+        throw new NotImplementedException();
     }
 }
