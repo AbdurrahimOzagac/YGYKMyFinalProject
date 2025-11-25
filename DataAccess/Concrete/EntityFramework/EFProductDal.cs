@@ -1,6 +1,7 @@
 using System.Linq.Expressions;
 using DataAccess.Abstract;
 using Entities.Concrete;
+using Microsoft.EntityFrameworkCore;
 
 namespace DataAccess.Concrete.EntityFramework;
 
@@ -8,22 +9,41 @@ public class EFProductDal : IProductDal
 {
     public void Add(Product entity)
     {
-        throw new NotImplementedException();
+        using (NorthwindContext context = new NorthwindContext())
+        {
+            var addedEntity = context.Entry(entity);
+            addedEntity.State = EntityState.Added;
+            context.SaveChanges();
+            System.Console.WriteLine(addedEntity.State);
+        }
     }
 
     public void Delete(Product entity)
     {
-        throw new NotImplementedException();
+        using (NorthwindContext context = new NorthwindContext())
+        {
+            var deletedEntity = context.Entry(entity);
+            deletedEntity.State = EntityState.Deleted;
+            context.SaveChanges();
+        }
     }
 
     public Product Get(Expression<Func<Product, bool>> filter)
     {
-        throw new NotImplementedException();
+        using (NorthwindContext context = new NorthwindContext())
+        {
+            return context.Set<Product>().SingleOrDefault(filter);
+        }
     }
 
     public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
     {
-        throw new NotImplementedException();
+        using (NorthwindContext context = new NorthwindContext())
+        {
+            return filter == null
+            ? context.Set<Product>().ToList()
+            : context.Set<Product>().Where(filter).ToList();
+        }
     }
 
     public List<Product> GetAllByCategory(int categoryId)
@@ -33,6 +53,11 @@ public class EFProductDal : IProductDal
 
     public void Update(Product entity)
     {
-        throw new NotImplementedException();
+        using (NorthwindContext context = new NorthwindContext())
+        {
+            var updatedEntity = context.Entry(entity);
+            updatedEntity.State = EntityState.Modified;
+            context.SaveChanges();
+        }
     }
 }
