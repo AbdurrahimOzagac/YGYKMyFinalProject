@@ -14,8 +14,6 @@ public class NorthwindContext : DbContext
         optionsBuilder.UseSnakeCaseNamingConvention();
     }
 
-    // configure Products table
-
     public DbSet<Product> Products { get; set; }
     public DbSet<Category> Categories { get; set; }
     public DbSet<Customer> Customers { get; set; }

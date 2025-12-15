@@ -2,7 +2,7 @@
 using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
 using Entities.Concrete;
-
+ 
 namespace ConsoleUI;
 
 class Program
@@ -13,15 +13,15 @@ class Program
 
         foreach (Product product in productManager.GetAllByCategoryId(2))
         {
-            // System.Console.WriteLine(product.ProductName);
-            // System.Console.WriteLine(product.CategoryId);
+            // Console.WriteLine(product.CategoryId);
+            // Console.WriteLine(product.ProductName);
         }
 
         OrderManager orderManager = new OrderManager(new EFOrderDal());
 
         foreach (Order item in orderManager.GetAll())
         {
-            //System.Console.WriteLine(item.ShipCity);
+            //Console.WriteLine(item.ShipCity);
         }
 
         EFOrderDal efo = new();
