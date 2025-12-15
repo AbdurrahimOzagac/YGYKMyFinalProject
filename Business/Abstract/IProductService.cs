@@ -1,6 +1,6 @@
 using Entities.Concrete;
 
-namespace Bussiness.Abstract
+namespace Business.Abstract
 {
     public interface IProductService
     {

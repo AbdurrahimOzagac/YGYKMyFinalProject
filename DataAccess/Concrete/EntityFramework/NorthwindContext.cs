@@ -2,7 +2,6 @@ using Entities.Concrete;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure.Internal;
 
-
 namespace DataAccess.Concrete.EntityFramework;
 
 public class NorthwindContext : DbContext
@@ -17,9 +16,9 @@ public class NorthwindContext : DbContext
 
     // configure Products table
 
-
     public DbSet<Product> Products { get; set; }
     public DbSet<Category> Categories { get; set; }
     public DbSet<Customer> Customers { get; set; }
+    public DbSet<Order> Orders { get; set; }
 
 }
