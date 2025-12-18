@@ -9,14 +9,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        ProductManager productManager = new ProductManager(new EFProductDal());
+        ProductTest();
 
-        foreach (Product product in productManager.GetAllByCategoryId(2))
-        {
-            // Console.WriteLine(product.CategoryId);
-            // Console.WriteLine(product.ProductName);
-        }
+        //DisplayShipCities();
+    }
 
+    private static void DisplayShipCities()
+    {
         OrderManager orderManager = new OrderManager(new EFOrderDal());
 
         foreach (Order item in orderManager.GetAll())
@@ -27,5 +26,16 @@ class Program
         EFOrderDal efo = new();
 
         Console.WriteLine(string.Join("\n - ", efo.GetShipCities()));
+    }
+
+    private static void ProductTest()
+    {
+        ProductManager productManager = new ProductManager(new EFProductDal());
+
+        foreach (var product in productManager.GetProductDetails())
+        {
+            //Console.WriteLine(product.CategoryName);
+            Console.WriteLine(product.ProductName);
+        }
     }
 }
