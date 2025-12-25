@@ -1,8 +1,10 @@
-﻿using Business.Concrete;
+﻿using System.Data;
+using Business.Concrete;
+using Core.Utilities.Results;
 using DataAccess.Concrete.EntityFramework;
 using DataAccess.Concrete.InMemory;
 using Entities.Concrete;
- 
+
 namespace ConsoleUI;
 
 class Program
@@ -32,10 +34,14 @@ class Program
     {
         ProductManager productManager = new ProductManager(new EFProductDal());
 
-        foreach (var product in productManager.GetProductDetails())
+        var result = productManager.GetProductDetails();
+
+        if (result.Success)
         {
-            //Console.WriteLine(product.CategoryName);
-            Console.WriteLine(product.ProductName);
+            foreach (var product in result.Data)
+            {
+                Console.WriteLine(product.ProductName);
+            }
         }
     }
 }

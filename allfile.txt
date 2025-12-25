@@ -40,6 +40,8 @@ PROJECT TREE STRUCTURE
 │   │   │   └── b4a20a5b2d42c2196c2be855b104f01e626c35
 │   │   ├── 03
 │   │   │   └── 20b557d31c8e50a2b3af5e9ba75e6697bed180
+│   │   ├── 04
+│   │   │   └── 08558f892cb04aaedc3cf1a9d7abd12e2a8e75
 │   │   ├── 05
 │   │   │   └── bfaabaf4fffa0ac1f2e0ff18c7b3447ddc7279
 │   │   ├── 06
@@ -52,25 +54,35 @@ PROJECT TREE STRUCTURE
 │   │   ├── 0b
 │   │   │   └── b4945761f881e6145ba7786c456cd15d06e713
 │   │   ├── 0c
-│   │   │   └── 3243f399124347cf3c91e0d56af55a0d821028
+│   │   │   ├── 3243f399124347cf3c91e0d56af55a0d821028
+│   │   │   ├── 5d65ef4c1416efcb88e5f3142ace551d9ea3f0
+│   │   │   └── faa3aa9f3d065e7cb692cb1b432b357c086d8f
 │   │   ├── 0e
 │   │   │   ├── 06225429152589c42d5939f5b347962bbc9ec9
 │   │   │   └── 92e4b9e6d1a0df06e86b131555cb3163ddb41c
 │   │   ├── 10
-│   │   │   └── 656af706fccce7fce8fc865812377e6c9330bc
+│   │   │   ├── 5a800f7d090b4e0b089a575bfac29b9bd37f16
+│   │   │   ├── 656af706fccce7fce8fc865812377e6c9330bc
+│   │   │   └── b3140d4b8762a6fd319f37107bf9e7dfaffeed
 │   │   ├── 12
 │   │   │   ├── 3a0011889da5ef4132a17db3c5bb031261d87b
 │   │   │   ├── 5f4c93bc98c2ee5a8520de3a0017a6c86f5047
-│   │   │   └── 967ac64ba96007d241a0eb005e2a5f11fd4d4b
+│   │   │   ├── 967ac64ba96007d241a0eb005e2a5f11fd4d4b
+│   │   │   └── e9ef7a3503349d05e3daf942ca8cb59d5166d6
 │   │   ├── 13
+│   │   │   ├── 0165b5caf770cf6cab48f95fa04094332e18dc
 │   │   │   ├── 14b18e5a61d30bd08a3b0222e7c045346d8213
 │   │   │   └── 8f3fb6147172c564702266049122eb5d934596
 │   │   ├── 14
 │   │   │   └── d740afe4397ff74f44c4220eb8d24b533ce387
+│   │   ├── 15
+│   │   │   └── 0f8dc1e7c31607a633f7c26c27594eddf1b8a6
 │   │   ├── 17
-│   │   │   └── 4e694921961bba9575213452eac7950476c500
+│   │   │   ├── 4e694921961bba9575213452eac7950476c500
+│   │   │   └── 5b518217bed043716382226557259265028b89
 │   │   ├── 19
-│   │   │   └── 3a0edb9a347377731fac672210140065628bc7
+│   │   │   ├── 3a0edb9a347377731fac672210140065628bc7
+│   │   │   └── f775afa3cef9362dcfd2ae37fbeec6996b6414
 │   │   ├── 1a
 │   │   │   ├── bb503e20463eacad75677111a9fcb3c501420c
 │   │   │   └── d87185e27cf19f882d03c8768d56f83e10b4f7
@@ -92,15 +104,20 @@ PROJECT TREE STRUCTURE
 │   │   ├── 22
 │   │   │   └── 754679762c70fd9526f09b292c5047d94a0c0d
 │   │   ├── 25
-│   │   │   └── c79ffc775117fe5c3c51e81889097a410c8079
+│   │   │   ├── c79ffc775117fe5c3c51e81889097a410c8079
+│   │   │   └── e9c3ab3996291f3b280fc33a1f637470af863c
 │   │   ├── 26
-│   │   │   └── 18e545542b3209ebc61a983a9b51e093edf1b9
+│   │   │   ├── 18e545542b3209ebc61a983a9b51e093edf1b9
+│   │   │   ├── 46cb22bdae4c6385675b4b9c1823970a10ddc6
+│   │   │   └── f73ad1b05e7ed813cf3f5738d64989574aa4d7
 │   │   ├── 27
 │   │   │   └── b84e1c385e4e4dd6f25eee5fb78b8920386526
 │   │   ├── 28
 │   │   │   ├── 02a22929fa63df3a26080da926d2dc041004ba
 │   │   │   ├── 1549edc1845bbe618e527db687cbe9cb9ffafe
 │   │   │   └── 4fa00cbf989b4118d2ecc73a362e8581284bbc
+│   │   ├── 29
+│   │   │   └── 1243e11d859a3fb7dd5bc7687edd7c3d539d4e
 │   │   ├── 2b
 │   │   │   └── 25e3032b4a6e496e58bea1d737487e6a9566c0
 │   │   ├── 2e
@@ -110,6 +127,7 @@ PROJECT TREE STRUCTURE
 │   │   │   ├── 61763ca4997943c7b050cf1731797b7bd5d7d7
 │   │   │   ├── 9a573de53fc271fd812a782098cc249e38924e
 │   │   │   ├── b347dd227c9fb1ac4cd6f96ccd5383cef4e179
+│   │   │   ├── d4292cf9b2d32374094f50432c246edd7dc5f5
 │   │   │   └── e2396acc3ea2a03cf7efaa4f49725363c6ad8f
 │   │   ├── 30
 │   │   │   └── 5f362a017607227d8c2aba04751e677bbc5a05
@@ -117,6 +135,7 @@ PROJECT TREE STRUCTURE
 │   │   │   ├── 4ff8bf17bd55ed040f581c51bcaba68b38e78e
 │   │   │   └── e312b262a84b1d97a856210bbbb9845d5bc944
 │   │   ├── 33
+│   │   │   ├── 1afca56638ab93c04ca997787f664bb778ea29
 │   │   │   └── 842b33765efd835e4597c5b450a496b9ab8f83
 │   │   ├── 34
 │   │   │   └── 65c5f3e4a45d046295d13b4787285eebb2954f
@@ -163,31 +182,46 @@ PROJECT TREE STRUCTURE
 │   │   │   ├── 514ce0524b4c26798e5cb821e42d81420b13f8
 │   │   │   ├── 51d38a50d11b47b4fc5c0d8a5f234447602d29
 │   │   │   └── 663662445e149c3c6056573e220399b13ec2fe
+│   │   ├── 51
+│   │   │   └── 572486f30d93e1802aee72d26768fe365799c2
 │   │   ├── 53
-│   │   │   └── 16291ab71b8cf02b80f9ea5c5fea3e66b1cc7a
+│   │   │   ├── 16291ab71b8cf02b80f9ea5c5fea3e66b1cc7a
+│   │   │   ├── a60a2f88cfac1e9093b400225105eb043b927c
+│   │   │   └── fadf81e7c252a63d3fc66ac4d4abde80bb6731
 │   │   ├── 54
 │   │   │   ├── 0b67c2296edbaec4ec269167597c8a7a8a0689
 │   │   │   └── 337a056ffed656efad79920f2a8810591e8a17
 │   │   ├── 55
 │   │   │   ├── 0a1c299e853a317fef77583a8fb8d6e8fffa0e
+│   │   │   ├── 0d916fcd498e0e5b156b635ecf69ecdc2e0644
 │   │   │   ├── 7911844036c526eca2bc410c73dbc7063dd084
 │   │   │   ├── 8f601bb06df2be9c81b21859ab5c912fbc6342
 │   │   │   └── d353a1f8b8929005eb04d611b752edd6c83889
 │   │   ├── 56
-│   │   │   └── b101d4dee4e4f26ccd0afe314cbade802a1680
+│   │   │   ├── b101d4dee4e4f26ccd0afe314cbade802a1680
+│   │   │   ├── d825ba4a607e6dab2a7b8064f43e6c7d3f6b35
+│   │   │   └── ea05c0278b0b80d4a8cc8bdb207b0a1aafbafb
 │   │   ├── 57
 │   │   │   └── c0de9716ff64658a7324f1529ccb88f3247cfc
 │   │   ├── 58
-│   │   │   └── 7ff08e08a2cabd49c7aca506027d9dfba4ea6d
+│   │   │   ├── 7ff08e08a2cabd49c7aca506027d9dfba4ea6d
+│   │   │   └── eee9061e60e277f2298b568b689f02ae6d42bf
 │   │   ├── 5a
 │   │   │   ├── 7da03277800237cf0f8c55d6c1c6dd9494495d
 │   │   │   ├── c9d2f7ae9b32a89357e6b49f3698ee6f3a721e
 │   │   │   └── f0b4fefefe440e392c21df986209349d673b8d
 │   │   ├── 5b
-│   │   │   └── 58dad89551f8a2c9f9b0a91ff1b512c2fe31fc
+│   │   │   ├── 58dad89551f8a2c9f9b0a91ff1b512c2fe31fc
+│   │   │   └── a83a1e8b9b384d3b85fd2c9eea3b3587f93b49
+│   │   ├── 5c
+│   │   │   └── 742c5961f26643c646d465a31dd16b155ccf7b
 │   │   ├── 5d
 │   │   │   └── 89aee6a1b1f85f193f2f207c5330b0c58b5428
+│   │   ├── 5e
+│   │   │   └── 03ead209b265d243d9cdfbbd06c233ac9f75ec
 │   │   ├── 60
+│   │   │   ├── 49a7755e42bae6d4cb311c3e10d41c0b9927cd
+│   │   │   ├── 6eb0733979a28f24313ccb9ecd2514ed7b21fd
 │   │   │   └── b30d2fb2cafa4874213eb095b407d2c8f8435d
 │   │   ├── 61
 │   │   │   └── 164efd6c15efa0fc3a2de811f53d0d46ce3bb7
@@ -201,6 +235,7 @@ PROJECT TREE STRUCTURE
 │   │   │   ├── 9dc20d22a866037d148007a3e81d5a67b6ff02
 │   │   │   └── b64072bced91559644119e09cc79dbc29a8c20
 │   │   ├── 68
+│   │   │   ├── 9435e5bb7e6bf3ebdb229ba47324b8c07cdbd8
 │   │   │   └── ba0a74de85b19358743c73b0fb81f079e9c507
 │   │   ├── 6a
 │   │   │   ├── 30c8b10b683af8ee59fe8bff445e1c97ea5380
@@ -213,35 +248,50 @@ PROJECT TREE STRUCTURE
 │   │   │   ├── 0d919cc155143ddc2bee48e6400a4a52811f96
 │   │   │   ├── 4b162f0b985ed657d574bc9ff5727d60c5a023
 │   │   │   ├── 58ea1f9ae25b25c00ba58363f5449136ce2b85
+│   │   │   ├── 70095f50103262afc93a7f4ecb5a55ed805b42
 │   │   │   └── 94d452fac36436195647e57d425ac36b3d95e6
+│   │   ├── 6f
+│   │   │   └── 327b90413499d525c1267b14a280c3a5427024
 │   │   ├── 70
 │   │   │   └── 36f3d20a023a7a141c0036fa1de84fcc5af54e
 │   │   ├── 71
 │   │   │   └── d34449c0e1ab9257c099fca4bb76358cb0cecb
+│   │   ├── 72
+│   │   │   └── b8c1cecba1d39804660b2794d5e1542268153a
 │   │   ├── 74
 │   │   │   ├── 21223e5bfb5b3c49fc456f3f86cf464ef0e3f5
-│   │   │   └── d26dadeecdb19a7bef3ed9d05989927d53d9be
+│   │   │   ├── d26dadeecdb19a7bef3ed9d05989927d53d9be
+│   │   │   └── feb968ddfac204f6706f05259025c2165ab621
 │   │   ├── 75
+│   │   │   ├── 0685fba78914a2cc8aa690b3e6853557436f3a
 │   │   │   ├── 19cc4bcc1723f2bb769684bd1170b4e84ee6f3
+│   │   │   ├── 1cf38fd7a340ee385a5c633a97047cedbdce4f
+│   │   │   ├── 43da44e88401be7f75147e0c0ae4c475a330a5
 │   │   │   └── f34adbbfa298ac1ed50107e7e019dbfe6750c6
 │   │   ├── 78
 │   │   │   ├── 317e51ac391503758ad67598d61ee21dc9708d
 │   │   │   └── cb82efb39295a77447f3aab7deabdfd14c38b2
 │   │   ├── 7c
+│   │   │   ├── 4ae240611f5a4f26e83b4fc88a0c08076289dd
 │   │   │   └── b067ec626d8204ad455aa0d4dfff6ee4acae48
 │   │   ├── 7d
+│   │   │   ├── 3e84ec139255923d76ca90a543906e69e13c36
 │   │   │   └── b934507e740ad178b873a402a06e91f82191f1
 │   │   ├── 7e
 │   │   │   └── 0986b06dcfa83fa04022030321fbd93b95e5d8
+│   │   ├── 7f
+│   │   │   └── 18399db8ec7689b46360ca2ca6cd42ad828432
 │   │   ├── 80
 │   │   │   ├── 3c4653fe43742f96ec295580c1c5bd64256c13
-│   │   │   └── 9bdcf9e1bccfd9d576ba0d68f97bbb00d475b0
+│   │   │   ├── 9bdcf9e1bccfd9d576ba0d68f97bbb00d475b0
+│   │   │   └── f18dc41dc7c7d805d1ea75206b0c4c0ad85e34
 │   │   ├── 83
 │   │   │   └── f117c72c7836b321d0ab56dc90cea50678e789
 │   │   ├── 85
 │   │   │   ├── 319188779cf0783d5fad7823a7f0c1a5102c11
 │   │   │   └── 416871ab8a3c10d350e6a07a1d2d330ace06a4
 │   │   ├── 87
+│   │   │   ├── 6e15640df76996280eb269715d72d6057831dd
 │   │   │   ├── 8d8dbfb57e4f3abfaca29c0a9d51109fd75231
 │   │   │   └── a0d21bac342a2eca9997f9a1be3b5df7e477a1
 │   │   ├── 88
@@ -253,8 +303,13 @@ PROJECT TREE STRUCTURE
 │   │   │   └── e244851df9e085cbfa22c1b8eeea15ae3c57a0
 │   │   ├── 8c
 │   │   │   └── f86bbc6fbb4424f1d5349bca38147967be4e26
+│   │   ├── 8e
+│   │   │   └── 4eff87f65e581eb675213c50191ed763e2df94
+│   │   ├── 8f
+│   │   │   └── 8359f22fa97d26572a62f9373dedce2b44d24e
 │   │   ├── 90
 │   │   │   ├── 2ca10c3af3ecd3df639c1edbb499f4c35e0d04
+│   │   │   ├── 76c182a73a99aa1c31ee717f8061c4b69fe18d
 │   │   │   └── 9282f4429d8f2dc1a0b87ca183b55541de63e7
 │   │   ├── 91
 │   │   │   ├── 00c84c3fc86f12ef015c9c50705ad1da916ef4
@@ -263,23 +318,29 @@ PROJECT TREE STRUCTURE
 │   │   │   ├── 606d2144776dfd22c4876babc78a8c5eecbca6
 │   │   │   └── a79ed8225193f03477574b6dda2992617572d8
 │   │   ├── 98
-│   │   │   └── 4f4cffeb6dbdf7a8813b213148707b13243144
+│   │   │   ├── 4f4cffeb6dbdf7a8813b213148707b13243144
+│   │   │   └── 933d52318679abab4b2cdb894e05d02b248921
 │   │   ├── 99
-│   │   │   └── cc92e1aee5e82c6bf7949cd58977aa66cd2c1f
+│   │   │   ├── cc92e1aee5e82c6bf7949cd58977aa66cd2c1f
+│   │   │   └── e308c3c27b2c77b3f51403983ac86db39e2b4d
 │   │   ├── 9a
 │   │   │   ├── 3434e04d29d94523742cebc9b743dfbf569061
 │   │   │   └── 42207ed8dc09e964594803dde042a500c9fe21
 │   │   ├── 9c
 │   │   │   ├── 4744041c5cf1897b7b34d81ade047f85b83a59
-│   │   │   └── 889f31b1f07cf0ca05c637dafc52b5d1102e62
+│   │   │   ├── 889f31b1f07cf0ca05c637dafc52b5d1102e62
+│   │   │   └── 8e31d9f79a73a33faddc63a66ac6f7eb159fd7
 │   │   ├── 9d
 │   │   │   ├── 5e7db0d5841879a04328d170d20f077c2ba053
 │   │   │   └── 7eef195ff17c7492248f2d537877fbfe3e97cf
 │   │   ├── 9e
+│   │   │   ├── 8fb10b4e7429d0eb89cabefe3f17374c00af29
 │   │   │   └── ff79f8f1f89cea8a82f15f0badabb8707ac469
 │   │   ├── a0
-│   │   │   └── d96e1e13ae12bbb96da224df22f1b0b46b0ed8
+│   │   │   ├── d96e1e13ae12bbb96da224df22f1b0b46b0ed8
+│   │   │   └── fcf8c82e93c83cb40e4c92c913063b67e42fb5
 │   │   ├── a1
+│   │   │   ├── d1d578350d8c5621a23f4762ec736f85f736ba
 │   │   │   └── d44ee32deeefdb4d62af00626f204e90c0ca08
 │   │   ├── a2
 │   │   │   └── adbe235bb0b209978046f86087658b5df8beac
@@ -287,14 +348,18 @@ PROJECT TREE STRUCTURE
 │   │   │   ├── 1d65980c298cba813951b7881e33803ddd063f
 │   │   │   └── 8f45785ebb463bbf9b1495cd48913cadf014ae
 │   │   ├── a8
-│   │   │   └── a5a342588fde0e306848579a53a1526cb92510
+│   │   │   ├── a5a342588fde0e306848579a53a1526cb92510
+│   │   │   └── dc204f03f04252c21da29dee306daf08849436
 │   │   ├── a9
-│   │   │   └── c3ac2a395dfce542ebd263f699c7d9901e348a
+│   │   │   ├── c3ac2a395dfce542ebd263f699c7d9901e348a
+│   │   │   └── dfc66c16910429c62453050fa027b7f518e8dd
 │   │   ├── aa
+│   │   │   ├── 1f7a3f03af8eb21299dc075ba14b2939dbbbd5
 │   │   │   └── 6b76f36ec75efa0fcbe84482cc1a498f853b92
 │   │   ├── ab
 │   │   │   └── e7e360a8489f4f837b2f307112be5cd4c4aaf4
 │   │   ├── ac
+│   │   │   ├── 548a94219ad6c35c7e16da8c3af2f2d6b964b5
 │   │   │   └── 567c54ade620b91a2f989fa72451997f57c016
 │   │   ├── ad
 │   │   │   └── cc97f9247e9f77965d40ef6e211d614f0ee727
@@ -304,6 +369,7 @@ PROJECT TREE STRUCTURE
 │   │   │   └── c533af5770a10cabb391e4d72a10b1e375f7e5
 │   │   ├── b2
 │   │   │   ├── 2d7cb3a1ae8c7750d5edecea2b6c08fa47c1e3
+│   │   │   ├── 6f56831ee19321f4afb882f363d282ef20ae66
 │   │   │   └── e813d37a38a55f5ac149a7efe945deb1cc35fd
 │   │   ├── b3
 │   │   │   └── e2a7bcbbea9b184fd8bc1c0a86e41b838668e3
@@ -336,25 +402,32 @@ PROJECT TREE STRUCTURE
 │   │   │   └── 9299b26e53ccaa84d6ef5bf17d2cb5530425e3
 │   │   ├── c5
 │   │   │   ├── 63dbc9cf8abc8d3a9c9cd48cc8d8fd357feb1b
+│   │   │   ├── 6789225b045424d361f7550848e0761ca39d2d
 │   │   │   ├── 8d22deef74edc170c42d9bce04993aea49f02f
 │   │   │   └── c3bac08b32d3daf1c2efeb475bd3f98696d623
 │   │   ├── c6
 │   │   │   └── ada7c8f2190f2148fd87aeac34fb6ddf50f224
+│   │   ├── c7
+│   │   │   └── c2906fb97f202a81d82bdfe7ad5cd5b263da20
 │   │   ├── c8
 │   │   │   └── 692fe26992ceb6466d15adf46f2c7facde5625
 │   │   ├── c9
 │   │   │   └── a5291418f84a96b771cfa467cf9a78508a6b96
 │   │   ├── ca
 │   │   │   └── b06977ac1fd1792b19b2c81ff516606d136b3d
+│   │   ├── cc
+│   │   │   └── 339a05cda477a527ccb52c301f0a442e8acd90
 │   │   ├── ce
 │   │   │   ├── f86146ae62cd9d8811cfbcd5a593ba9d6d2904
 │   │   │   └── f8cca22c1555ddbcdb0afe925a7dcfb6da8787
 │   │   ├── d1
-│   │   │   └── 12c56162898c2b0eb3b9a64c4f58f5f27e6ca7
+│   │   │   ├── 12c56162898c2b0eb3b9a64c4f58f5f27e6ca7
+│   │   │   └── f3d25b79bcffebcfc9617eb9ef2a8db635788c
 │   │   ├── d2
 │   │   │   ├── 6408c5cfea5290decbf7f748c3d3503981ea61
 │   │   │   └── d34d7846cff5ccf81c33273abd2291182fb85b
 │   │   ├── d4
+│   │   │   ├── 9f84f12fd5fc3b677bef2b670107647d44430c
 │   │   │   └── a8145ad1e29f4db1cc14e71dddb824952e097a
 │   │   ├── d5
 │   │   │   ├── 6a5a65c02ee1fde0f5ebeb309429b031722bc9
@@ -365,11 +438,14 @@ PROJECT TREE STRUCTURE
 │   │   │   └── 9c89f70cb89f58c0ffb9d153ddddf76fe09d09
 │   │   ├── d9
 │   │   │   └── a6a151757243d2773c20cf4859d0e3efe3dc57
+│   │   ├── da
+│   │   │   └── 4f1e4113266f515c54351c2bb5c47aefbb9b1d
 │   │   ├── db
 │   │   │   ├── 2eeb02fec79f0b1cfc5aad28f55d99cc078521
 │   │   │   ├── 373748500330e937ca265d305d94036093525c
 │   │   │   └── dcea46b6e2047549bb86fc8f27032d25c0611f
 │   │   ├── de
+│   │   │   ├── 4a8a7ee305f6dbe97a55c65a9ba526ed812b2e
 │   │   │   ├── 559683693ac5eff44be42f9dfdf4ea17b73a9f
 │   │   │   ├── 7d885a568dfc23bd653659135b2e8ca1252eb7
 │   │   │   └── e967dae9c0cb2740d864fa2302d77f21c552ef
@@ -378,10 +454,14 @@ PROJECT TREE STRUCTURE
 │   │   ├── e5
 │   │   │   └── e304531ef3dd49228e4086981813c9ba82ab41
 │   │   ├── e6
+│   │   │   ├── 2bdf529f3a2188b27d34c6ca23ed4f1dd05457
 │   │   │   ├── 9de29bb2d1d6434b8b29ae775ad8c2e48c5391
 │   │   │   ├── f24d6c6d4792218169659b39798f6d4820f4b4
 │   │   │   └── fceb5363e602ee49fdcac7e913f1e06cae913d
+│   │   ├── e7
+│   │   │   └── d4ebf60ed74b19a8166b43d7fbeb9d201356b1
 │   │   ├── e8
+│   │   │   ├── 0975ef6f1949fb8787cc92b990453893b8a6a0
 │   │   │   ├── 286e325209aa59652dc93b9c8976f9e27620d6
 │   │   │   └── 50da55df3d84e2c9f23cf03405007ba75d3304
 │   │   ├── eb
@@ -416,18 +496,23 @@ PROJECT TREE STRUCTURE
 │   │   │   └── eab4b75c928258d021b92cbed674f3470e967b
 │   │   ├── f6
 │   │   │   ├── 63353b7f1327012d17a87884e3cd7ba5d5bb59
+│   │   │   ├── 77f079e757de39729a2c33075d214dc07f2bcc
 │   │   │   └── bb48f184c90c149f8e858b7fda17b6cc635bc6
 │   │   ├── f8
+│   │   │   ├── 6d9414fa396673e17908d23f74bbb14b085ba5
 │   │   │   ├── 7edd3f81319a05b1355e89456bf7d2a26e88d8
 │   │   │   └── e4fee0c574ccfb8bdbda1a9f1ac597c89a17b7
 │   │   ├── fa
+│   │   │   ├── 1adf5ab199b6391172072a35c1be406b12f36c
 │   │   │   ├── 1ed8ac67a3d61a1cadccb87c0d0c39869ba4d4
 │   │   │   ├── 71b7ae6a34999a3f96c40d9a0b870b311d11dd
 │   │   │   └── 8dd944fa96b5541664866508872485129cc648
 │   │   ├── fb
-│   │   │   └── 204416cfcafd4926527a03a8421106f95d01ca
+│   │   │   ├── 204416cfcafd4926527a03a8421106f95d01ca
+│   │   │   └── 454c0303a69319c763389fd69e261cedb5916c
 │   │   ├── fd
-│   │   │   └── 4bd08da298721707dc853bf68fa85398f32f27
+│   │   │   ├── 4bd08da298721707dc853bf68fa85398f32f27
+│   │   │   └── 4ecde6a8895c246fb10d546cdb62eb917a5b3e
 │   │   ├── info
 │   │   └── pack
 │   └── refs
@@ -449,9 +534,11 @@ PROJECT TREE STRUCTURE
 │       └── myfinalproject.strings.v9.bin
 ├── Business
 │   ├── Abstract
+│   │   ├── IOrderService.cs
 │   │   └── IProductService.cs
 │   ├── Business.csproj
 │   ├── Concrete
+│   │   ├── OrderManager.cs
 │   │   └── ProductManager.cs
 ├── ConsoleUI
 │   ├── ConsoleUI.csproj
@@ -464,15 +551,18 @@ PROJECT TREE STRUCTURE
 │   │   │   └── EfEntityRepositoryBase.cs
 │   │   └── IEntityRepository.cs
 │   ├── Entities
+│   │   ├── IDto.cs
 │   │   └── IEntity.cs
 ├── DataAccess
 │   ├── Abstract
 │   │   ├── ICategoryDal.cs
 │   │   ├── ICustomerDal.cs
+│   │   ├── IOrderDal.cs
 │   │   └── IProductDal.cs
 │   ├── Concrete
 │   │   ├── EntityFramework
 │   │   │   ├── EFCategoryDal.cs
+│   │   │   ├── EFOrderDal.cs
 │   │   │   ├── EFProductDal.cs
 │   │   │   └── NorthwindContext.cs
 │   │   └── InMemory
@@ -483,7 +573,10 @@ PROJECT TREE STRUCTURE
 │   ├── Concrete
 │   │   ├── Category.cs
 │   │   ├── Customer.cs
+│   │   ├── Order.cs
 │   │   └── Product.cs
+│   ├── DTOs
+│   │   └── ProductDetailDto.cs
 │   ├── Entities.csproj
 ├── MyFinalProject.sln
 ├── Test.cs
@@ -1086,7 +1179,7 @@ Console.WriteLine("Hello, World!");
 ================================================================================
 FILE: .\.git\COMMIT_EDITMSG
 ================================================================================
-Refactor project structure to core and update target framework to net8.0
+Dto initilize
 
 
 ================================================================================
@@ -1116,7 +1209,7 @@ Unnamed repository; edit this file 'description' to name the repository.
 ================================================================================
 FILE: .\.git\FETCH_HEAD
 ================================================================================
-5af0b4fefefe440e392c21df986209349d673b8d		branch 'main' of https://github.com/AbdurrahimOzagac/YGYKMyFinalProject
+f86d9414fa396673e17908d23f74bbb14b085ba5		branch 'main' of https://github.com/AbdurrahimOzagac/YGYKMyFinalProject
 
 
 ================================================================================
@@ -1128,44 +1221,45 @@ ref: refs/heads/main
 ================================================================================
 FILE: .\.git\index
 ================================================================================
-DIRC      i$10i$1e                     xG/![XG 
+DIRC      "i$10i$1e                     xG/![XG 
 .gitignore        i44^/
 i47~                    
 ~	mϨ?@"!; 
-AllCode.py        ipVOPi4D                    3;56 8Z2o $Business/Abstract/IProductService.cs      i&whi$Z4V                    s旧V<9 Business/Business.csproj  irR Si%8C                    iGYeHvNJkf}
-/ #Business/Concrete/ProductManager.cs       i0ؼi$[c                    ۚB ~	dYHB ! ConsoleUI/ConsoleUI.csproj        i0ؼi4K                    O
-%:Ҧl^V ConsoleUI/Program.cs      i4",i4",                     SD6LIr
+AllCode.py        i?˗*Ϡi?7
+P                     {^	eC3u "Business/Abstract/IOrderService.cs        ipVOPi@'*                    Mu̊5WCo: $Business/Abstract/IProductService.cs      i&whi$Z4V                    s旧V<9 Business/Business.csproj  i?̕,i?@6                    `ns9y$1<˞%{! !Business/Concrete/OrderManager.cs irR SiD :                    oV!c҂ f #Business/Concrete/ProductManager.cs       i0ؼi$[c                    ۚB ~	dYHB ! ConsoleUI/ConsoleUI.csproj        i0ؼiD VL                    )C?[h~|=SN ConsoleUI/Program.cs      i4",i4",                     SD6LIr
 
-hɣ Core/Class1.cs    i4",i4$w)                     V|T /$QW Core/Core.csproj  i40i4 v-                     nú2G[# 9Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs iD9`Hi4%d                    e)9Q3=? $Core/DataAccess/IEntityRepository.cs      i#.Pi4Iz&v˰                     WjZe.0)1r+ Core/Entities/IEntity.cs  i
-7i4+                     ;~Z|)[& #DataAccess/Abstract/ICategoryDal.cs       i/$ѻi4/wl                     =GG]h2 #DataAccess/Abstract/ICustomerDal.cs       i0i4<                     .ǟZ(]! "DataAccess/Abstract/IProductDal.cs        i, i$^0L                    OUy@6&좼As=Є 4DataAccess/Concrete/EntityFramework/EFCategoryDal.cs      i6Di%z3R4                    @9OD"KS< 3DataAccess/Concrete/EntityFramework/EFProductDal.cs       i$_!ni%01H                    
-ǳD}ry 7DataAccess/Concrete/EntityFramework/NorthwindContext.cs   iAiT s                    7NN[;$ 2DataAccess/Concrete/InMemory/InMemoryProductDal.cs        i5Ii4J:0                    {1wx=_x#, DataAccess/DataAccess.csproj      i"7|i4M !-                     x1~Q9uup Entities/Concrete/Category.cs     if.i4L#                     A)hYOڽF Entities/Concrete/Customer.cs     ilpi4L.+(                    bVl
-1Lހ* Entities/Concrete/Product.cs      i92(i4LL)
+hɣ Core/Class1.cs    i4",i5I"                    N樉\$o
+Tlbz[> Core/Core.csproj  i40i?5h                    V%J`~m*{d>l}?k5 9Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs iD9`Hi?                    z54BʌQf $Core/DataAccess/IEntityRepository.cs      i?i?)H<                     =/),#t	OPC,$n} Core/Entities/IDto.cs     i#.Pi?Ӥ0m4                     S|J@aZO&;OȊb Core/Entities/IEntity.cs  i
+7i?'ި                     z?[K)9ۻ #DataAccess/Abstract/ICategoryDal.cs       i/$ѻi4/wl                     =GG]h2 #DataAccess/Abstract/ICustomerDal.cs       i?ʋ8Di?,)                     	uoI̒E8  DataAccess/Abstract/IOrderDal.cs  i0iD  |                     3l'YN "DataAccess/Abstract/IProductDal.cs        i, i?t080                    eplH_@3. 4DataAccess/Concrete/EntityFramework/EFCategoryDal.cs      i?*Zli?	V                    v:1qaĶ 1DataAccess/Concrete/EntityFramework/EFOrderDal.cs i6DiC-                    [:8M;,;5;I 3DataAccess/Concrete/EntityFramework/EFProductDal.cs       i$_!ni?:e                    !`Iu^B1>' 7DataAccess/Concrete/EntityFramework/NorthwindContext.cs   iAi@1T                    	orˡӘf'T"h: 2DataAccess/Concrete/InMemory/InMemoryProductDal.cs        i5Ii4J:0                    {1wx=_x#, DataAccess/DataAccess.csproj      i"7|i4M !-                     x1~Q9uup Entities/Concrete/Category.cs     if.i4L#                     A)hYOڽF Entities/Concrete/Customer.cs     i?s\i?c                     #N^Xu!<Pcߔ Entities/Concrete/Order.cs        ilpiC*6K                    bVl
+1Lހ* Entities/Concrete/Product.cs      i?|i@ l`                    u6-Ү7ƙkd !Entities/DTOs/ProductDetailDto.cs i92(i4LL)
 h                    ,h
-tޅXt<sy Entities/Entities.csproj  i	Zi4#8                    ! U*AQlS;b MyFinalProject.sln        iz+]i)ˡx                     #:ۚ4swsg" eb Test.cs   i44eWi47	N
-                   P> F>ugqB allfile.txt       TREE   27 5
-:)a[lCore 5 2
-
-[-Bl+Ubl5Entities 1 0
- DI&RzB]DataAccess 2 1
-}4P~t
-xsn!EntityFramework 1 0
-"Q4wWKm)aurBusiness 3 2
-ѠkU1cݴAbstract 1 0
-sVZ_Concrete 1 0
-̒,kՉwf,Entities 4 1
-7YѰbg?kGKConcrete 3 0
-iNQ,y ׊2ConsoleUI 2 0
-3+3v^^EŴPDataAccess 8 2
-ʰiwy+`mk=Abstract 3 0
-'N8^NM^_ 8e&Concrete 4 2
-tmͱ{>Y}SپInMemory 1 0
-wgvQ EntityFramework 3 0
-+$4 m!vl]փ?zDo 
+tޅXt<sy Entities/Entities.csproj  i	Zi4#8                    ! U*AQlS;b MyFinalProject.sln        iz+]i)ˡx                     #:ۚ4swsg" eb Test.cs   i44eWi>7P8h                   ;}>U=vʐCni<6 allfile.txt       TREE  6 34 5
+X`w)VhmBCore 6 2
+l)$S'Entities 2 0
+wyW9r,3]!M+DataAccess 2 1
+ELc8֞&lEntityFramework 1 0
+[ya~*5xBusiness 5 2
+Nt)ʾ?7L )Abstract 2 0
+mp	_P2b:NZU[BConcrete 2 0
+J~zUZ&+.Entities 6 2
+3ͤw'̵,0
+D.͐DTOs 1 0
+U
+oI[kc^i.DConcrete 4 0
+T!\~ڌ:ֹdConsoleUI 2 0
+.<L;g/DataAccess 10 2
+thpo%%Z!Abstract 4 0
+U,J<׫.*uConcrete 5 2
+[QCqc"eW%eInMemory 1 0
+
+Kb17{߯EntityFramework 4 0
+&F"Lcg[K#
+ֈn#RU2a
 
 ================================================================================
 FILE: .\.git\ORIG_HEAD
 ================================================================================
-5b58dad89551f8a2c9f9b0a91ff1b512c2fe31fc
+53fadf81e7c252a63d3fc66ac4d4abde80bb6731
 
 
 ================================================================================
@@ -2132,6 +2226,10 @@ f663353b7f1327012d17a87884e3cd7ba5d5bb59 d112c56162898c2b0eb3b9a64c4f58f5f27e6ca
 d112c56162898c2b0eb3b9a64c4f58f5f27e6ca7 5af0b4fefefe440e392c21df986209349d673b8d AbdurrahimOzagac <abdozagac@gmail.com> 1765026185 +0300	commit: Core added
 5af0b4fefefe440e392c21df986209349d673b8d a1d44ee32deeefdb4d62af00626f204e90c0ca08 AbdurrahimOzagac <abdozagac@gmail.com> 1765031707 +0300	commit: AllCode to txt added
 a1d44ee32deeefdb4d62af00626f204e90c0ca08 5b58dad89551f8a2c9f9b0a91ff1b512c2fe31fc AbdurrahimOzagac <abdozagac@gmail.com> 1765099351 +0300	commit: Refactor project structure to core and update target framework to net8.0
+5b58dad89551f8a2c9f9b0a91ff1b512c2fe31fc 56ea05c0278b0b80d4a8cc8bdb207b0a1aafbafb AbdurrahimOzagac <abdozagac@gmail.com> 1765712303 +0300	commit: 9:1.24.3
+56ea05c0278b0b80d4a8cc8bdb207b0a1aafbafb f86d9414fa396673e17908d23f74bbb14b085ba5 AbdurrahimOzagac <abdozagac@gmail.com> 1765795011 +0300	commit: Order entity add
+f86d9414fa396673e17908d23f74bbb14b085ba5 53fadf81e7c252a63d3fc66ac4d4abde80bb6731 AbdurrahimOzagac <abdozagac@gmail.com> 1765798591 +0300	commit: System.cw to cw
+53fadf81e7c252a63d3fc66ac4d4abde80bb6731 c56789225b045424d361f7550848e0761ca39d2d AbdurrahimOzagac <abdozagac@gmail.com> 1766064700 +0300	commit: Dto initilize
 
 
 ================================================================================
@@ -2148,6 +2246,10 @@ f663353b7f1327012d17a87884e3cd7ba5d5bb59 d112c56162898c2b0eb3b9a64c4f58f5f27e6ca
 d112c56162898c2b0eb3b9a64c4f58f5f27e6ca7 5af0b4fefefe440e392c21df986209349d673b8d AbdurrahimOzagac <abdozagac@gmail.com> 1765026185 +0300	commit: Core added
 5af0b4fefefe440e392c21df986209349d673b8d a1d44ee32deeefdb4d62af00626f204e90c0ca08 AbdurrahimOzagac <abdozagac@gmail.com> 1765031707 +0300	commit: AllCode to txt added
 a1d44ee32deeefdb4d62af00626f204e90c0ca08 5b58dad89551f8a2c9f9b0a91ff1b512c2fe31fc AbdurrahimOzagac <abdozagac@gmail.com> 1765099351 +0300	commit: Refactor project structure to core and update target framework to net8.0
+5b58dad89551f8a2c9f9b0a91ff1b512c2fe31fc 56ea05c0278b0b80d4a8cc8bdb207b0a1aafbafb AbdurrahimOzagac <abdozagac@gmail.com> 1765712303 +0300	commit: 9:1.24.3
+56ea05c0278b0b80d4a8cc8bdb207b0a1aafbafb f86d9414fa396673e17908d23f74bbb14b085ba5 AbdurrahimOzagac <abdozagac@gmail.com> 1765795011 +0300	commit: Order entity add
+f86d9414fa396673e17908d23f74bbb14b085ba5 53fadf81e7c252a63d3fc66ac4d4abde80bb6731 AbdurrahimOzagac <abdozagac@gmail.com> 1765798591 +0300	commit: System.cw to cw
+53fadf81e7c252a63d3fc66ac4d4abde80bb6731 c56789225b045424d361f7550848e0761ca39d2d AbdurrahimOzagac <abdozagac@gmail.com> 1766064700 +0300	commit: Dto initilize
 
 
 ================================================================================
@@ -2162,6 +2264,10 @@ c8692fe26992ceb6466d15adf46f2c7facde5625 f663353b7f1327012d17a87884e3cd7ba5d5bb5
 f663353b7f1327012d17a87884e3cd7ba5d5bb59 d112c56162898c2b0eb3b9a64c4f58f5f27e6ca7 AbdurrahimOzagac <abdozagac@gmail.com> 1764076407 +0300	update by push
 d112c56162898c2b0eb3b9a64c4f58f5f27e6ca7 5af0b4fefefe440e392c21df986209349d673b8d AbdurrahimOzagac <abdozagac@gmail.com> 1765026190 +0300	update by push
 5af0b4fefefe440e392c21df986209349d673b8d 5b58dad89551f8a2c9f9b0a91ff1b512c2fe31fc AbdurrahimOzagac <abdozagac@gmail.com> 1765099358 +0300	update by push
+5b58dad89551f8a2c9f9b0a91ff1b512c2fe31fc 56ea05c0278b0b80d4a8cc8bdb207b0a1aafbafb AbdurrahimOzagac <abdozagac@gmail.com> 1765712313 +0300	update by push
+56ea05c0278b0b80d4a8cc8bdb207b0a1aafbafb f86d9414fa396673e17908d23f74bbb14b085ba5 AbdurrahimOzagac <abdozagac@gmail.com> 1765795015 +0300	update by push
+f86d9414fa396673e17908d23f74bbb14b085ba5 53fadf81e7c252a63d3fc66ac4d4abde80bb6731 AbdurrahimOzagac <abdozagac@gmail.com> 1765798595 +0300	update by push
+53fadf81e7c252a63d3fc66ac4d4abde80bb6731 c56789225b045424d361f7550848e0761ca39d2d AbdurrahimOzagac <abdozagac@gmail.com> 1766064716 +0300	update by push
 
 
 ================================================================================
@@ -2174,6 +2280,12 @@ x+)JMU04`040031QpI,.6K.fp9~~h9(((?aMXMg
 FILE: .\.git\objects\03\20b557d31c8e50a2b3af5e9ba75e6697bed180
 ================================================================================
 x+)JMU01e040031Q(O)M.MKLO-K.fHPi.8T>4G ?
+
+================================================================================
+FILE: .\.git\objects\04\08558f892cb04aaedc3cf1a9d7abd12e2a8e75
+================================================================================
+x+)JMU04`040031QtN,IM/tIK.fX%_eϼo;5-o
+WZZ\ZUʱw-ug!4Կ(g|Ig&j1yǲ0uE)%PE{>?,ƾHw, ZC
 
 ================================================================================
 FILE: .\.git\objects\05\bfaabaf4fffa0ac1f2e0ff18c7b3447ddc7279
@@ -2220,6 +2332,18 @@ x+)JMU022g040031QK,L/JeS.QGŻ_Gl湻(8g3$;
 -X^㶦B/[^B8礆z2Ld8c"_=c̜&}qI,ItLN`ϹDІGC ]ZpuFc\P6s2PGVe%g&1|5﨔Țf&a% O$[
 
 ================================================================================
+FILE: .\.git\objects\0c\5d65ef4c1416efcb88e5f3142ace551d9ea3f0
+================================================================================
+x+)JMU04`040031QpI,.6K.fp9~~h9(((?g+:cT7Nz=* \KSJohaW_*RHbEy%%\ΟTżIg,) D<v
+
+================================================================================
+FILE: .\.git\objects\0c\faa3aa9f3d065e7cb692cb1b432b357c086d8f
+================================================================================
+x+)JMU067`040031QK,L/JeS.QGŻ_Gl;TcNs~J^A%Cgۆ+8(13+i=
+ Pp*-K-.f8~hBz)Ds~^q~Nj'Uo*<Dyھ05@KXsKr)eg6A]KA)좹rsL1(r+z+!0\3
+Z.g3y'J̼Ĝ<w]\%t0ծ`$YP!%zV|g˯IWaHM>UWRQPkFxR$۲S:O|hc 
+
+================================================================================
 FILE: .\.git\objects\0e\06225429152589c42d5939f5b347962bbc9ec9
 ================================================================================
 xT]k0ݳťO`ciBgYNTɓ>ɒҒ%Ҏɒ:G%}Û
@@ -2232,9 +2356,23 @@ x+)JMU044f01 Ǥ⒢bՓ/*,jb7
 LLJ3RdM_~c'IŶbs~^rQjI*3{B'9W;WՑ #2
 
 ================================================================================
+FILE: .\.git\objects\10\5a800f7d090b4e0b089a575bfac29b9bd37f16
+================================================================================
+x}
+@s4!0=:+c$ủ|?2NplĄ!Ν!l1tR#d3TRx!
+d}=â5?Iゾt7
+|Zȩ16Yԯ6䒱q~(h5aK?Gq%5/4R(
+
+================================================================================
 FILE: .\.git\objects\10\656af706fccce7fce8fc865812377e6c9330bc
 ================================================================================
 x+)JMU044e01 Ǥ⒢K5E$~xM^x~IY] JRKR$hq>&5jvo?440031QpI,ItLNN-.K..(b0z,)iaܻwFt %n/
+
+================================================================================
+FILE: .\.git\objects\10\b3140d4b8762a6fd319f37107bf9e7dfaffeed
+================================================================================
+x+)JMU0d040031QM/(O)M.qIK.f(q酗gqO0D)C
+ 1tV
 
 ================================================================================
 FILE: .\.git\objects\12\3a0011889da5ef4132a17db3c5bb031261d87b
@@ -2251,6 +2389,20 @@ FILE: .\.git\objects\12\967ac64ba96007d241a0eb005e2a5f11fd4d4b
 ================================================================================
 x+)JMU044f01 Ǥ⒢s?,
 6׿IQjo(qK.J-Ieِ&)ekԂ+=YD5$$3X/(?WuY&3gO;;PV. +2
+
+================================================================================
+FILE: .\.git\objects\12\e9ef7a3503349d05e3daf942ca8cb59d5166d6
+================================================================================
+xJ0SJABvL%1'uw)LDE ?Iˮۛ^Ⱦ wsu~*M$gX@"!^>}@;XlH8^*w(^,uԵ1J|2 1lSq'N(0M7
+܁a-R9Xg0sCX3g?,zk&9*cl<4I;>uPw] w:xQ 9;
+
+================================================================================
+FILE: .\.git\objects\13\0165b5caf770cf6cab48f95fa04094332e18dc
+================================================================================
+xeM
+1F]9tAEA\	25jq3w8{_T`2l=5zg]]z59
+HNe>ܒc+F&,μ3J
+O0>052CQf(tϱyq~:PJ\oi1}ӺS,d5mz)oe
 
 ================================================================================
 FILE: .\.git\objects\13\14b18e5a61d30bd08a3b0222e7c045346d8213
@@ -2271,15 +2423,34 @@ xTM0ٿBGPXݤ(ݶ=$U$W'1%:z>KPfhӼIKػo햭S!l\JIiMhaQgJMQK /S{8:c<%E!
 mt	@UٸTy\wqWQ (V'?BGݔeQp?x.;GϤ'~5Uy =;^E+64퓦Oqef}{d6 =d?Sl#&>:EQlimf"]aҎ>7WЋ[?})ix.|F6:Ҷ+u;;WViS7TQWlV^<ȲHe=p6|~&
 
 ================================================================================
+FILE: .\.git\objects\15\0f8dc1e7c31607a633f7c26c27594eddf1b8a6
+================================================================================
+xe
+0uJ4"A_ ĤCmjqFvCLi֕@T9>xFFF`v^ZmAYe,Bvơc6eݮI+C_Xl,'$^R[
+i)r{&O
+
+================================================================================
 FILE: .\.git\objects\17\4e694921961bba9575213452eac7950476c500
 ================================================================================
 x+)JMU023b040031QK,L/JeS.QGŻ_Gl湻(8g3$ltG݆[/Q✟Wɐepb#wՏwL QX蘜2沅EΗm{D^xp"׼RNkδ:n5hJ̼Ĝ<Y~L${9,:$D/AҊ,b5J"I9nJ
+
+================================================================================
+FILE: .\.git\objects\17\5b518217bed043716382226557259265028b89
+================================================================================
+x+)JMU07g01 ׼̒Jl5J{$G{ϑP%pDgojn~Q%f^e
+T|~  
 
 ================================================================================
 FILE: .\.git\objects\19\3a0edb9a347377731fac672210140065628bc7
 ================================================================================
 xKOR06ep+I/,IKPHQ/IQTҴ ;
 
+
+================================================================================
+FILE: .\.git\objects\19\f775afa3cef9362dcfd2ae37fbeec6996b6414
+================================================================================
+x
+@D+XX2H.K\<o7&[cBf稤a5~w<`EN^KTKTT3` -j2yRylUl9}6''G$*ޔxZ*
 
 ================================================================================
 FILE: .\.git\objects\1a\bb503e20463eacad75677111a9fcb3c501420c
@@ -3104,10 +3275,31 @@ xB
 z:
 
 ================================================================================
+FILE: .\.git\objects\25\e9c3ab3996291f3b280fc33a1f637470af863c
+================================================================================
+xU]1"dBYw-.necrGCc2M2PM&:v
+'9~j>~Ce\ym,lS+!ZA寎l/5u4dSip|T+
+l`OzMI(>!)u/[VK)E2*]p;@\I{;]h!֠E"	(Hϑ1NwBnp>j,v8Ccp^:;WhDCg?㟸%ƀ^/F2ǬcytFXpoN+X5+0߆As%jnMҝMaAΥ k]_ҩ`:
+HwPIyJ\Xo=`lq`Sgsa|(H%,5'nNAkm,v}Q	M#b|t_%B~[&م`~$Ľ^:w]퇹Ì]JcZeM٦q;=$wxd.;xj]Ӄϊ_Ҽ  :
+
+================================================================================
 FILE: .\.git\objects\26\18e545542b3209ebc61a983a9b51e093edf1b9
 ================================================================================
 x+)JMU07g01 ׼̒Jlj>e>QN`wJ<JK-c[/"k)O O
 !
+
+================================================================================
+FILE: .\.git\objects\26\46cb22bdae4c6385675b4b9c1823970a10ddc6
+================================================================================
+x+)JMU047e040031QpusN,IM/tIK.ffLz{?8L1֓W_ZU8`rd7$6a/\a@Q~Jir	Ti
++֭u潲6mi	U_TQ✟WZQrB8]Ϯ6"=S, ME
+
+================================================================================
+FILE: .\.git\objects\26\f73ad1b05e7ed813cf3f5738d64989574aa4d7
+================================================================================
+x+)JMU4`040031Q/JI-
+N-*LNK.fc~usS%ge;df~ڀ$Q
+~£=r |$
 
 ================================================================================
 FILE: .\.git\objects\27\b84e1c385e4e4dd6f25eee5fb78b8920386526
@@ -3131,6 +3323,14 @@ FILE: .\.git\objects\28\4fa00cbf989b4118d2ecc73a362e8581284bbc
 xSn0Y_ɹ(jk)^Z+De\1{8@<q3C)+)7jgl+F0&oh+a9|c=Ϙ@nY9ZKKAz.W)0WhB4tX^'g=x
 IP@
 2!Cj=nk8VbȺ)sdcy[F1h>0Z	(oJNfX?i,*M֛U-x@`q+ۨiZy%2:-ä*ܯr݀:S΁Nzc˘+v)]S?gSFZc}?Ц$ǑL<[n_@#8v$,3nׁNhg-
+
+================================================================================
+FILE: .\.git\objects\29\1243e11d859a3fb7dd5bc7687edd7c3d539d4e
+================================================================================
+xSN0䜯XJ8TQ@86Hv[U_ƁO&uڂD.wwfwfq>m}}|.)\IJr;Q19SI_ZaRҡ\uUS@} #Fe8DϘ1pUEXf1!ccNM)+a'nظ)FO&~&nSjSVZ,Z~zz$KQ
+g qa>@Pz,SE9YL.ўg^f&O\Dxk8PMۑ 
+k;HGE	4	L#Ġ!kq*rձt^=]^2
+l3-+ܳ%]wR'ܸXO[Z|۸x,I
 
 ================================================================================
 FILE: .\.git\objects\2b\25e3032b4a6e496e58bea1d737487e6a9566c0
@@ -3170,6 +3370,11 @@ FILE: .\.git\objects\2f\b347dd227c9fb1ac4cd6f96ccd5383cef4e179
 x+)JMU023b040031QK,L/JeS.QGŻ_Gl湻(8g3$ltG݆[/Q✟Wɐepb#wՏwL QX蘜2Hg-ke"׼R\^cwjY~RhJ̼Ĝ<Y~L${9,:$D/AҊ,b5J"Iƴl+
 
 ================================================================================
+FILE: .\.git\objects\2f\d4292cf9b2d32374094f50432c246edd7dc5f5
+================================================================================
+xKOR05cKM-.HLNUp+,L-s	/*(MLV+I-J)t)R Z l
+
+================================================================================
 FILE: .\.git\objects\2f\e2396acc3ea2a03cf7efaa4f49725363c6ad8f
 ================================================================================
 x5A
@@ -3193,6 +3398,11 @@ FILE: .\.git\objects\32\e312b262a84b1d97a856210bbbb9845d5bc944
 ================================================================================
 xuAN0EYTTP$-$2q0vz6+`UZEag=Ѷ!׋ˋBզhzV., ʓ(@[(cŖlS~P]P)#S7tr:~,$Ld<q@
 #24^yn|0%i\-:͚ע%̘؍YJ &'vsVt͸:/VϏ=C/
+
+================================================================================
+FILE: .\.git\objects\33\1afca56638ab93c04ca997787f664bb778ea29
+================================================================================
+x+)JMU047e040031QpusN,IM/tIK.ffLz{?8L1֓W_ZU8`rd7$6a/\a@Q~Jir	T-9GaSG-U_TQ✟WZQrB8]Ϯ6"=S, [D
 
 ================================================================================
 FILE: .\.git\objects\33\842b33765efd835e4597c5b450a496b9ab8f83
@@ -3392,10 +3602,29 @@ x+)JMU044f01 Ǥ⒢s?,
  d4w
 
 ================================================================================
+FILE: .\.git\objects\51\572486f30d93e1802aee72d26768fe365799c2
+================================================================================
+x+)JMU0`01 ԒT5!]Sg];S'vӧk;S(dd%g1d*׺qrDMߍ*_e $t
+
+================================================================================
 FILE: .\.git\objects\53\16291ab71b8cf02b80f9ea5c5fea3e66b1cc7a
 ================================================================================
 xJ0=)Xa)PUtv&53Uk6}g}p~qv20<,/7[bJ}ɫ $\%'R{FL\f~PLɶ>tﱏLX^0!K
 bw962yPZ!Z/li`K>ϸ0xZP=A%Rmps<?SZϥǛE~9Ywy`
+
+================================================================================
+FILE: .\.git\objects\53\a60a2f88cfac1e9093b400225105eb043b927c
+================================================================================
+xMj0)f\(΢P))!@ t]deDeHPrwhUew=h}Ir*u
+EaöY4R"'Ĭ4d`ĦКk
+F+L)$:z"#xӶ ܓd]iۣX5+[4KqzWڶ`Z&߹a_.=s=2$~+_4ۺƍHS)sF!{xJgaQaT?0rWP(;kL$)Ȭ|P6'IjF	uM^C'
+yWI'B
+
+================================================================================
+FILE: .\.git\objects\53\fadf81e7c252a63d3fc66ac4d4abde80bb6731
+================================================================================
+xKJD1Eg5K%+ʧHL}GpGaZPjZ-;
+Zv,Z@\a62uA$ĥU	c\cRUKѫx#u^~,D×sGs>YxDh{\j?;n~1L
 
 ================================================================================
 FILE: .\.git\objects\54\0b67c2296edbaec4ec269167597c8a7a8a0689
@@ -3417,6 +3646,11 @@ xA
 0E]LI"Gә	ZS_+zwLӭh.bct a
 'U9fEp	=zDq${1Уe1"4;P9u
 4ئ&޶6Yo۰LM
+
+================================================================================
+FILE: .\.git\objects\55\0d916fcd498e0e5b156b635ecf69ecdc2e0644
+================================================================================
+x+)JMU01g040031Q(O)M.qI-Iq)K.f^~f/3 
 
 ================================================================================
 FILE: .\.git\objects\55\7911844036c526eca2bc410c73dbc7063dd084
@@ -3444,6 +3678,20 @@ xн0 `>=:I!1>@)'6!H"8Q~װ%$0xbckm(!o
 N&wրq@EcN̾Jx,),K7p_׆3$T?)ܽNMȼ[pg;w^o^o?
 
 ================================================================================
+FILE: .\.git\objects\56\d825ba4a607e6dab2a7b8064f43e6c7d3f6b35
+================================================================================
+xT]k0ݳ}t 0M%i>u+J$'5#}%#~s7g"O/>4'ZeoJ09JZ!)yUy%*eJHL6\SMQ-gzJT}jo%y?,|E\UM
+&,>lP0l.W
+kL^m9lWk|c` Q?DDtisฏgclܟWQ};AKXeUu-q(
+W<\}/lko;"%W}E_%IFCsRBԌpLx68oq%&j46t#/;kwFAʲKtI9]	88z)P^6ΞC.KS((mu#youHƳ$3WƊ4LǾ%j%cٝ7hz]e n&V~ְc6HGLI[n|K30MyPNÃ(iE0;ߐ
+
+================================================================================
+FILE: .\.git\objects\56\ea05c0278b0b80d4a8cc8bdb207b0a1aafbafb
+================================================================================
+xAj1 s+|/,RJAd!\<!a6}D<̡fkq
+I\RXhMt5CSܸB9JR0J%"8~>|/,k_st!}~N}',q]'J+
+
+================================================================================
 FILE: .\.git\objects\57\c0de9716ff64658a7324f1529ccb88f3247cfc
 ================================================================================
 x]
@@ -3456,6 +3704,14 @@ x]
 FILE: .\.git\objects\58\7ff08e08a2cabd49c7aca506027d9dfba4ea6d
 ================================================================================
 x+)JMU07g01 ׼̒Jl)W~N1sZu8v3J<JG.?tpǻWl  S#
+
+================================================================================
+FILE: .\.git\objects\58\eee9061e60e277f2298b568b689f02ae6d42bf
+================================================================================
+x+)JMU067`040031QK,L/JeS.QGŻ_Gl;TcNs~J^A%Cgۆ+8(13+i=
+ Pp*-K-.f׿ۯDSً0ׄ(q+I
+dX	'lL:)fD+L
+-+ȢyL%/B]KAۙq!oTEmS(r+z+,ֳKʗ٪c uvOny9EY%z9yBh9J`Ϋ]IRCRK$n2)./_$ }$1''-3'U֮Ie&,u oP
 
 ================================================================================
 FILE: .\.git\objects\5a\7da03277800237cf0f8c55d6c1c6dd9494495d
@@ -3483,10 +3739,42 @@ FILE: .\.git\objects\5b\58dad89551f8a2c9f9b0a91ff1b512c2fe31fc
 xQJ0E*ci"`2UMS)pn.N"0DeΡǈR*>yqLT6""Rr98*KDF&;:n)t_7-H)TZ?S1abwݫb;vmoۡրۙe8Lv"ERￛMlbY=cQ
 
 ================================================================================
+FILE: .\.git\objects\5b\a83a1e8b9b384d3b85fd2c9eea3b3587f93b49
+================================================================================
+xeRn0s U}6Ƥ.`XFK!Ŀ/}J|nYJ3ٺ%Lw,'moْ㞪y- C'Vv#׸%jh-Ìk#
+T*,r< g<
+^ 1OL9O*)B0g "sMg,La8z4ύ$:[.׼cFlQ3՜^ֺyj |uĲ4E4'FQ-UWc>SEBn/:t{Ma=21x}SAiZpI>,Hv9&)iN))>yxƾ.~0="/a?"5:mib(|:+<vS!*Cڅo{W-b{LJ1
+
+================================================================================
+FILE: .\.git\objects\5c\742c5961f26643c646d465a31dd16b155ccf7b
+================================================================================
+x+)JMU0`040031Qt+,K.fz(D{R] F3
+
+================================================================================
 FILE: .\.git\objects\5d\89aee6a1b1f85f193f2f207c5330b0c58b5428
 ================================================================================
 x+)JMU022g040031QK,L/JeS.QGŻ_Gl湻(8g3$;
 -X^㶦B/[^B8礆z2Ld8c"_=c̜&}qI,ItLNt)WA WEy%@3LIUt)t={񮞸7{A[閙P\WռRR k2odz/   bX
+
+================================================================================
+FILE: .\.git\objects\5e\03ead209b265d243d9cdfbbd06c233ac9f75ec
+================================================================================
+x
+@+M MD"ARwSK؈n3iv٤<\\\`i,p!MAuY%sK攅ICtA@W1zxsmN*p
+
+================================================================================
+FILE: .\.git\objects\60\49a7755e42bae6d4cb311c3e10d41c0b9927cd
+================================================================================
+xRMO@_aT.]mh7V= R
+#q8)3PY@ؚ<ۓWÏg'3#]ՌQ0\\h#ayj;ǘ@nX9FKKAz-W+0W~k=nhЕrby[x˂`yIP@-2%S@j=ncʆ}+ŐuS@^q[Š\ѵnJDSlT^trf"$YUgU!./Av`q+۪i:{gTCFNc;ä.S5[Tf#֏Oz'ӑa˙5S=1q
+%Jԙ`+ec?QNㄶȞ3fG))Π?>
+s
+
+================================================================================
+FILE: .\.git\objects\60\6eb0733979a28f24313ccb9ecd2514ed7b21fd
+================================================================================
+xj1{SQ/{)ZaRP< 2KhLn5]\&70x==b\HQ5/sSt~:ʖ6$EK\`䈚czk4h"O
+:l>{Gm4p^]-t똌t\ן^ 3ebηֵ?OܛZzv\֝/u
 
 ================================================================================
 FILE: .\.git\objects\60\b30d2fb2cafa4874213eb095b407d2c8f8435d
@@ -3544,6 +3832,13 @@ xQ]J19}",=dPdgAe?1a7ɍaqu}QX$Kg*RA^TDcEDI{GVe?Y1׽|mYF
 Q4:OΦQv9	`zķ]=l3cf^ o4a(|hF4t
 
 ================================================================================
+FILE: .\.git\objects\68\9435e5bb7e6bf3ebdb229ba47324b8c07cdbd8
+================================================================================
+x}RN0䜯XH"$$CBlSԮlB2|:q)P_ΎwZ)|9IJr;Q0˺t(f\+:\(1eD̒qnTNZ(z
+Jd0aBjL&)1ҡ6[q;aa3<L쮆#_8`E$$ő3SC5%YfnQ6}f1'Y|TS#Ev=y+zM[^AٶFgkkTTƄyoKy)eHRz7v
+/һXia8%~V^*Z֓#hb'7$6~\
+
+================================================================================
 FILE: .\.git\objects\68\ba0a74de85b19358743c73b0fb81f079e9c507
 ================================================================================
 x]OA
@@ -3592,9 +3887,23 @@ x[
 0E*/Hޙ\Af2BkJkE7߅\jtظĢT-+0EK%1͈5b߻A().U`#`=RчK+{סuy\L8x: 9^Y}nv[6l_N MM
 
 ================================================================================
+FILE: .\.git\objects\6d\70095f50103262afc93a7f4ecb5a55ed805b42
+================================================================================
+x+)JMU4`040031Q/JI-
+N-*LNK.fc~usS%ge;df~ڀ$եlw,:ӵlgV 	B'K
+
+================================================================================
 FILE: .\.git\objects\6d\94d452fac36436195647e57d425ac36b3d95e6
 ================================================================================
 x+)JMU01a040031QpusN,IM/tIK.fx6M9{wk+qIOD n
+
+================================================================================
+FILE: .\.git\objects\6f\327b90413499d525c1267b14a280c3a5427024
+================================================================================
+xRMK@_1P⡟R*iݭ%Hdcc^yoۙgjgӣ21@Ib7CfYf*I+l1,ǍA'rE)}IůqjnTwnZ'x
+/J$0eBjRL&*1ҡ2R԰&tW'YFIqY(/!$Yf^$D@Wi'E6
+c1w;{-,^ы^u[^W$ɱNFMvԵQT65ޤEehܹ,!kط^<[ՀQFZBA?lO-/mTQ	)heI
+
 
 ================================================================================
 FILE: .\.git\objects\70\36f3d20a023a7a141c0036fa1de84fcc5af54e
@@ -3611,6 +3920,16 @@ qgch8/-%79gz
 4SlqK	6ܻmOL8?!pRxAGx׷<]UXU(Xݐ4Gwps:lm6e̞۠}޸@E~赅$N`5Ǝ[̌5eT`?
 
 ================================================================================
+FILE: .\.git\objects\72\b8c1cecba1d39804660b2794d5e1542268153a
+================================================================================
+xU]o0s~էTBQeD:v-T{si;g'q(tȵ=ܛ3}%4Y*
+5\}͏Cc
+3%&
+.'44qq c́!yd(Aa;K%D/hTUk7T~`;o;;(RؼksvrFA%`t[Ss?=z,uw5-SjBVp7k{/a=9ivgXM\`.xtod^3&k#ُó5l3+,뤟N.U&6;DgR߫iCIjLE7-(N0	~z}9F2P[9+כ\@9f%eMiKȌ_,̿+lzj2Ts
+4
+7-lMXE;s٠mX}5"Ŏ5HuE?Af2v2WSaK&_%[̈́`>SA]QG)^ŭУE`\C4|%k;q& d?,H!hLYEƕ΁~g!dĞ
+
+================================================================================
 FILE: .\.git\objects\74\21223e5bfb5b3c49fc456f3f86cf464ef0e3f5
 ================================================================================
 x[
@@ -3624,10 +3943,38 @@ FILE: .\.git\objects\74\d26dadeecdb19a7bef3ed9d05989927d53d9be
 x+)JMU07g01 ׼̒JlUf=gyg­+X#3757B{XVvZ ժ
 
 ================================================================================
+FILE: .\.git\objects\74\feb968ddfac204f6706f05259025c2165ab621
+================================================================================
+x+)JMU044e01 Ǥ⒢N
+^|\y}E=RԒT&}RU'2uw($$:&'%g1N(6~m
+ B-
+
+================================================================================
+FILE: .\.git\objects\75\0685fba78914a2cc8aa690b3e6853557436f3a
+================================================================================
+x}
+@D=WXAX)
+lQn٤bݶ֋9
+70N		!Wޙ2c" $-eP\Y7[b6(KkaQ^iuVDMP/'GMyt^\ɍ#hnV?§z Jjf
+
+================================================================================
 FILE: .\.git\objects\75\19cc4bcc1723f2bb769684bd1170b4e84ee6f3
 ================================================================================
 x+)JMU044e01 Ǥ⒢K5E$~xM^x~IY] JRKR^hqL=i=2kf&&
 .%ɩzEYF6%𖝾"L{Ζ. %Y/y
+
+================================================================================
+FILE: .\.git\objects\75\1cf38fd7a340ee385a5c633a97047cedbdce4f
+================================================================================
+x+)JMU067`040031QK,L/JeS.QGŻ_Gl;TcNs~J^A%Cgۆ+8(13+i=
+ Pp*-K-.fd糋
+=m|wDs~^q~Nj'qqY8G,su3L
+-<}DޟxYD\ .% {Nm,_#R[r	b	ٶEy%@o35|qËIfg'J̼Ĝ<w]\%t0ծ`$YP!%zV|g˯IWaHM>UWRQPkFxR$۲S:O|hc 
+
+================================================================================
+FILE: .\.git\objects\75\43da44e88401be7f75147e0c0ae4c475a330a5
+================================================================================
+x+)JMU4`01 ׼̒JlV).wOzSl'DmPjA~qfI~Q^r1r<=-w7e $P
 
 ================================================================================
 FILE: .\.git\objects\75\f34adbbfa298ac1ed50107e7e019dbfe6750c6
@@ -3651,9 +3998,1104 @@ xA
 4i4kк&ކ-u/fL
 
 ================================================================================
+FILE: .\.git\objects\7c\4ae240611f5a4f26e83b4fc88a0c08076289dd
+================================================================================
+xKOR07gKM-.HLNUp/Js+,L-R Ҥd̼Ԣ4"OJ$D	H[U 
+
+================================================================================
 FILE: .\.git\objects\7c\b067ec626d8204ad455aa0d4dfff6ee4acae48
 ================================================================================
 x+)JMU044c040031QpN,IM/K.fB$ψ<CegLYiqI~njH:W%=&SJK@y+g/ w2
+
+================================================================================
+FILE: .\.git\objects\7d\3e84ec139255923d76ca90a543906e69e13c36
+================================================================================
+xԽۓG546I6ZBDUgfe]H5$$܄n Wt	Uͪj M
+_ǍpĆ#|8wm?8a#|>̃]*+
+rF|~eNxX;{?uvno;;wm޻}K3g_Wwꏺc93u͛wyz{nolU,x *4%;W/GGhFగ-9tǧ1`X{*	q0IwSܬ>ōQV;GS@fq4:ͤYuz)xPKh|ʣfQW{Y2R`ѬtlOW͒b,SLh
+-(|9$xJ({CT.&_Y`Tm0>HA+,h0%a&gZED5c?
+VYٌ=7]/kќawW}7n6iK:YӍ,v3kv^ǝQ@[QGyyF^'iǍ hiB+Ci2[qd(J=KIf)aX (:^mv$ϲny'i$:bχnx~N<<f6vpfig[2C4,Ns#a3mu<?*ǳ@ nyyyAhwZIl%LV*U@Ov7ܴقv|+/O)u3ܖ7?~&6F7v8	ꪖYY+@'gV5f
+H8*z)CoLn+O$kIɓNɚ5/^Yz^Q3G0IHq-/A3Ju?˚Qdd
+r;jlt?lQrv2]Q3<
+ҠŠ]YzA졵"fR5bA*Z^Nc[-71,na#h=T`xvingA#ly;ȃ ^!AZF#
+
++e܃/vM?v(JnVJgiF,&Yʶ\$߉
+hqtFij=ϋo/
+1BԔnuP#yyn1n14q,dTUGmPvӶ9U[ю;hyς<Θ#fSZG-7Q#F> iva3
+b+ef^lVFA҈"T~މݎd6lGoF'^b<n(nT0}8Hidnĺ+,/i'qi;LbI+
+62P\_z{Gml`7Y'KkߊB{ϧf?҄:+Ȼ݆gZ,e6oa'm7ǡ0C$%
+MOPyMHgM|ras3+4+k1ƝPiDa(nn{Egǝ '12;60U,Er;n~+xHbPgq/x
+rV|1Ka\7xX,Iڍ	?pT:~,bnCb+VY䥘5ktnvA/&+6;Nx᭓lwPnøp:bg)S^F7FAÀ@#v.f38mtYQHf#O6k;0|'I|3'PJ<N<"
+LF$իrXӊKG`qN
+يNvlfE.r>03	!U
+BA⅊)/r:b'n6(NՉZ3<I$KQ_DI1H`)
+Y'X׎hF#vfƏ4X^v&Ah#"ĳ	F;m\,Q`U^ nJ~.m y}5hy;7ep\\<h9Jĸ! 2~_a id{$'mzu*44NP"\PAmdN;D^t	"^V[ƐGr<HfDQ,	F6m
+X
+˻~F.Gc!
+ĂmƋFEqPسfp?A8Ąp^܈;(Km6	 54Gb09vs8`7R$IdA ~0b]BI?htwZN ĭjRoz֜dACh'y᪴ծaa3^o存h?k}`*2.9$b_=oa])?%?EеiVx}tY1mK}/V1F#VtH?,B?JiJS
+jHӓcZ)?ˈTppy$u:yѹ~׳0
+O]"-${:`XxhvtՁYs_F
+	}
+]!41F ùɮ5baQeaH籏EIZNsqCyvE-
+d$\Eio1L/	o$nR|6YE"#A{!8Y)6D;8~Nr&DHI+|W$s*O$H$[<M3dCdIfqtS(M6&i%'hV̖KM@+$nd_e,%*{qȐ=NQxIT䰀~
+ݸՆ*DYj+P׸pGHd)I7<k29&$m!Shh;W8<|{)")Iy#YeNi
+oe	UD"x2ݪU1r$[iNy+L:Y7[؜qIɬ`T$ALbT-	_ږ͊(s
+6tu&AG6X*HhbtE.*CG,̭2@Ԧ@#IKda\ VaNF&N#D)I,FUѶ/]Sr]2t3rh8ri$~+CIy;H6p[Xq,8'kYv{3?1kHEHBܤL=G1BovRذلàcx8Ḋ RW2ny;↷"/:cs]=Q(.*|WKL<	?I2	d^DVʕ{d2G%g%%UՍME8{k=R&mI@$Q_J9NСJ(_8rD=+o18)S;P*坌v,Y7RD +[@?ACCAJbzq8;YHɃڕ%4Lq_Dj[v'V;F؇ЂYYJYb^{}$GT(fyڬuHb0C"t	"LM	b
+U$aߨ2Rrrjb`9~hyY5S̿]ed_2ಓ,IDxL!1U@2	BV>74$!EAŗ)W4C\86+ [/)	 QUPa9/!AM:D")BEJThdn;鍠w-6CO
+XQРoH4%H-t"
+ޟGDcs$uhI1QZ2TaOAoJ#YRCWȧ"ȚZLtP=% @ݔ"R9Eq@bQ3#t;aB126&h@aHהvI6_vhXRvGyh3y@Y&Yv8oHr7!e8+"ꡔeY0M(E
+(#"4T\-4fQJHA-"H!۳4,/BD)δJ]o(SGK"JΝqM)#"HO3b9Aj1!VseBBIeo~s/,:
+5	(=h Bۧ^,ҌYqp!mJ$ECċx+c"NtHtyqDy)nD¡UŠ)S0ԓX4"dHu#M$j>!{1P$ƤxO"7#0̲]eMRT
+Tu"
+]jg]:FZȡ+]0O餙}0uoƭVO"hYrL݌[ޤVe2I*&II|zytBxHJR/Y"I5'!aO]"q7Qei"c!uʸ<$Ro5BE6ɗ-ϟ.%!
+ ^nX2XHS
+a#$mvh[J!0lƀkhP!!DNOP<pt{G0Y89H"lGd:DBeR ٥|WDNW|h1+WЩZShˀ1%AGg0(<:B'ġ	Uxg YOPD"_q9.pн
+Zi3R^bh-
+0نdZ	YRǃÈ}I$^pWА	'm$q	].j@CRxyC$dG<FI
+"Js}zggi1x(:t)N;ćIbO)S5&$39AN2d
+4~xOrS2k9]M8*UkyS/QFօu`F/XDݪeN_ ;H92?Es1ʪӊ"-t`;44`\tϰU8LEjGXE/P|E
+ʪ1$p1115fS*  P=jRLɑ':~:MX$iBiV\3e>:o5ujbE`&
+@LBΨ\)Co bX!|h6M/]gDF)j>j.Ƥ*	ݤUX@LwZ)H4Tu}HܫXdqf]Bj38x)mb1e	ٳR	)	f|L7pJ E!H&Y)#Ii	DK$$`v[ܫQnӳKx=+UFRGɣD`Lw$A\HGMN_˰Pk4
+YN쌦(Nhx]ID$q{PiAE2W(S.p!4vy~9#]{#)j@ RiaK	hG MPTeqHc	[MJti$)/HU{w I	6i	58C$Yt\-:4& ŉlH]|\Zd	N.!DF;.|IOMj>.p+bP-cئ$cORЃdDbI{wpNK(MC{IB@с~jiX
+yt8@6	z-{Lnb8Iq.F-sZx⃬-Yժ}eRZnK.Gz^tW(S FB>.B/(	\]2
+iacN~"Eas2ˤg_P <devPyȥI.!ߤX5teiBAbnIzٴ(OTxEo$Iq_-~xDQ
+Bqh@Ӷ@$`bfਡYvz%b$MAKE!$2D;agC$^nr	Y5NtӐtlHqUYTse5@9W:JrјT%E"&??gNH[H@-.=d)Ѽ+P^iӥzC6شBN&JVp}ZLDl5RHyQ-䮊vѸщK<ظ	`pbU ?)DNT#vRT|6cЭCȹthcl %q3Lp.:9
+\K5Z⫗Oqkl ik7Fi$DݰsK34
+AeOm(NZx 0î7;B@f[qh)M)V+\=35zUd0	
+!-lu@B/o
+
+Tφ/,]bO݋Fx	KK)T)1-DB	*{fËpE4ɩ U9ο^RL]iL /J
+:ROFl忘w+<S^;֌\]\Q#0 ى;{p;_hq
+;J4,uq!0c0@_%E[ź4<ACI$^Z%HْeCYdLHG+9A@t,a>{/"dYEhi~Qi>DT*ESB: q;!9_ lqؔ.DIβ@ʭiK	f#о]P@خ2):4+ l։2"azPMY0b+&KwxJhH>T.8)ShE`6`%c%(f@S봝hr@CvM@M2CYu 7@xnJ
+cbi鎬>gH2KA@Xl8=$&Y0I?ұb<¥SIu)ٓ㇑8D[vA"?R3f8(Q)f&~ ]8a%b$ ~*Dg5SƐ }s:HE(B!.^Voi1fX3-{e:([)C5'ElH턜oC4O.zuʕƱd T:>zk4PI#ojp e&cFMM'A7|2BiW&>`v@*xD
+./SA'DM
+[
+v5QW#I)u:
+qYhȔM$>(ٯIz4t&*84^ ^+zn>d'Kg6/N0$gaYd^UdO*ʁ@<rQQAͤi'&e2KL8)
+FBVݕ4;ZGmrp 8㰐@oQN
+^VHotpY/>k,e^FS"G<'mIuE)A[cWlLL%l@A7]В+K,KŃ.
+6BP	^$bɦJ)U&uhALo2&F:@%f)U`xNn$ pdc(NEmRf/yYeNQͧl>$XIsZo3gaV2
+X	'
+%s
+1),/=,l"Bʘ
+2"[qAZ9ʣ.МSJ@䒣&L0ylZIe)iy4D Z8H`ȯ!"RZߓ
+2t'HnH2S;)'Q.\n񩁇QxVé1|ҡRʏ7!;']u{e-rhQ0TIdǛ׺wg8s'˳{2ǫ<h|2[ oDrFI9I(><q.j٘,8?	>c}Ƣ33h<M?b)xhg9݈y*ZLL9=J;I7:7d+>fԏeC3ãA/w}.\}i@~4* 5i*Egn.cik =Zߦw3gqӄ/?p}ҽvva>
+}jEc_GJ(s}h4pT,Y,#eG[c֠q/`aYmպ5r,g9)ܿ	(6fYdXe
+{I3Y9ٙY[Ll0꣞:>407w۷vo|#|qx_v
+˧ιsue쌏ga4<vn/]rn/u7kǇauy!%ucppxԋ3 4
+<|';=|88p~}~gOåDvL{lXfI7&ptąg.j'b~шl>Ə˽~=$vsleOpWA]7 `v[ۉƃ)(:=á僽dqE=i=s+}G'Žn"?>z֧eķg@O޿}xVa×6g^*?_va;pp0Qd^Q|(#'rܸXK<zιח3ų^=ɜq4z<r)a!9yȑű@Os"ˬk;`|򃢼pEnBɢiuu4yvzgX
+Pqg"t,`t9lpжLqgG/@}M{=˒U?|<U`|+7.챝x3 ylmS>ɲM_f#P񱰦౱sG:;Dy=3.LgL!7Oo
+*Rjh,Zą}[,FwwQyկan:LX=|$ꇏpK	M+}2[ǽ8	ɸ0ka
+/B:/OOFD
+d>S])X#w5B']!d?t;WRٳ^,	oh|YPӗOTL0{u}UZ
+^yFQp(E%<SD|>Ki2k;Zwn#rss:>o{T<Z0*f;0:ݑ9W#J½u%xwF*6FE6]sѬ6O,4sw/Si7
+Nx[ɷEUӂ**,D:|0<*N|WoUS3f
+m)0nmPo,ats/Fov폏o#SD(FEg#Qa,jYbyhT&Nû2zncDOU'|;{`d,;ZkRuR?
+M_WApw嗋w9}TM}伟ٟ	v[q	8/f$GC4}G}[NÇ6h7+/Ñڋ?OHXiF1t2LǎKF̒>.oPgiwC9vax#]pv{='Μ>|2<>)0M$A3H ;2+5CP~	
+T1CIa)n}L|̛GdÂCg4fv;,:iRT0G{,s|z;F}{ˮx}Y#GX%	.(#fE2)}q] w=/!ނxk뗜]$Mԉ}U倏#^3&:y}~XW8h`h|^?.6&/ghKЂ-LpO8IR&'!-aŽ̊یW_\Ms[JM+虲}
+3mg#C>	E*3xbLXգ~˦}Vs nFX=8N[hC
+|;BYdQjޢcc\$^fN6PBKZg١#²VtgwoFIF,
+sUg? Ea'@2:*gCIq1İj$(:p>IRm2aiEh(^ΰ;zsu2NjNq;e5s,p;`;]B x^./S9PP6X4ɉwP:AQN2(1jhsh/7+vN:艷aEsO)sU8	:* x*,,u̅F,AFc(A?( m:}HUrެ1{dL`{L3l<Xt}Z~ǊY./o8r3PM:?}#3u
+t0@csw=U<2`/{
+&EHdD q/}>eAv E? G:{p[	0|nO[6@E#OF{nzǣHqL0|GiZJ:&<aewg/&zdՄ|djSf O:kPY12/:,I4_3("熣-oD1DB)\ГԪ]f5ttu*񼩍dߕWA2]GnkQ6&<yQݛ75Y/RaZ=[xpb݄zSd/\ޝ'gxޢ̐D	=G)Qri][ϞcMͨkvj5y&珹&Z./2tH	Pj]QOgx0AsDYގѽc+)7&IɣX:)
+f L`Eb(vX,~']<>y9ŝ;yz	t<ݏvYcIiXp(-܈۬ЦkܻӪh
+u3&{l|G(#a}7v6Tdeց=o\8T	RE*F_)6y{ݴ9FBsD.Z@Ij&Ecj5[@ }"6P? *uݮ.Xp5}}yk혏 V~*Y;G='ZRz}6
+O=3ui$Y>!u TRCi|o®
+-wS;*jhJaR/
+G@_dfM{Gs	˵Az,X"Xq~Fa8äznve
+iHd(|N%y'#quV|Z$^쏽HW0J\,X
+S>i62*d۴PR͆wQQHEH<_bF]V݋_E+:Dzaαƅ0UE!M9BjzZx3FKTQ_=ϞZ~"#@Dd%x=vH
+gTcl
+>:{X>5)oSTCGʋJ?jAC&IY/;b.Y)93]=h-TS.7xr5 M&mz5:$Ajt<`%An )($35q#E7Urz.-ļ=*+]{CkHs!kg*%)J)2G,ֻ}	"%X19'QEFPƄz[(u#KgXy{q3"/ļZ|Ү3dEs$uytWK#e^LdW\Qf=7طυq/zTR'A{7KDëjƝeVnozv[F,fԑHt0'^N$'ouFO#=Iu詚!&ҩ1wljve{ )N+9^=p<.YheQ\TkpniQ0{]$K/ӐGGck+_vMƛ<oQz-ZsM7]dsYʥG|LǛ
+"6kn]nn:FF7u6OVΞψVS(N=|k{3hy[Zӽv&j/moW
+FRږNFt`e??1mv6vjfZ zjsk5K&j/OH6:f'Lap=oec03P)G巏e~*`ƵfƾagsݞBg]7Zl'ASIht?7;"W
+<uӚ\5byn:M.*SxI*MJ׌=$Ip:!(Sߐ+74}&Qw?7<hh/
+NebϏe.z%f<9̕ sv}_	%_u~9g8-*5^f3k91;AOG:Q?	g{յOή}چe=ͬˁ|E|!,'8VyEͮ0Yω	2|:׉2٠N(839/Kpf_Tg8b_~h/
+et+1uB+J_/Ùu~	z.#^L?	]a6Һ~VX3pj%fN(8sE]ߗb8/ZW᝘$/e4HwNn]zFi"5um6TE3_dC햐&_09f7󭭰ɡ7$}z+b&%o޼u};_<iP LZmu
+ޤ!{?R:)-
+vTrr$/}Ch}??zm&LqY\#X)>WZ{(VSl%*7ͺ;8
+2TY=ϩopwn=__T`#A}!;i0//|u=4܏l]wV'@a`ؓ^9]aW(d._º|"q/}沿񦓥#gQEh
+HgL(bƗ@kۻE8B//9/Lp^Z3>~)4,\"jhzjqͥ?~gs埌ogh;Kt{,} nOoϞtO+& 6z=iۺ={t?mW^il9o,
+=dcvPOwBo_;7~p`KK.|Ь+w~Onq3K,u
+u:>oN;2P?IwW 
+d~?WO_եח~hܗ{H<d_̃>{Ǘ{|kAќd+ՕYjݸNןGKߒ=MIQvէxWӓ<vIm߹n)TM#UWХ*-u_
+n7ʏ?W0$ٺOkbs_?ɓ /du7|cUضR
+Xgj7xcP,o~׿o."D*a<|"Iտ{O{sƕWwp",︯tt.W~__jkJp	UVҷٷr?'4X
+(Q^'fyҰ~G
+,[+OH}iZսޝ7+?3|R49[
+n|ov_uFs7ڷnsoɟ7us
+պ0o*K4wewdٕgҟ,65cIyu׻ͥ3_{tBn<oűZz7q;C+۸~};y핹'U) y{ B7w__zEQ_
+vsυy75^-tsK.n۽7.}{&>Go<?ٟJ?FOGh叿Khv)Q>>g[zP\{чM"+՗I-ݻ'.m/_j?0̖W	gjW{ykZJ,y9[߿rO+f[?	|Jl걉O2x/.DGCkɗ2|5i38_?#v^j4Go?~
+[tھ5o4|Lͧ#X}o/ۃ<RZ[7?s:Oyn|?gOvJFo?-͒G|co:_;OznɷΗݾ{/.(9s#ɉuҘinuf_J,?<=Èv0z tٿ.[dO8@:%!lZ&z&39
+4:'
+z'[adM dp&:܀mAN]"e3	!m/)5l/0;N1d$# |Jf{MBE9/]\V&4[Q<ǦzeWVV׸'hHV[Y}EѺW`]V8gjcO `\{ceg+'DwuM6YN>R\Rܤ֛p@PGsǄ,WN[sX"PtU_8}Ԛ˧2ZKTq)Ҍ:\+bH:E;;
+L6m=}jJ:
+"'I2fWdQzh+Z#v߽}w]MZ9?ZZ[./rT.;xrG>9+{Va5A[gJJ"D>;Ra{64"ui
+Y[ 2J^vΛI;#9lЩ%v^s~ËGowNeYnqD-8RM=]6G2TϞӂt1#4aܑz˲W.d+7[Pb`Ny]NNނ9f܏#cICLAԖ:.Us0Bȱu5bč_P@ /0tqEDK>RdAҤ/38[r@AKiԬ>08z8-l#Dmc;#0*^Cv.[u5l$z+ gݰ*bԖãlx\0"_:mP8v2vdaEQ  ';kfE.9{~{cxqM˦TmA7Ďҝݭw
+cb nΟ֦PҲ	L>Af
+v3g^tt(@`=<l-2@e9{N,	sZHZ.R;Pi:߹y3tWzǳLMQ~'~8_?><b۷._זEŲg
+yΝO߹ճg6=+QyƲaoSU-ˊtGj'tmupA/β=3ko},rR|"d[Ȋ΂LIڪzzP垚cP u}Q%ؙ4u=ȨZ~8]x⃾FQ;*{4r.OhYyNqgIߠG䁂v6{
+#9`)й|P"Rfu@5,D'/?3dKN>\}yrbs4Oʼo.ƳV/lSbH4e7߽n>_u9o~GlcqEDhTpY}ݪ%)?Tc6S@{O:1RgJ0¨te%Q-UUW럃s$|=EaG,Nrp1pgȃ+jҋ#ESI6'8r-ݤ[1襣ו Bђ&T=քx@8u<PGADaYRsd"MH+g\+ݤ,%ǽxCg%a@[ަDr=D	3އ4ai Q
+}>Wtey֖|YXYDSP_qٹ"}`+7uѓ+ȿ!Ze(dLn?Y	{"V	OT((W}뷜ɍ,.O
+CL)C1F*>MPM֩	.41EQ)7YEk~cN*C*FWu8>Xu.lAvأ>hsS@c;PyΉ\VgD[x8%wG]]Q+wS*{U/d7A`TǏ/h2~9U,%q :ˠZ=Vxeg͵93qM)\gM0!rO4<<z9L\\r,|FNDOMzՍzO㑑ѩh/@,U*F2EW]xE7	Wx{,2̪#'4
+wr܊39h4sgD]P6mdi)1bhߖ-.ϨϻzF!k++TQ6*EP,t6,]pJY1ɜ;*9bU(%T	A[5Y	K@p[dWY
+4(Dܚ;xijt˧?x`]OLlX<*X,Ol~|9`5ŬƟGյ/DeO7ʑ<f\	/6wژI<ْ1bM:N|rdqR,6CI딻*f$'	yݤ#&$'e1grL84I	).hǿEK T)k0B̯=r)jO\=0kS?K=NWϯA+L	r4]DyD
+YX;LlF Mttȧo;oٓ>';[?W 
+B[{n$k8
+Fp?+V^<,c TI>&rStb~M_sjRHubJXЯml^<*
+"ˏ+]xyayS<n|0By`"Xܥ?Ayf|`bqp=t+v)d8<=ΙR@e@STq&,[Zosbimx#>q&TȁͣU*7f7P*939ÖԐ8)o%y޹O$U"̊$%W+C[ܒC*Fes8MxhdX-ey%NA"0G'->Qsxα#s9xtOr><D:@|$ Ɣ$(*By/Nͯt62Q5aڀ\xʆSY{@9΍ͽ7lksSGyPҼQz&`5Nn1TM^z"\e.RAt"d> G]0W0
+zs48ep(I+gEnPO},)ةj/o"lNzzbW)V0(eDU9eT}HE|Judm*` `&C"gS)Vf3+sBbk5Y/SǌU1?_ѕtɘk~<m`8wXmzq{~2i~a)EO\)qh5>7f!9'KI9xof3e"DnrcН"bpUg0g%]0&yD%,45O#zsr]cÒ<JY7l-É:וQYNh-%MGNũvɹůR)DC~DkO˳ss2o+Mb=]*c  A>u提{S03q#j1oQ]9GZ2it
+,
+Fj9"4Y~
+i`L<r;߲lbUW	sFpƥ4f
+&S$hMjLV˻;+N4b2㕅Pp)r@zO>Ξ]㖜(?-l\v?<w{
+)osI|W=|׳gRIɢG:ȧn@o)#&7}`^.O,ò0L(* 
+Mz%ʫ _VND%? rG?DmaY85z}f |ux,#(hf$>Lq5m<!j+rA }B	Uk*dda/"]p٠LGk0싐ZL^7yYP[nU+}^	R"xZn	^f{	Ĕ3,PDH1CGmꀕ+闖WNn?C
+BSՃNJ3h!7i1FEO:u~PoLT?t43DU2z8Qm86"J՞僩NENP P448bͻT+<U(`^#!"T o/kyS]EWdg5FsO9oAHkH5++H=`BwJJ0xf7rG4tjQuĘe9XZ4GĐt{
+Sͻ34VV(+<%/zTD)v@6wܒPgtc -3<'@6`LѴ8	m_0[҉*|O{<Ay$w(bjt9SD"s$B	gl{琑riJPeLb߯5}[u/L5|o+J#~-C}h>BoBa
+dp(XD`	襟-
+;EY\* 025U0`Vٓ'"4F>zEiyP9μ'9F^2$7+f@v"W˂ĀOMѪ˰j#Sޢfe?g4LNcfn
+NӊLISc?J#6\	/iӡڷEI)R,`-ekTEUY~<}ィC׈E?	YRkhX=ě&)|e3pe _zmJ]45ՠ'0µU٦flzcMù\RsbbSPA+zj=UvqI
+_H8DL'Ly2[7LotQgHݒQ6!{cOQ";Ų4I+q2iz)7AI=Qn*+ct<:P5:ub鎕 VVMp.tuB	؊7=łDT#$v*/w`O&k2`[e adL"PdFi}KBQQ 0Q&G ;f(Q`[Y;	Rv<X,3HV\}\%eb'l#6ۂ2%M]ƁHlo(HgrATs/PPLTzۑ Jkڂꅃ(OuՇƯ:{}\}K6gRw94̒*Fll$ïѨ
+y=uXF$s;X:5)4[|4oL	ɠT:L3
+iAW,Z*D$jƩ))=xD_mβU`zWq-qe`c:ȾU5v,&VS+ʎpǹ)9G_ja#Lc5qs<)2ADǅ1fY-%JlvT,-oL(á	Pz0)9:YU*JPk8
+LTP 
+lˉ~`tEC-ȍSEOlT°,[Z Vq_+mr5/v6r4
+fM[srxAc榺jAN7(s@8NpD%f"nSe|@wM"NnXr^mf u*ik;Q46P>k"yVtDtlEmX4ZKN7ȥidd6 jp9Y? ͋Wmχ)ڸM[q0[[	aF@3<ib/JRD;iy8iJ
+FEP*ͳg/51dlr3k_yPC-Pu8\(2 %N* w+q^nWd3a[Z쳀Q<Q$4PYJ0\^*D.ژtCݹ;oۼ}$ ^!Q(]qjd?˪yGٕqV*6I2uNQOR1t9ypSjR5vrOVID &5irJ
+`|''E#ޣlu V[t^ga<194@cAKy<pS6aęBJw[KNݖMU[qF/ \sr4*S>ԡ~D6OᚌIb%ã!}*E9gq@|2gLB3.Lʫ33kputX$
+~FDz?rz,rιC|醓Hæ̒-uDsجڱ$ˠ0_Ѵo䐣#X,tG.( ãЇ	6:jeH¾a8ƾ.jzt%rmU8_,ܜI+(!x@BRDKl˪EA-k5DT"` HCϳgq'WV=淝nw7+
+y`&׭c*t˶vGF<un;~AL3RN"EҥUGss2'q%$?$~A4H.ʾiG9*Co8Wsβ<N;eo8Wػ=o
+wb4TOv6D1kGz_<4_96JuoO<E\)'Վ7ޘG)!ӗkc5r,Ls{7 5I`}C&qōBI<"v(uiC6H.Hn<OT>9Fx%I YxR4# iBd dƔv!7fvWà\O>窮2j!93ctQ%[!=v$B)JS[!3PX5Sj@Vo5ڨc1"HKCiқ2$nLZ<]+fGE>ʆ!B2qFO&.SMT$ᇙJ⊕T&߮QCh)ѭ.VUaƱOxͱD4Je݅0,Gіv66SЌsUwPJTa)c(_W9HA4$b+N	֬Љg `F
+r(Gs.OOd$+?WQzQ.4*T,JLgGr
+ATc#QFsC0\0xT`*yLvSn4YeN~
+H1^}ɝ@Wpt#JqhڑS;PJdVxbtT#qCEVO	(,e:kϪb7~:¾/aG`l'Fpt囵MFE_ӜTdu+5PXk3i$^"2׬-(#dۧr<lGeY]II;rj2`d
+b6rDG	eJīQ 
+Zs *	B G`q`^_9I%$mY62٭_ltcr=Pj)V x	E,4٧6#wJ)R~X_
+U)Q#yyEHuP7H ?iIqJR 69Utb<-v+Gkwjl#w/#6{Už Pw
+1js(k0edAueLSp&PU֤GX)zr4tdiwvVjŹl߼]ޓ؃4HhOv;rJ//<je=aTlUƄVzg\. h~VS"\oHq
+ZEe;/)N393o],.JY=SʼDo()\PEƮL:BTz'LQ<UI@1ݾFAi?]>C'zH@:!\]I:)  "iҦͬݚO<Z|.{	Aiͯ)[(4^2_Ϊ;E#|,Fِ]%,X;J,=
+Qkzq1R'XIX~auȨDu8|2*SEbadþzVa6,nf̾7Ee#A.\RVn˶$WG()c(еk95K%9ARdw1/Xh:ޚ\9~T( /)vˣmshOa^=Obٮ5s:YXN@`IzPIFX?-7|A%mKF)`u$>[*挓,N(+98F$:ڶon\2"}WF'{\nC7BadE2qAF4Q XU- ;x,	SGN5<.lfAɵ\<	+TQt/[9K>\orT<k4JkRi,(FNPtZf	4"^)-Q[/U7Qm㉲K}_(ϑSt
+ڋgi&-ևڌA-%*>b&{}
+j)|9@J4z8[b4_]PLN+/M^*8=}fH#=28Z,6?g5S|QUAGWìmTi<{bLё?5"/5uv5Be؂4ͥݯH!nbi/-,z2F1EULdρ:xɁw懻Wޮw8.^INM_㤴(S
+ou$RЍȧFJU* q
+
+lv 6&$4s	|IWRRDv1lA_d\yzwQFS)d1P+[[%%IqrG2)Kؐ]%IZH}P26yz6Di=->)Ż+@UHJP60Ug{$/:SfGִF-۔Ƙ
+4u?ށfS~  L|x '>9<.L8Ua6}dew
+;	xlh6TSO>//~>ҏ@Lj2pEr#@`e,ITb_P0jw#Td4t'^^f~
+w'>C˹KV$dF?
+=ŸzSTL2rly@6.KzҲđGZ_+
+rH҂OMGfY:_|N|v`getM ӠQQQ4WFG$XX<+s'ץ!S^=L%ZqN&	%{Ef~o04(!ɕ1h+ឰGEJ͞`e8o:
+W#"Y'ncBjH)͚@+J\m%5eMD_,<epkG^HަfTacMPWJ&̛GY?f=sO_Ks9nH"{|8U]&#XC$Ty":&\]F]&0FM&R)UXXcL_hh6iZyR	vdTQrXި(H
+p͠5񹯨..LRVU:pΟCpbC	u5Jvs-M[vM)
+r%5
+z	8qnʣ~}看xx_-KӐ=z y/b$Nq8M0$0m[q䦭N8v4h7cوS:Ϣ폰(NfxwZl9o
+5 gNO={(fBr׫I?.NumjVDgϜSOhy?5Zq>7G~3o6(Kx_q':MI5FXˎ2z1Ih	~Bo!4Ve;;'QUD¼Z0P
+s5ᦛkN=-?ram2\xY$mׅA53ފۅ
+qju-R»!2OycH}Ir
+Ӣ8^'HB754;q;O#hI:^3Z\%V;VZ׌<h~4k#v;k;%^xS:=#cܩ8Vl@D]kG{?y^뢬 (@$* щ^	 +D%@$zab;v88Ďb[vٲlɖN;ɜONrsg"f(}/Vyֳw}J4+Ig,#KdĨ*T!2 lHFgDerU{ٔ$JʥiiNrbEVN*sJ
+T(;#fW
+kEN@^?
+A	SeRaV8Xɩ#*#WHR?pXP,t_OwM2Riȃl6ˤ y%jb_,\tئvY^&¿Up>Rt]VeӿX/CT$x1}pCw& }5ju7=@@|}ׅʮW%>4vH]:`Ϳ 88 0ip_0//LK ?	pJ"C-ґFEn~\O7x_'>dkd7TVOvO:Aߜx?p넂
+?dRۼ޴Ovmbx./,ŅxJ8#N mH(	fT,OK ;lkQ(]J 5+x|+ݼ
+btIW	k+(gqD:ʍGߪ0*M5W<1wI{zӒX(ʄIqJɲTR!&)YR%,w9_J}8WGfbӽdT.	9i.K
+iQN v:HIRE&Vc[Xέd]zI'	/jjӟyGg][5	%bV0~kNTt@]l(|'=_/p4<@GcYsI.DsMb
+"RPoV/]@;;AnP68yCE$A97.eo 3=P!CꌳhC `]Ͱ㲔HLUd2,f3.'[KRw)g|+pk?H5 QZޅ.":c?N<El~F|1x*S_d|2<t+FE*z+Qk ӽl8Qƽݗ
+
+H}7wHpC)0e
+0#L	39eZVH92}U!U~;<{`;Pus?i{6tK-"=/?
+3Q,ٯi&CȋP\ǜkbX7L_|g3C5N*
+$T*̪DL.K F?)e9U&_ߜ]C
+$HۦQMN()`(HhdR`:'BqF%"*'2?ܴ
+1̮R!5X@cZtVݳcWDp$,\f|K6W6J0K%뢜R	`*+JyZ*9hF(*Dc*uK1#ĺބm?Mym!q~^Vp\b6WTQxyvټybcF$*Gמ&m@.aaPtFѭLWZ0RE:'I lD3JH(*@m`3TWo>k,%ʱ=}Ƕ	zS+scUl<[W?G<sl-
+K:d5¬1D?? stuy6G2X%eJUZ*TUN=J.4*Ckx`Ci|uO<=qsYG7cD.e\]/7y8KrԃKWX51̡`_O-N1KE)LgQ<i0{oj>ӔfJ`t]swX8&EgA)؂18?	>v,D#N.|.Hc6e>0wv<Hg<{;<mXķ齸Ŋ"hg_7YiJ@DL&K$"$E雓[^a=.> S
+}Pc!kamoRn[q$#SV/~oN8D¸zR4QYed@E(K8T0u-_,ӻmWݵEvÏ-CvS{Y)6]K~nR֫}F%IP$R*U,jb@IIҀV8- (q6З2gs	6 1P#[K7=[#"'6&lfM9PbZ"[#}TEk>YI
+(YYR)ZWFU$;dx lU}J7V${N0SϽς0p73+vq͊Q<ez
++i4TɅBEF,aʲ,'2Ҍk:r>_|[oe?/ʝet$"`(CQ!~kMHDZR e$d:IUs(+XPJ/V)jvwox9ѩ4?L.jm}r7]P[_T0l`nErXos|z5AI\R@ߡ)+hb\̈ d`%S=?-*־'~;2^ť!$ȧtE1)R,\q}IV4QHfDҜN@*M$@II/">:|47EzMnk\{6ǧn/CV@A\o| QΦ5cyO ʠ{{1[ߠxؿo/~voU¾B3	2
+Dab:Ns?>,S&vP97@%ADNh8T*g^a؅2=ߵgބs1"B	W'\.b(qiVED) 2 Heb`˰Bu2M%o夗/X 8˖S{[X_	߾z70;D<u=.~}Cm(yGyv=74K7KSP[ju:f 3>` P" W(YLoR8^ lkx6w|s4C2h˅, ;K nhȀ"(_xRþ-LgNǛFmmxTSjGF4kwVlz/]˿n||3vF-dd7[ZrQcrBH~u۳u|v7g/;V=J'YUtłSv
+o7,JBSVi;cC?AJAkK8u)ZiV2-O*B?~;?ݿHACIOVu&X45y"J\+lЋh>Vo蕍a 9 xw$8=QH.mnfUoy)W:[Ѣ{юnC5&6mY=e-WkL&X(,aj$ÌclUH<wTp=c
+uTZ.)1ۅ;YDM% zsVyj>{S ꒹M@FrX
+
+c*Pc9Z>AF
+luq&3#b4D=ќx)fK7
+_ I"ս]F#+߽𳜜Ԏ&
+
+-5Ͽ/g
+h9ɳ+5fIbgqpb>nXR9H8$t1-Ť$; /.VCh>צ^_I!f1aFLSPXkEh4+,Eے%CW|b )(I-C/217$*\)wsC,8sjD("\Gn4vCw06E@4cV6rʓ62Ż*Hbtr*6@)i鴆,_&.0^o [*LPp~#f;Nrh:C9{XP~3v)PݕO4-G_n+7)dCNxEUgH'L35E=]:d=R]Hafѡ4V	䕟f(
+UA٢87@/,C	Grek߿}+㎫'FA7MjpS8.[ٶ@=jz@z2oڋǾ3%ELO_ǅA6݄	xw\T*q
+2eaM$GWHaH@D#xӖK\Axh:GѦptA6"$+x\26j:YѶr̈пD	A&;5L^fa]B/; [窄;#@hZJ ]g{
+ `G/>_$c1[e|rUEEz n7wußͯDLEޜ-<@
+O,O	%2^)vdr%ŕ;ysjWs-JkY%/>*E> 4QcWg-GjbZ?Z4`y׈©*ͩF}m '`~ i
+mjCFܱGғs@I Q:D{f꤭ہzl>h,2䆩%Ct_I#%Fc(Hf:.nZ1Da
+$ĿfD b2peo`L;)Qw2V
+D~v1M8m!ZXvh798g!r`D`KOYw>z?626ǻJCv(&|Or?)"z0B94E/a@U<R9WƞTOY	gQ3IxKu
+wjB[cޚσ=Vr<E12T΃)-/ЪM#J(i%اoX`KlJpkd]dS۬S`꧑qb8"rGYSca~WҷELc+hp֥WHR+1M*%F*_̱$xN8Kk}"mғ
+RzgЏi!ܥKd<hbl?!ZB\4uBZٿO6{<?KF1
+N 657˗pez ]b߷Qu0L}pt}avAI""v
+IӐd4+⥋w&k
+'Ld5/ot3+?Ǯ0@k1>Oڿç>zp8>pg930F},QxX{Iqba1 (\v4m#C0Z+-loS[ٍzY-_|FVLLX4)(5-9yҧl+`~l6h|@-8ubr;KƻhU>6 Ԑi7߶ߗ.:NmV d˱mLfN E!C%b\nbY ̕a%#=HyT·  ưG#X=?/L;f2 |~Kb%\F$SceS#@%hچc¯K6Zem!鷾7l#~6<Ãfǌ^͟yAPH^?4~9`D].0{ff38qtcTI4Kiea&Oh2 g6v2ĕo{D!L1hPg^{%#/;GСj$8bC<AO*PGڞs،)Am
+ *S-CS'6Ͽ6^]"h\!0d*Ҭans
+D/q'9q/ZnZE39lZBH/I<hqFmv>䩱h4î
+1F'UlX&)="<'تwv+`)>B)ib&.$Jҝ[9o5"` {B"2F&ugv-O̐4;`R'a3M@`='؛1әFX*cFݏ1u__bओ^̖˧fY4k˕`+Lq;ɧYf/9m(vl pmsNBx]?hϾc &ƺX9AI>)PF d4G^)
+вKV#4jgux K
+#xkZR򎒵mL{}sdVoǿ51FP#ƚB&v@K"t~dgke|h[	4HSW
+0?/-.yfxm;b`(\}._.xʄw`tZ辁2+$L:~!!=o >}	S_	bM)@0=#۹r3prYt#[2Y`tS`ГRdUXn1OS=
+EgsCPV_Hi(8Wjj+0-9v42ȧtŗ?_vт<rɾf]g56w*kgQNt=ȟ i!@~I3K!(&ut>i񌙫8d^^}r}5AfG,
+"NmStK賓s!gW1I`q}Fv
+kνblg,7gr-'sл%܅32?6"ĔNS#.&[]~u
+@)KWrd޿o}&Āl@f.c!IhJJ1uق)-K\K)M0蒑@i#mD6מ_Z 77:ZV \?RnNQw()}.y~(C%ivCJ7=wqpR$w{Ν~['~X4l.f`Ij=2ŕejFοϾ TRتOk87\;KM.kfג4x5:t}+tX W0
+(qmk{ ]bB`][^|j䉴C2lX\z^:Xe5AW:J;}٣?^dGMD,EWook	s''ɔ>CDpFsV Q$~ީΊգ"a
+-rVkDe][D.,Y3-ж2'җots]83zpE8q᎝WK&k(Yb..r1*3`;cFrK}zoj`=^ ޹5ƿ2+G+Y5$4/sKQ5TD c&J= ǚmˇX7MI˕<^%0bB:ŗ!fik /rőj7{^xR!FF.h.ZigMHQg79FJ֑ bl50~q$Y*Afj$͝U6vMw`/
+רLNdUm`AZRHk:./g{v^̲`ΜϹ[3Z,P8[2s?_!Z1O=C篋$xQhݱ//$#;P?5Dm`/ԥ~ H/=iw_U =cNv#>7<V<Ud7%	y)Ck)\do<A'|
+Y+Ϻ71tjn6ϊ,姽6P0޼=(V+.{1
+(sCB-dc~6h)5#ulNNZ\цֆ{wP\.\'aFx/}ڏQ PAVyHVRTXWGj\On+k(AON{CXo7OF#ԣ.rtk
+;xxAǳsˎBFqǞ<*34Lu퍍~zJ#?ґ5'0i4"廃 AG%%&0SNލAhzkW\*^չx6$fQg=Us+ﺽ]ՇzYxY =?b*6BO͹cʶugT웖S>h&k>i_J>myW:i'_rcc[䥱 vNF6ǊzAcsP AL`Ѱp[i['i*^>W.O,nЁK
+J1aZD>\o
+14wjFsy/6#"1Catf H൷*jۡdw+]Zue}hw48-'3ФQ'AP
+4MZ:9 w2j"_ V46cf9Q6ߵek'WÝ!R8_~?rЅv&TPGI'3$i1NrUYAFXm i٧vF¡n@ +{W͒HƦ[8T5F(;`t֗F)i,eSOi""9++&SmƏq^1	Ha5/(3ȃD&%av	jHrymQ8ŔZ:|{l2\6,MG&{~\Y&@|7XVū$#H)/B)4P&% ldovQGa&D_(ޝ_ŸN{	ᙎ00\/:Nsb!3OAgAxKoSXg@ր8f1|-(bو)TcQէ	X4Lh HS2s{MbO2fs淛'_īaٟC3<=
+гo5[ZA??xNlDXb'?qD.9zqx9.0	?|^'Nl^\M8h>`ik҂o9c
+X30a;!櫏v:67B<9ȝ02D*ys;PXUmٷ8|{>ޕ$5n5,YKcؙEή6[k8KXJD
+Ů6wHJ`[OBuHl
+,$'M~^%
+6뉠%x>m}5QXcK/^wُ>>k.Gy  џ}@0 $<C
+_}!!ۈEx^ ,{N
+]o"@5%xTZ3<64쭈0Tmbǚ{nϑ÷yjaу5{#ԓ <$1KʑL[J&ufdqd?3=hbSa[l|W\jHl="_"25V6_>7Rzc@dz+NӨkMhaY7*c(/&>KPsH,ljҽlm:Z;=*sv.?~Hs[XrӯI8ͫ
+O!!mIc֩iשm2wh&x/[VfxV/N߷/$i
+1bkrwermGZ@@Z]j`zRQ˨?
+مz<#"R^]h'hOEQG;m2ʱ{K/W]|AEEN<Q![m;#w9R.x,PWmz^2tX-7@I|j}jv.hk*>-["ykd]
+#I\+ͥe)3{":)UozlٿMQ=χ|.T=(<>JUN"j%,mnwoo&!9|Ggi%ң0?V`oϽ_*Q`{c'%>{ז* Uړ]`O׼ln(aLʞzy>r^R{ITˍι'Ʀ)DY&:#Vnǡz:UKt`{-'TʝYZM] ͲIWûƻ^5Q}u:UXMthF=wKZwE
+CzފHliںM3մ[)׾ֻ Q4#+Ĩ̈7Ro/)-i@!%z1&")>&LR=QBF׊;ñɍ݇+%r	M
+o@\EsȶV3s]w
+TvqA64dx
+y;/WhY`s3<	FfC#e}h):1o FL6+^h RY}]66jak2}@ESz?ii13!*@ ?GܘNd=er[
+(t!_QNMn>؈Bjҁڵwj zFG><hMe>sr$N7	f\vncz#kzt77C.!fήFKUf>Gڠ14RRA,FZ\m{?ܝ*-у<mFEIݼrkI۹Z.I'LH3y~ioVwNJI-U_ݰ)7z.LDk_?|C.{n PsР `L2	ǛcÄG%mgwf~|yЃ._f/cwϖ6,dt`6a8=>mh]}u}#Mkmjե90O{[7,USۯ;[ڡjjkRouL)4t$[[ZzSsO5L+e;g3(?|B'(* i[Jٙ#,Bmb5
+F4#M]
+荐6<48E|7bv:)>r'
+`+vEZq/5n8
+&K-  XÚ6~=gFw"3f5	=:UY)^-`')A2:a_W>Nk˪o߼3.]ݑCUqfMr[
+$7^
+LEf-ҤE߷Uį-O!z]?3ףR\_|-b "ƈ~ڴ-cŖͲr[-B4YC]?Vdf]yw=c	zHąXO`^6[V%7S/O0K{s`n&,
+Ǭ>z
+O<-qVZSf(/XǷwyP_<i"WC"ĳAʂ X'xk=
+f:y9@
+72h;}>;cbG2̖^;0}eS,c]>ڣ"^tI:ok=	=\:9 ٬E8zk9
+שZj0O;n]l*Ӓ\<cU{B-u,7uv]-\'MÜ 㜨Wp<=sU"?MT;a]Ew<yJb;<2"2ɇ|nF*MA=ɜmY&\ھ;[ɑأٜ}q(qeoH|7	Ύ0t464`On]y:SP'4p[#f*1^%
+NH~EjoV"OE;AGN&-
+~]UBn4#_)߼ӀZ3ڤ)=1Yda	06H;BgqO\NR~JÇiv݋?<nfqD6.Ԟ{\ctr@Qc:G_<YD2R_bتA`AUn_-S'O EifĠц6urr V[c	Hp1UEhbCuV9WHiam
+'!
+<F.=3\9sݯԨgMf,X}F$撖ʍﬃbʶeC;׀Pm9Hl|}Tɋ`ΘHaHg9 ;[7R`O>d:-x}^jUq&d
+\6 wwӠernaͻCյ'QfLq{'D=e9iX<scTf8[۫k,b"s\UVe%pu	@jiiX+o۵xdУc(RtOCvBc"X+Bxw 
+#amv9mx,qQ81wz(]
+F'_3Ii hAHun>|ȴyU\;iimݘ^ UvZ0`NHA&ZPTx9B5B6f۲.d*!ִnh5\ɺPIHpݵ eGh~T%@+V41`ݿG_O<F/ޡ7-k+hִCkjjn&7bppkQ\ZF zx;扬^~WG̏Oj@SdŤ	BxJꀙDf۸Q"c-苅ʫQOVoxTDOqd2:yk;9:y*)P[T@ R| M]xk3|C>@Yr㗂	>Oꥷ	q1M9TUF\a.prGw5p;2;"x{ew5gsX.ݞɓWxq([A;"45H]C姩UB]+	;;T"SȎާ_W@ B,%3)o2nC$ӻ@EF&X HEQQSEP1ΦMeC=0ZZX5:Z@/c2#/+
+ةnq
+<ΞW
+~¢+c_3׈tFMR.,5;#d}/d~oN@"rm6z9r]}A#&]{(!` 9l,V3u#Di_5̑{8mhZ1fR2',ݎZDQ YsJl
+iCy|3V|nȂE!:$߾b)=4Q=c͕ٔQj(|e	:{
+&fR'kp !g~0mi^a7.1/0<HիMv/>F!m;XFfOƌ8(P.LYRiI]a,OVp;.@-cR2	bݏ_lD>vVv8]D>}pN4/Qѫ<nļv짩盛(KoOڥGpBώS3<9;Of!g57<Z 0Wkl-Q`1)+]J٥\ԦS	/ν4J|Z8)0r$X TqRAbjW6z6l;óvzq_jO.Lz]eI:o;Bfz%bU!IcC+ϗ#&w$ڙW}^0>AyǤ%Fx)ӿg.-wh42w6SD{f%@Iƴ?Aj	jٜhn~Ŏ6Ͽ-x2S 4S-(63mtf[J`YOgCȥ>"G1MuZ?e("GYEeω1DK>B."w118ڑ)vs"'lnXI frSj>U
+Qv,mˌM1?sX"r0Fa8h7p:N<CMSU	/wyHU.JUi:
+|IvR-%C13DA'Qߕ{˙a-܅.
+zbEV
+cv$ֶ|a_fսYcN\|@c+rX[~@pqvKjS|ڞP7F=h$ؤ}񓂛#%ؽ]噩=8Mr-x[x;'_]jJ{"+(,JPv<>j>}CϋuiV1srgsd+Y$\`sj:@/-lJ̟x}OiE(*W
+.")L≹^K@/, i 74>L?ox8<
+k8'Jn qښ˗~*"N  =_Iv}iU,ZdKڵGz,";q]!$?ܽF|VbePyl5-x9;bn(dH٩h|SAfMqd7tar&LUAx6}JC,N{WDUr0Ձ6Q\lw+!R?yx9؅7əe
+2m|Y[J}jG/njmCԟ	5}E+oϤ˟=Fe+inU<^+:<ʓgN~bnrsm<HV}ck]Y*{&i?AwJwm2:W }lآ"l|79x%)4:6D<xNUl)00G_C)ug	Pa`W0>[.*|.<Ww*4Npb+_|·`1pm9gZ2.۷
+#ߧ}މVw:!oήΧ?~́d(Lf2~O9D[/PbM'mRޜ7TvXqisFIT;h>칆Pm°^1E7V@fmox4@%'Rv5T^Ҟa#b`Ks=[Q9Tzx28dl~_i!M&	AB<@@HQFܝxw[UTK{V9]^;=3gw~<\.**%{aVҪ)&:KN#mZxPR*O 9|K
+aCb|)$"u_C{i"/|yC{ ҹ6B{q꡿bB~UYZ<ÂoC1V66nNh#(_,Eo?Z֌ݭks,
+Wt.rk><?l۱^Z!쫣&@K]v-2U!c֡݅Oh$"ļCv 9叇Q|ż]i4KV:3^۵	.[5ї_1 =!:
+ӄ%o=YBTovc<7m
+"OBsH:a'm[0?G$,Cf
+(l6znѬ7כE%}~g[*\`Uy' d:YE8(@4KX
+-斈a9'ǟoTQb^fFCo_b*\F!$¢w(6TF&(١"cԖ ɿSPX7<0ZG˄ 9R-^7Q>Q ^8F/s:
+<(lIZ׶W&GbwQ$3J٥W9709Oo,u}qP|&}+OujRGC	ï`F<:dMWVc
+9|lGZu]"",\Ȉצ	%DUy	!yzy?rJ8 >H} G5Tj`.t0N};z\ɦ&4߿@
+]QMn}6-K/Bt0	дqlԅJ&iஉ@>AH\]jA4х4V3?+&%B>o[Y2g!5ʍ,.:I$)[LҡlB^؉Aq'ԩ%Q7:ۍӖWwg>S;W&u:;S]n򬻚|;ϚюGF:_ڣ%&VCo{C޹yvwbֲv>
+ŕ3	R\u/aH_Bos /H9H*
+4XJF@>XѦU952!G3N	L!"xI-tCv @Vta V}ggnC,ee3+مQ~{غ+_A.>^HqM9/#%*ӧNbu#: ͭ@b;;^T|eUӒrQHB+㧫j}>%)i=~]j֭G>;ޝ[[ȯrmr&Cts<5FC?ö}N-VSg/NFzہ
+0}g]CkUUv.@uK.M[Z:١WN.JF.7yWV-+pwG(|ZUS6;0dՑ[Z_RYvZ8h|]K,\w+?LrAu%l(d2,i~BoɊ*/0YbnC ԹhWye>ˉº7概4DJ7g_2Hߨh3!vSY&{% [-vJzsvF6DB){cjf߫VKTF}jkZgӝz	fMm}X& J\=	}hNgo^%y Є
+D]N%taDrA!2^"4:j˳](PI9P	5
+ֈφe]E?FSh$VN[]2mR!2>r`efS˨0;<z]NN|%z_ca<;"@Hl`Ijmk^*?'Vzۦe;-j9QT(cٳ;^dt8׍HQ}N}yh1OH\yyay<ƈs#W_RvMK83k_	!VvȻ֌oqVV]Ga5Ť,TVRQ*+6yˍ9 Tix5'(|qjJ'h?	kAC%^vFJM}glGK-GBG<O:>Hl;5Wջ"eHGzӤfFֈWf':TC:ti&^.nSS8+$*Mo8( ;yeq6/\
+cc	rTtꝝ]rB\v@rpOtZ,}0v# <Ҟ !&b3ʁ]ÁY(qQZԴRvRI@\q8M!/_qVQ-W3}9tv)-~f!f{c>[q$c=D]'->4:ר0U2z*LIiD=֬1Szx7=еX[q.&ʵ-_Gʨ쳯&<oY aCN.6.JEcMn
+7P]q״!@"TL]xKWA TDOKp "&ue~,рWk<O3 m6HvMBqc4@nQU8,체#^kNTg|?n,¼q]w#s<eps,Oft	LŽkCۊ{v-o].u-HXV 8xΦJh[~bO1hG|fRr)٢ao/5~Sxj$F"|(1X	}{}.?{Uj}}2jBd}Dwǔ;F
+2G ByȱB7SÞ9nTnOznE韄 Fv//<0k(+sf*#N9JѪpRT0c[;Oe6Xwӓ;qӥE,R?_='NJP2$7@r	9{JG?j3x{kk
+ܰm$5
+h<׋I-Oղ:2FWO?%%
+-N2](|=ӭ47HuVlaxj?s:#ۧ&
+p*_knS\`DMm
+HztׂΐOfrYx`\3;*kr+/N/}ܽ 4vM(SQ!Dvt3~
+\z2}z3/Jn<<}w= ;,t{%.d`DO?=89`S*_/wIwugfR<mӑlEO+q67=ܘa@)
+E`#3c [4ƅqyՍ_M+0545=W><MW_P	 	.ZceΖU@v)̮	||p\5hW3TuV8tZf%BXVI׵\ZN̵X@N
+>e{/vCϤ<?%1K 040eQѹQDJ8<P3N3_v/u
+b+i];5sSdҘv5b&$}Nƺ]r.]˔oν@ñx
+Ojа
+?m#[rI*<vũy02Ǳl*a4co3Ăvm}k*O,rѕ6'4@HJa*(Gdr-9i5UW*2ܲ+=PCǌxi|,
+&G>b5/(]E/)1Ia0FǆW@Şm}%Ҁ1]R'<P$wt	a߀L-
+~*kZYXqU|̬zz6 XBƩ/*ט	ZgV2VZ`b-:صظ6$b uOLUAl*'+lҠ֯=EE#jn&hba,BC!ҡ{RٌҷR] M^;(Gxe^sv*f%ڒ==ߡ>]}*ܰ<^֯C/Y8KkKOnVFp{{,L֙7^O+gv[<'B4
+ֵ\19戵/+$RoGk7l[ȒوEhuM{לiW:9G·[ƱFPouRfWnv35Ȣ6
+Π Bt6
+ԕLO~J$/EfXGd!k`Av(μ;#ztf5؜u觾-8rϓ^%įhm*k?$f!R@^~Ѕg	kӾTE*C]>RR80g˗ȑ
+jm5zglÏRc36rfl0ʅu5r.*v$ӛ>Ȅl'UBYq#W>zo΄)ܞQ%6LNL" "7c/qY|{F4#)T
+Poiexr/˕nr&|SP7,=_	f@Ĳu(
+'Rx>#ZV#i! i|Hf$Sc,;2E"c:
+&/vS&8gduyK/A/qOz^l,r~bjQzNܻ9,l2[D1@K_?vibLfVj0/>@S}\1gʃE<ܻ#`ĂHmH+ !ܠ=)13${o޸lw+S;r,L>l-bb>vH 8$ S=S1t..LA'?ʟ$P;\s:nDPq}~ZaFMH7.
+iDɠ% aɣ5yz803]w&ߋ-`.eAocqa%'*6F%b5 K!8 㵏9%ؤj3D:,䷴5x5y٨  ث
+;6t9+ebU9^is~>
+HN	[݈ig3U$'Md/( TpXN}tŏ]ig%းpD,%h0 ;:ܱ9! Ws#ZPJuϒչIZÑDΨk6PWrAK&ÁUt|Xc"kL z&ᛰtc@	6@4pCKGpm5/OzDPg^Ldd{iR4k'%zf
+0ipUbKUz8MUY]ҡ^:diXD;-3;;GUWJ:÷f8ӃqD}1لŮ̉j3cs>dS
+wbEGs]وO_Χ>,F<҅%fĻ%然ET\2Y'q$dݫgR6D{{ 8mP6~	ў^Nxc2aDN|fSRIC* е]=gԜ4u5oѨ`	:io=wa~=,X|o=t5js&p Y ڹ6U]KEp_P1&Z	ŘWCWgJۯКeXrSokk^F>OצOgXIcN&hMG,F!Q%) Ϡ8cE2&*Lma=YKeod&tِZ2#fOjL5IW0?<@#qT3JVp]d~.VLπRHoLAu1l9.z V`Y>in*t%7۟3IVj#	#ser o*(<0aT~2ޠ
+	x_d0h 1v+uD8{I׌6s׬TY#y7>
+8;F~%Pi"IKO5Jp.9()FWA
+	Z8z~4˓|xXLX%SSNU6xn4xDtP"y_&Ǘb8IVƑB7~9j6YfKvfgj=<kVE(4,\V81 ϞyۦZA;t(D_Ӡ90oc	h6@-mm~v(i0 `U	vủ<D9f.,fK><p=#c}BqalKB?ėcy
+CV~r:Y=i]a+kqr`)"m]n@:
+@1RYQJVD[-x0ۍM$yekJ)8heƞDGv-?t#[<=,_jԁ]Z(g[K+m=
+QA{	O.EZ;Qf^=ӷGZKU{[;Z.0f^iBE`A0'^knrN+cs#Oe?|OlZjT|&ׄ%zpgk9ɕK'=(qK[_%Ģ:*eiA8h2fxrvf{{hPV4DV	{ɔgd/>z{էLÁULރ#\{#;N79M䈽La4MY@;=PV;
+ʭYMY~m]g	 P5KBŃA
+Oz`^ǇjĚJ=,<	n@nI 2+sx\R<[SS7$0<c뿰2+\Fp'ٵ76q!p~eNyֶ 
+2O|5GO.0ipS'H%IBtiЮ}t_K	Rda pI}tCn5"6Ĳ"5]{EWcǧ.WLRY-Mx6bt(^\ϯp1`2HW8lt5IN2(rˇ0T,@ƍk9X{ݧS`~ϝwu\,;7Mx8}E*6(A`#PƉp>h@
+P0)T8D?s!0l  W.x9=;#k&ƹ=Aj;o}@#1τzD<E?3?eX.T-(hgCZMx7"waTl8VDdG!dgC_Ec\y/>a'9}zǰKE`@R4f,#+FbvC}QOly2SȾy`*$KJjł+P'XEK-elyoﾍ@u-7UaL ὪIƠ fGn5oCgqI)(KHFg'$s<N p<
+,jc*]&+frIGBg[Ez}Z=˸
+(Sr9:zXIz3ݫ0Cp d.3[F	cH=d=&4@{_mjhuFh#b^se>{X(90ZZ<T_8ϼC#LsfonhlM6 9s;6s '\.YSKKXpmicNts''
+kgƞ9e8YF"zSoQjwPc<eBG[sT@Ԑ?ahaa$RIٹ,iXAq&6&j*4Vf݃qLw`~;r#*'2A&O	T/NXpy`ɄYˍ#-ou-q: ]3tC٧DDa{}yiMu},cP#CF09,Oe-`E,mi?FU,3kɁjǖN$n-2}@ϕ}#;+7_
+H2`\P8 hu{szgVH >3.ES'Kp桠~ft:QK-DVb;|HX"k(
+ityl7
+[Ug(ȃ֗*Cpð6M`wIP4iDEfD.nĘt>[g!] ̦F\Nx`+x!b/sM,'zsNppg#3{AJxx^꫍@=df~Nmk}ue 9V	<V[k\~H.İMuB㘆k1=K1ԗMAkOh\
+@C㏩ wI0EL|Ԧb؁1_.לV2m6#(Y̸c$3vgKp,tzæT/nI@?:
+xi;-hXy^.֙gAgҭW')^c3xyAq2̏	Y>زr֩_A{49:7LrX۳aW [јq>trpNHfAo!Rl>1|Z*l49mqaU/D2GZ-la=rF3BA^]5IxB7JVLlA8P
+ O*ʎpF,m -6rگ"C:06Bu?\w\]C5<m
+ᕧRg^-SLE]H&%m7xG/s*M4TBN
+Je/bgkfh:KTښf0fQ9
+2֮ tG2PO$ _M&tBj F9ˠY#>\]l4Z &[?/P,IYI΢1RvⰡooS!ihԭe)Vt ,t˖$^f!!mqLsUD?,J
+ДT.L˰ ?^@'}=h`Vb:kQ\5(iݍ\y@vM(s ǘ\gs%D\!1ŭ'hǾ_7ĺI#֏|z%:1 Z)a<vysÈJvw&5 :Q4*LBW
+cgE\VY,:4U+ϏiK`K¼S@ w<;_]tiן,ɂhСG~CPMβ]
+s=: )40zscpz"B/3rFc}q![Oqt#J3kk{L^2"<E
+%OUs]bjk@ѲA(c?ᄘ|%11.zvJ Nd3!8nbȇ;ӬZ-)P3fڴ(6܃~ ^:&6#q3>a˥Z|\vx}LmuxP1ϯw=*i
+ӻS_8_%:<o9nU͹С]y m3c茎+;MRdCvܽSwjp2U.]xyTE\0"ARZNVK`㉽
+ǌpB#7>s{RzP87u5Ssʂ@ڐ9*Ԫ%FýɽUϯ_۵F9i>G8=FISDàJc4WlWu@K'!>>#ќ{c]~>"K,saN~uk s{_QO~IN:&xA7b.+z
+#Dw`$;|.6)g(Bnk*CjGhH-(YMcEʙI®rFю/;BmZIß7phF"Vnj6]t;YLګٖ1Kf$=k'tz5եN5odʝ'+­v$R
+/=flrEo#jNzsϓWG7NF-;g:!1BF,Sp4N7!N[<*|ZEsAS/]箼,
+ɋv6 ̥J&{`; b4>F\TLQ&(Z|G cFJ'%WTZk!7ʋ1_orרP¹셗k;ϔ4-IL`;a-lnNf.0뷅>S/}:2חp&n~Ф9U5B}:wpNlL''vAHحj5Mq{g 7
+WΫqVW'>agԤ8>g[4#Y;Z<ԷjZI)ofzrw(,)_;DψW,M4̎afcFi9fsIC3^Z^҈>ruX|!uE6u
+)n2JNAEB8~WIz<WVA{ID6QfFiZۃLk}=T@$u?v*l]B%W}=iߦwtIYVQ!BzG|+^3?ZzB]80-z8e[G;%fH۹mX G?}0k4pƤP3_'MK-xr:W5Na*vp=zьMBɏPPΰ1;{1JHI^XqyPq4ѱ_}*B gz+/7YV+, z7"Nuڋ^|mRivr#:8u'tSi7˘^yc˷^3mCLR܀gWgpO"qjp$W2v}x/~f3U8
+ǰ^NEh3?|Z7`Xgo}&f@	c*OB 3	-T8mOXc*V&W} L9ӚǏREq0%O@SArQl[3je&]RyZ!S~xeYPpdw59gKa.uS8#\x<@h%eI$c\wj_t8NИ:wTbiQąv2#Iy%_iPwKѨW5d(XԅUFǴIHnyK@NZ* .q/~M! ^/DTNnkls_9U1cxjyeX7 Z`s1unv~}BIws1_2]|^5S|sIQ#\j?h,5XE+Y:VVy 9},>MGX&&;pĘL9H"9ןaL|-::@[F[)oMOoF0Gcg=4~JFɮ2I-K% .1"<Ȁs9'tl4Ki9Aǉimrf1O zQ?s_{Е\)Fv_ĥCπ:\mǻa8^-&$M|}./56+?N"ROv֦z"z
+%dsedXnbZe^..DȋC0r(;X(76<%r"| Ia7X'_h)mm4oU0C6{o>i:)^ډC88Vq4-T+CG!VSP-|s(]sùaԡ|l9,z|&!1M67(A.<V-J1Z%?zƾFϧ_[L;}٨(m269Ɠ,Yxn
+c_ס^)D!=+pȡwOg5Cfܿx%o_}-ITUDLl_xоvh@MH-ޡ~"i#
+z q)I=o]}& Ls
+CE@J_(|NVcvW2bEճkF?<c)yYG_?ߤڛJKêj=QD:ޒm[vHmĵJ\"H	8RnJL،=ZID|UX.&+9m$}(&^n`e J\c7cv>O#^vQL7je>	j8|3͊'ŽIԭ"yx$6R0jjwGwx]`tXxgVNe̚aӞ\<@Y'p3*r:;IΉzcg-P
+@6M%CZ=	%{{Lϝy6Ź~'ICg_nWH]b/r jw2s__oqz{_^#rĀ- 
+ʂ~059Z،A%)	,@D]@RYjY @Q;lh8SLۖȓzMܾА՟x˭o_|Sٱӧ=5Մ99z 0=[T 1rW%Ps9ogG68!W23j̃/< 
+d[=u8Z~5	{Lޗh(="Nϗ\lSO,0&\ܴT`:6#S:I+N&tf]L)5^/9z+Hg
+Ӎ(58]XX[g
+kfg2;%r#5Yت?]GY)2zo},R=,^X̡yR`є:R&_IܽQ	i}vt}p緟OL6J
+ 㕉6]nǮ歾B=O)Z؂U눮r)ݧJ!v穮~`J9l7((%cݽ)(r,3`݆q &2N=ތ=  (K©őGE6SR~
+H4GwgO)"SEX}Gt{PH*i	dt!ݲp>?ps<H8ʯ?Uwɨ^1,Bc}rB~odR6&zAUF1SsQBG$zm@9'p}r ?7ozd]OUSxˢ!6Bf]ebDl'l
+ܪ`S_2jakA"nAW"_y~cO{Eꬲ*=3]OJ. #?= +
+8A{?WSj xݴ 0Ld)[^{n-kK qҁsOZYL}e+zbpewnQċBu#I+qΈQU;пWD4;l|_Sb?hekPAh`Q̓:^οr;[x8A[?5]&fhuRop_	"p\w(P;xshůVh;8Pxaۍ$0/hLCjG/]]2|fEw?}E8`@Đ:2'Q<A.b0~m%Ч߶!6`#~
+,RBC1_^\.c%Q/u
+ƃVLoq'9ho{{г)yXIE~D(5yI	rla$f#G݃KjwkSMSa+ggB'm9i-gD0 .D$˺~}uz]cLf]'/_v3W /.A(}		čIVmoZejwuOmKg*3Ö&	/+jyk,Y&Mtj/(߹+l>tGpq;i\iN.~b~opGG{َN6;f1e`]:ԕm:[~F99{U7	v8P5n:˒
+F
+zpc- /Q:sM̷:53P!<Q#ˋ8~Nl%twT
+ي{>v({B>^}qZ} i>~cwKI@`}Lʂc ߹#
+oiW>ojW)+(;1Ae-ՋD/׾x?N8zq7"!2t_NE}B2㝘8&9PhCQtZk$K_端/c?427UJ+AY ڳDW]PPe\6C \	?Iq9L	`ljbf*>#n
+M^?l`;
+2[ ZQůU)pl4ROgKIɇ5= 2k;}lDU4GnƤ$Pzk̀j[UYzm,ghd`Fb#'t{l<Ƃ
+*`c#垉2Z
+׫u|Z_fvmF1Wv;oP$-'ù/e2m/̈́r&	*2zPvnXJVYtwѱI. G' 6/I؈G{x'~	AtD&H^"hI۽{I8qIܻkxzg<i'{wu:3#b1{}AG]<8q0D[.-
+v
+:{6Kmzɼ6N,mm˺^9'wm;V?dv(ƽ$6KLFSiM*Yr0m;l!phX"؇ۻ(x%ҩo:}H#Zg W?Z0!_BD!	|J{BsR 
+]0iT}>@.Nv@ك
+(U r^@͋pBcyr!<^p{#
+It^OȪ+Ct)H7p-VEKHM&}u, tȨQ°X`)EIbe,?zA=9'b%u@sRc	n`0.\\jۿ%X@g_a%|#]|i-2K1:<\׸!;RZ6ܘ[.H
+w$sJ&l 	?8~@c7y<6%)S_|/O/=PeݠZ.ii6nCq3hٯ>M4{(KUjꗨ8۱9?s׶c.P:4ue𤔽n@WT˙ώ*S۩ijeҙE
+Smv9sv1~la#;=XR,6rlm!0vyaRې="MxVT;oMW[%F}AHTɩވ9C^(vC,^dܣ/9OpFkRxr'FaNӕSAܫpp9c[KeSRDmP#8)@턩ZěQ#[ϲμAĈTeMis@gFQDh\iZ咔3&sug&qb6gVpWÝo$: V%7~E;\ZUA§Ճy'ZLEAţBq\kCvN
+uJ,.o?[r4
+;_<szqA1AJL2\1';^N0_XOho9IlC{=a۞@kX}s4j[$׻_mlzk;wCMg4S!7aiQb,-\ƛH
+$uHѬ}2O62V3PPbdhE;?qi(v+C#!ƿ<2'f{yұ;&V:L8 k*݉&
+'ޭC=N}F20jg.bcD!$TmM	@Ԇ"tE6O`]Hň6=\Lto;`ރ%oa
+wf|ΣqXdCgGl@a~٭"by6]"{{ǞzBxiw(T4"AL
+pL֮Xٍ3or5c$G[3wڌҜW_U6QPax&$:Ucg緀Qm!>7g#KJ.B%eR1%-?I>@h٥~J/U:3"-pMu2-|\Y~fG'+oģUEdӐxh 퓫EI|GIGf<LZ~t0b:ea0i|N41+l;Yv2`.<GR%oEkVht'n&9ʻq( a`
+a/ͮ_}FTU`#bw&zǎz_H5sX2,g9[A@Brpw[S]Wsm7T}oS˹o@:ns/qYj&ŵc(	7[)wdzUnL々ٲ1x0Nc4F1F6c'x^Nu^ys|1bl	Ky.Z,҄+mjy(Ld;(e^=d/쿽pA)EVg=NO=JaZdSe`_y<`GeqVSZoX";vWC'x鸏_q#2	:c{
+W8}&ݎejeKFM1m8{STO)kC]2D1Rvv#VʷR9Щr(CŪj5P#+'g4Lv^>&m ql8VG/Or؛B[^Y 7@q9*Z9mM0Ø8Ӫ!m32sJB!0?qgƅˈU:ċes̴hqDz~W/%6ҫd?Lq@`%b ~՜S)xIm˜r{3/.:E'U;/At#pKi&HOS<#^zxS`';,~}$ot\CTA'Z?};J4G[bsL7!ap--G0pQ\7B_<ʔ v=ѻi+F-,M>/)s*|f xc4o&X'&dFPб",sn*;ym8dfk۔%:~o5$Ddߌ@;^5kV;-lz3/B\CWY̩k| w{bn.=|oM0Ɛk?IL׭CFXĵb)^kAh\6l/~:bbuڈ%&=ND6fRUF63Dm!wZsn\~ΩX+lphD'~Kx|k0 4=91@wt_*XyXC׭|C]×>ZǚW2+w꥽{a	Y/
+UU-{
+8[y1X1d!g3~P[gN30)Cyg8-Ed=e22l'BApQOGa
+,嵤vcSMmLJA;l@6E\
+Jd"}7y%Ϧ8͘ucv@q
+q>" 3
+y|O%%#D&ށS9k_z<{G;wnzSb]̎`p3Ρ -_yϸ2]cbӯ/^>
+
+~+y%,QH{j׍Z+-cB/$Ͼ@'_<}4u4ִlQsdDUC0\`ŽN/!^xQ
+.p[EGI$J<t銄_?v2 LoV7y3?->,lN ߿@\f E1"|D17_/=I(`x'^i~[EknCڼgYx
+R+v3;e"V#K@bN?:LRvqr-G"b1Z E3bsmI& 9I>դ]#"B`<WnR?l"
+ = O#=.IWAaFјqad/)exYטDs2]L ONNX:	
+ͪ~aU^*ֻ(QCI_&_}O~=OU^~5+5FkrpPߤ|TDQvi@nG :>5p?K)Ķ'_"
+@! 7`@7TPSI
+x &tncJ~^5.K4<\k`@tɎn?	LBLH^z:h
+WgV&5%/<$̎zɤ*mlUӡi|vIQ7"Az|"sz_'o* ȵeS$0x_gÙ0<$,mZh'ߘnÃ$ke퇧8čN
+51_nvF:@$-`	ԂC7<06\χL!|rHLXg Ǝ8'DQ!5.~1!>~s*'㮿6#Ȗ_תdXd-łځ  @f+ª&W3̎xS]
+t8
+À,96:?ۅIV给D)J@GLk6Rm5['-ko]TE)&q
+#0hqʹߘKm֪(u3X0[k{Y)_kNMap$φ3cvh
+*rSUbFRuɻiCOؐy0k{Ò
+v8?V[L`4c1 djIQlѵq)*)ۈ-ec m¨\lx>yfqѵ9>/%Pb;`}zE^@sǲ= S86d\I|XEK[h/fl:9e`h3t0+DڹS)۵t&4CÍR!lE\1̎܃*{R3Y"{1P%$΄͒R[UV~\ɏ
+rf8>&0ON2X#@\;jâa#>z+
+#Ycjmd9g>bzA3;3{ޖG2U>3'#,b6y+s԰ṐG<؃B%^ͥmfAs*Gڂ23g- & n20 hfkx$IEEoB=jb?[3*ĭ}qP+Сyq'MP#KL/N~xL1fcy/I9p}I\Z֫Az66vVgo_P${gf͌vf`FZ4@daˋ _/2\$evoU3#TLo)}vo[up[Ft
+Azf%Xf/.f|;sÄ BVA3%3v_bJMuڿmYW1SV:ǞT/0y սbŜOGB7_<ެ5_{JloYEn2G )˄9*7F_x
+g9׷vaS8JI۶1OVӡ[?grN{uܨv? XG5wsk_'9!h
+9 ,k\;(Ny5v#1{
+ve҇P	9Nĺ
+GC`çl䯪׎fH4=d]}˼93@	]P_mGѣԑ4qI0
+A<4g1l0#Uk21 'oF(ֹGReNInF.Y`*Z5̡p[˳(cИÛ+P,m1t  ,w}7CmY᳣q,1>b[!3ͳ3o>8XvSV>c}ߠn*TAkB-$v_T8W/ & d^4kwgYagV ta#DUfth8;nhG|*ֲv$IsFAyB=YTM\~):uhЍԉy*pvd-yvUlƺשDt]͖ܨy0I~p}jsDah</H8ٌx?|ܸA՛>}ItcsȢd3@`إz]wg{RW`~KâmIO<!|s9̴*A0'GipØ+YBT}~	ۚ][H'F
+< U]nx
+VLI)y67.Ϣ`1jHDɦ5B]%bb?Ѽqe
+0~*Uqls$P{kת!PlITlE%j˻Ĩf;G6^eO'^τZbdDfQ4bnn±c칏*$\X(/OǺJbeM-WBcbW2Д[eƔPF\Tt8aKӤMݴfuLNY9_Ťv~;K9B̥ś۩[YHS	k7pt	,u-mթ~}-u(Ţ0!èTtD&1_f<YNtzU-l*=5p
+y2Dz.,gbpYRqޚMotld߅'U{79k͢{\>n~u4dl`z/TBR:#گDB^zZ:jtdjVD"bf7	UFN8!qҟ^)s/byTC *zt}یH
+jp6TPs]߿r 4-y{aVW1F@  wc=7%(90U`oYBrkqt諛zp}	nA,YVtnWV`	Opkbv}o@q%rUS̤K^xi$AG^Ƃ<=9~)AT!M9PgH>ԆO^|ugr'38<Ju;7T4cutO;xSPՆp
+K[aL9=bcMӎ׃w>v[Z|'䊈wg:;bawe-/{	Ztd*J5[XuL<HR>zs6mt)^40IFQHh3SLHZޯ&~5L[cHo}\N@K:ߟDQ7	֊ z5^2>3/}pd|	Th$]UPc 1w[ڮu[\m\R <	4jnYP[9pkcW&*qc4LI3 cRk,7խf k<ؤm@P-w#.?F[)i 'f'g{E:[ݤRQa 3NP18^^ҳ`QXβ?&C}ި0"
+:۱+dXUń%@R	Ts<_nڨH럏	Q!#g9}ϱO32ETܬyJ߸&>0ZD~x0n;d`1>F8_%~HO~mn3=h~db+-d	&{|L54obbk(`2W?↥m "d
+jJ:m4M$yM>S;Ę@;V?cjO57W>u/sM2L~X1Z 5CL`܂܈!B)k}{2ߝOVb]|(g־;5ÑV3Fj͹']??YZ鷈ku\{8B/1Ds!\틳Fl%}a~P	wߝ`
+u-R߷_5]x|EhvI֒ >1`6 9;jQC
+mE~$r=V:*\Uv&l8޵Rb`_NSCNk{Z-SEo6Bf̽[ZP9SÃUcFD'A
+l
+Ub̀C!;x4Q^	V(7Ae*
+a=oC퍏[$+N}ALXba$^23KCUǩ*R;5b}Xv-l^yq_d6\ҙǣ_}*htrLRBMQNٔ@ 8Wǹ]ewjt{/ 3¶RZ1*&s>+!g*7(
+܏2X9[>i-$N/k\;𰝚LO7_dºd 6
+J8$iu1;5t:Ax{phw\m0SB	$˯o8sZqţn&ί섴z+7%>6)s
+hʃyx-'^)dƱ{У([6J'ikz* 67U\ E6j?dP{,"d5\`ݣI'T@{ڻK;"xs	0B++ZXJ+zұN@Uai])	)u[q x"_gB
+&֥w:8	5J9ʿƯ<P](Ψ~"fs%waLg`~F.ǫ&nk9Vc3P?Q]\*/U߸̯b`o}V/ｲ'[Beya6u\`统cs9Ί̏snꙏ;}uG'w5]
+I>P5Ek(o<YUg0R4?b@ӂ`=Η<qWOt~g8yd{Hiʲu&R7An	MWq30Au]0,_)_~{\C77}"_h+g~]M
+f*z:@ĝ(r{vHsG[Gt;eJn|>$	
+:xh]yFu֞Z	uQs$36R_[*TQB0cb?c
+S,2@L58U`ϨGhSWb^$;`ڣU^ߴ3e`F>ǁ.gaR	6t7w+rɼOSA5_aL)m
+<"%Y~ι׫'Tl n's0yR+[JLuxU vL4`
+
+! ЬSq*L	LeUb;̃;pf8ݒk]:c5_uiLr7[sBFE->Gb[7^dMpY\G Ѩse8gC$*0-AxeX@|kνYM&b(i4ImrwSt(xVK
+/_0!˝M#<>w_~)?y)3ap/!>5	.|&gf	r.w5mf2O=L2h)9L]x@uv:!,N~:ܠB}8|L.#n9 HmEt
+WV1_/82"Z'޶6C|>ЗΉT([ԑFͲ`p[]w2'6*(۰4!C_3e2k]ފ)m.ᑲudO^e]{}}Z&wUw"<CA,n4&.G,cHZDbSkaS_nOxiIZZG$zK3;+U_Ǭ̸ESSGD/%F~[r{	Wخ
+i3~6#}FdJFF u8%}M7lp_1<z󃑆$;쾚"ZqI{S/zVTu" R;*TA<8hy
+W`:F_]Gb$q18dֿy7ĿbkLˇ;s+viK"W7U_Rf`N}yȼw|tECbp#<qʚXlgy|ĝ:l|=J
+/[N;5,B3 3խd}!rS47댵6׵ך_fa3D:Ւ0QY~K푃y0a3zd%ƈў36ݫm{ȦdLg9 bC@]zt|#{)fO&>(nj Ev$+(
+uk3OwϾCYZwD.(\fw6ukom W%4/=N%BSUÚ. ry0,H/#QZ:_: hDɑM0zM<J52nmFbΪξas(%lİ	SWQ`h*#0ވWXN&
+!̈́5k2fHSco<eSPmLzĄSd@VCJ8\}(HϑHm&
+kp}[ޡ) ?y֑qM	`p2fv\G*LKLLKnHJq+W^,	27>ֱ,AwՙuDBnv2 @\)F*Uc]pc>j.މOw;KsT'E!7Hښz5O=l\}"84{<>ݱTCbOU6?fH+,BZ<(gDtlvxqެZ%M̖_שkN>%M]|H!<v䖢ല坡xNB~*ۍ<.ifUoA
+wuMNho
+zB3RJw"htaL9)tc]TouGqF| ᏸl)?ÄL[ҳy[ >hm+}EE5EȖ־]s*X 鑭^
+7EY2'&gMr;ioV9Z3qHn, PBީ]/,}6d
+ɾW5{.q$OT8zx&l*z"pD`|Ͻ5*
+*.>YP :)w/>k6[H^9ܱHm|u΀a|F	R)4P _.ή+ m֮@1Kz(~zD"0ln5PҙG88'9AԌmƢXmLfkS2бXYZPK~'Hod4<f:я<)jg؉mf7\
+_!l\C	F9|(zAkscA1ɪK"9a@xc%JppqSA|lqfc!J!\^2gop2PvXL	%TXM4ћDμ٘Z9N9Թ;o3I(7q
+H+Bed吶58G`p!6r0C`l1*'-qDz0 bN9[õۃJ.Ѧ򡹋tNi`jkۃ2v5>I'?O;HhMh%"~?*ů/SۊT~S̱zd?KSۆȢZω|;LOq! 
+Bg֜a<~nQA_<3Fb%thdO"(GIUW.kȹ[6=-@nU+ȔB4{	ۓ;1փmr@:#FAb
+.a֚393}\ka'+->!dЕ1ps\%k[]Z-#IܑҶgwC
+6sDu6gdtʴYw'0:gD$uCG`i`P8]
+kvSx i 6jEN5`kʣX̴ם[]@!@Սq6[dwp>_t禼L38)6\yEBX6bu,ڳ˹[#:aMh=h,닗oA4u.!^{9PD>٤%wZ!f{
+I#Xo9~Q:yQ;8>I,AbSV5NgMiF	'L\k}δ1TBfl*n,z%4Uۍ>J{Z'֍]v51,{5+=I3USw!A?FL>Xۿ8|Ё.)sCqXZ`>	Zwոe:4,kd3/}"c0i3z'O=בUŀՈ(F)6ǭx-jr^?}5Pe=Wœ+6T͚l<F^,,pXNc #9A)+xWR#M&]Hk#zGF6DB?vJP>'uG@*'>CˆK-M^\h:rzGI(=uUEdmuX|lXpA*4F7'v}6v.S!8MC\-i˪h&ڪ򁉙w"agS.B]_5[&wWҰ)^9Ip`SraLʗ㬝=yw;$tR
+u	vӯ]{vdW>){Ul:3bo>UTeї>Ϊ#MZ	:Na|RQfy]ղ0V"ݡꞳNE=ALY~yUR*KoNp6tNZjtGd=}G%sR֗ǫhYo{MĪP!@+GPQP`d`BҹE\kPFG(X)eHOp3P݇'~Ānݙ+``~V2'Z6fj%IqD-k]p}JZL8TDwKGDѦ8۾QJVAv7FSK[jC?5&[yJS
+$@K[G6M<*vdO\x7frN{4-
+y
+U6e=?>Jt\xE zٽǟ Zb5Khv*;saZ9[AmGb
+ ! ?qO*x=(՚sqe61-YhrŀX('8V_7~E=s#SW+kFmPp(9T2wȟdoglTMӍo?K%@̮6̙޿><Bf^>X1:TSWg"1RٓPkTa't##ddk~K;r,~":狖ʭ7==DTdThEhfe1$N(u^2WH}gűC~d{qףϻM U<&{0
+VL|)^TI 㝯gZ'vûdrGsQ/cFr$N:>,s>ܟ[;	JMR7wfz~5赇J+/,Typ<X %H$/fhpݘ`?be=B<28,|vH܀r_&&?EqtŮbMs$?7րWZk&e },yYo-#	nNνu!̉)n;[8
+%{6VsPĖN(%yP>3~d%56	 i	'"
+;r%a.EW͝S/cH4f1T<iW*h]oC>̙=kr3Q5$lEb4xmPѹmEx2 QD=H2{2M(:9k-Rۑ<?ܠrQ{/.HZ-Kfy/#.?MORzM/TLHwpqZLJtРolf
+HB$@i]w#``f؀qe[T46A9"`IA/^}ǟmؕp<&_|W^P;2G1U|S5>['{s-WxΝK/1*_~iZbɉn<39Q;n`[v7Dd'IXm]_;rY6P,ռSk
+=,bkcP0 k6B_
+-x۩lP$ SxᩆXj(cFDגU<5y쓭ޮFK/zGC{[z̓O	t\ `M
+<\z
+g'+~?)X_>p0LyOl18݇c}n-3}]N#lki>7; Kf6ͬ)QuṪS~'s5炊XsօvZՄCcX2^3&tSn	hɋVYK:dOWH<d)3M&h+$xtݠ౟~oK;</ |n,_N]0ձy}@oh.exfثw+jWG-5?Y6	k>(wdge˶t*n<BVSiDֲ!LiMFDACm3 '0П,X5"D!k㛤b$h~K'x<$MQb!4,K󹥨cV&Z[wd>17o'zܪ*QČ<xݖoWjP#Fd)j{KOpZ/cWl٩~SVwkO4]m6mlr kvv+ݼOM<k*Ϊ$5&j9F"\Wx8:#pi|U/uؕSmCI%.p6փʪ0J^|<pW()EwEѲaY7T~@$KK3>mo<MNhJlNA{AoC%>}͆!|=o'YɠwӉiĆso參K0Ȣ"(<l* "n "f$tut:t'5Y;'*JR$$Umg?|N>3sFϷCR.{_}2%elZmJGpAWXAb'g#^&VKH~s\I?(m=+?֒B=s7֏중9B^ڠA|:TtqI!;x[7quJŎ5H/o.+&a1J"K٥f~8ZdRaYB԰N)]O#cVE]?D/[AպPzM'oKmHRZ.tIjnwx)UrGlΩ&
+]ܓ@z6(bוWXm3'tJQpP,dC<]fAדZFa dH>eS__\d(F(٩otYjlb8ozUOKi5ťLQrb>!ՉOӳ^ w?uh?@r
+z=osyDȇT6fL\3sΨ_5Ǜӵn_]dm&ܭضɍʌc}<e֚m%em뜍f+m$3
+(WaS]\1 ."| \XvzNbEH'oJ}_ ~/NZdh˷\ej1ن__YDJMXhũGoao*|~wh3amc'R~uwW;^%S$P	'&ۥ5FfYp<G1ۿ{kb(0gu͞sj"ѝ
+?{!3ݫ,:TF>k|mmf3D,uԃ}A޹CqryzܝȩqӞċ׀u!B1")w(!90͊P?;%\wj#0ĎjGI¡;FOGT{[WqN^? {g /=+7Ll+%sJO:$ZN˩y)o[r,vmyȳͽV_[ˎ	0Q4rʽfT돟@XN7:tC㬺]tPՍY}U7ʕ6},gZk5[{Cۙy[XnWOYRP*@lL絉БW+ӏE#|^mk7Wb7`8Jo!2.!-vd,UuiwҔ!~'cm}J:ɹ+:rϠ;~tS[N\kMNF-N5tPKlկ*l˭W[l-xB= +fk.ۑԻ8m}RuL^y_EĐZ3I5U1;a'Y/wq~XOlbX$cHsvl{ӣn{"7췬~c(X%c*rٍYx*k:y}v]l)$>Yo{V:qgFpի;tWR{R?<[Wz^w3Od_iUO]cόmUlvYǗ/?F{D){J9DPW-3KYK\}s@B}zhީN	<,
+'?XgK-i6?L\C"  H봾VMi]ZiTrHiZOUaH4luO/rWެ!ҥuQ;ig*kΧbwukSʌaG!}٪eI.,`iۡ'	ߐ)DN2v'^Ќ̕a$z/-j}Wi_a(
+u}G_
+6-ŝLb'c
+7J;@t}i7)V휘U="s&8M JΝ 5K؂?4ޤ޵ޱkn5˷׌Y\@csy[x(FoU:/Nnst,Ms7gJޱv+Km(zOm.82-uQXf5_5髩ޤu-M!,XJ3W}|:fu.oBB֯^רv>b`^4
+yR0O?WA9zi0i<:|S5/J
+	ak|AQFt%dsd)Iϼ],
+jEB<8MtBMÔOw<7_)n7gmkr:5 h-n["+HdgO͚dXsÿUU*YjIk_>i0f:یoOp8[#{<M1Y}b{d@=74e\=;q*lӋ5sz\^b5
+T|RYе{-ذ@ BHRCE74.ӗC!_4UE̕6Vn;^1bl<_=vhF/>'(XISծf$mLtOz]3NY*>8q\[c\xg'cτnY[kDMf$~@He.*ش*P3q᝹ֹcjz+Q!ɷ҄K\A<}~ٛԞmHOƒlwVX,Fbl̱{f$>rW;^t59T4;EMPlc39b=΋|g)UI1%RovȪn:{HVZ_G1d"lԕ[awv9r=o+%z&C}&1=ď!/%u^oHOCpu߮ei
+Ҡt9ވs{yܳu[ޟI'z[vn}vֶ.T/BMֹ$5&1$za3 Nrk,s({SVF.Pv+ػ5""_utGy=7o| U~)>ʹF*\Hl_m4j:M~lkp
+kX)vXEM6 h3ΜBA9B5I"(s"H	͏&du[֚AFQ1H6R^QHm6^PR3/mHu7UBFkyb|ï5mI *]u/Amt6ѣ{D,-Mи=+edR&s~W
+UI7lېG]χ:EgݵudK`)g5_0ֽ[ed:#SySka4Q;
+rDK|L&ՙv\>XPA>Ǻ;Ǆ*b>,tHchat4~F"]Wɩr-ۇEkg/38 8fj&sǶV	~CS	\<5Y	ZXhmf笀*M5_|M1VڵϞ9꒙EВ_3}~[twhfۡ~2c`"nwDЪs;|a78-YL@Y>P1Xj5dgkCueT?oP!MJB,y	+GMaZWQF`a$BYʃUbqeOn#/7I)<rS=&q6T9b3o┟u<LŦ%<\
+I-W^=r@D(LTWhOo2߹VZHoD[YnYA[زkf"YS$՝vR*Xk`AC/$dO\+PVh'˄Ya^ܺIžPq^͗
+#zlNLm4:WlщDa/OT%Fzn[pJ>ہ_-L|7ym#	2k!i>7beɖoݾtۜtqŇ\MO߼'iJ]zgtt
+}دIamHj j
+w6zm.7}iܽuƂκAzSu#="^Ռ}77<!IHܚ>RM綍tyb?h`ec>zfF>`nK)|6rm1B7\{WZtŎڊguu/^#,o֦ؚ}5Om	s]GVuGϢGؼj[n0n>aG6u$"tT&{-u݉6sd57_?	*FXGLƞfgTuN(OV|vz$,T5GŽTjZ$N30ءBV:D>&}rtvHRt1V#Q4?[/`xC#x{ϟ5)7m\tt 4DM	ƢMva(,ǇBeNLAh8d5Z͠N'`zy{`ϔe"꼺818]%9*#DᖀqiT8u5fޝk^w`	Wgp"2etehXw%~L,W坾Po6o
+aR,
+-o_5#C\-
+?ob.	b{.?|<jJ&}Sڐςw%5AyM~n
+<sӓmVz Yk"gs\-ϡ:;iAߨj	xۈe-;霙dJ)>U<:7ەw+5ұ65	KCQaײg
+W&T#ﰱ?rO_K?1QTw8Ur{aݼ!/.x$ّkۗ7dy_s/a؎gW<YP#Ѫч
+#{/>m5XJъSk*;{?fnTjPu<C!ѶܐI#M-9è5VKT4C*yZ(Q"P;.%i[V{=øl)TNI
+udv~tR{%lkh`={R)*A {O˻Oi3g^\޵ P풶&)8-u@_NȜڣ:(^S˝ R7{=꒜+wԿ~.fRhvzhddlhsmIܥ~=DQ~hڢu548
+XHz)^Jlٶ,7ve'.]m%TCx,!Aw𥷌,IeEшKV1};qoG
+%h}'Zn̝}/Ac5YbЪ,"ubgwo{'oT6sxnu~Pmvgn#Fw\U[Ά9CHs`)cڒ1jz9=ݛSdNrZo ˋDX{km&ʝ|a/ד+qnjP=oftK	W*w&ZNuc?_ycuJei|*cv*d 
+~f-V"H*Wy	:VAQ`QF5Ioxk	1CP94;qK9o~=Gؤc.iZ|Vn~zn[XŔl_GIɔU{_処;8gs]jjRw^ǳr*lTc|whimɼ1ܰ/+
+Ck_̧[*]Ȟv1Ixql㑇m^MΜ|q<óJDbhLSJqI *D.|'N^mZ{pU\mavt]1HIi
+zoUXBM6v>Ի7"%a&㙺߿u≋OL(1̮q,59ݜ
+G'TR{ٲi;q^-3ݲRSdMd$|qػΉU*sV=<mKo?:8):H6CJZT1/^wh<ںc^12ҳ38]c\0%#׭bC!>6Lh=a&eND]|<aE_hmit]'I̬ QP's)^a}h+>,l wZmv6 I	Y
+}zqq; +AAL |aC?|k8J;w[+'dt^[;BׂS:{Z 2uF\ۥcRSKk 3Cj# :S{Wc
+ٱ	TWX˗M{4.^]ӕpFznhm#(mdy÷}.12Yo_Pyl
+AL,](Mq|@.g7Fe
+^Q\Yj}p[t+K
+&GOlx@?|N珬w33=v)Wj?w
+6*
+wKj<yxv
+\UzQ>Fd
+y#jߟaS9>]siYs[PNڲ<Ahy
+0cLl 0q69⥹Xm%9:GTgI9;MF{|^*~׍blPҞqR=WsBf]g(.is=/~n:_2[Hjs^1Vjc	
+"U(Ucŵ˙F{ݢޘֵuؔ}/OPڵm3G_먟$[Ύ2Ej7Ӛ8˿`
+w0KX/ҭcV$hc,v2k|͹gzk
+CǩxMT/Q:r+j~^3=u7֫&C
+ ]1]^/u|G+K؜dn֎STǇ`N?y{櫓[F-L20r
+/Kڝë
+}kٍy2=eѱ?<ם[e*Mm|<stO	:f;~ wv}|3Onn@ma>>|^&3dN|M{V<+\(zַF4htGKgƎ4429267eo$=^[c`t5[ޭ&fbHt
+[+Dp¥*9E*thmE1N@9Z5}e{d]cog"^z5j<UtsyEI6*ζf*?F`˹jusu0hu0g-W.]vV'f|#1'H/4*`	Y"</oH&ntIzɬ5ps `K)m2XWV䃢hEek IۦmƲ
+c|g˪k6dhiS~ꃌsB i}54f/Sn  5g:{chF#>E=z])V[^eJ1=BmpU>{'a$(`c~d:<g|s˯O;}}!U;ZhU>(W͟S&SuhHpziJ/?y
+f,;S-o,2
+Q'U7:Y
+qs*Sl:|,xX`8ɱ혎C'V	:VWJIW
+48b\+ܣ}#ErV]_jy<6rI~|î(Ktʳ{d}.9qdnzgOu=e<خpwK+UQuf(^`k#AgbuyM Hv4H<*5/~Y.tL(C,l_XSsgdDY]bM(=dpQ	D\|wuve&̈+T`K]rV(ۧ^'
+QV7j(e^]m+Go8zrco:{)AߞJJ6ۜnvKx%ݮe?}4>3fʥ$#)OfMB̃nx>fRSB`5I
+ Z+KH$J*8")re'DeI
+,v" Af!2u8@ˮ##ɬt60ح5o1Mˋf<}77 C
+h<$qe"*A	EL!Ɉ>WQUbkd	?~>Lb&nlfkqZB@3RmULIKmZƅ{E4Np(d~<^4*HL%E$*#IEB&(1K u=FG\Yև߹_V-hph"-t2_j˖tRqu0IDDш4&1*"%,Ô
+K(XROѳN;xy'_
+Wl<Nfruց1q`.\J<D`I$$JGRIhK%42fĖkxvwB͓߽2dLi,
+z&X'J}?v7Ey[<.jڈ[ͭz2;`%֍\WKKhSҎ?Gx3lv\%Ec~y & S3HU"Dx\KPJH2DJUDe7aV?E421&#OͩzW/,I[Nco$Q(KFui[35[`WRBO57a,E(NI:CY~T㪤rB͞nOazШ,eD\"*"qT	,z6AU$$W%@ q8)k-bG#[^7XT%,pJ	s&/HbA6˯_}gٱUB)>(LFe	I\EQcL%piLR]=>h4rjpX:.޶B?o[u;qnOÕ猼|B2y~J\1ϿVnsKkgDeiǵ
+sTTQS*$id&x\g<D,*%μݚR|_γ>yqp^l׻Zy~ũ_aQ-is
+Ҋ+[*Vm5FyyÛitoNeփ(_6'76E0%h@ɠʰ$	U2)!H*D@ٯFl<N()hgtdow0J𒯬,0;ގDE
+^7v8>	]aկVvgX~t;0^`BVÍ'S#Ȋ?^+1NJS6u-_޴"ogjqna2`;r\YJ}Jh
+F$hm
+B.)d\IkQE%*ICdJAbHQn;`D(S2Q8hOUNHr`
+@P,c1 86<F@yh=9|NjhSYCT2澾e/d(@L	S(0(04DJ]EbJDOƢiR	D
+41lLÒUvp_Q_imdP;3<<T|uʇetܼ&eWs³/FPƿ8V|Ή\~8moyõD@	L\J҈*
+aGTD<	~<E]{w[u]B7,Jt1gY0uE %И YBg\R'dTJHrx38ߦ@)EG%,BӗJ=CvA6.bJ`Lڏ'RIDOȥq`%rD#*<.&^`D}PP';lʶO]AC2,MȯhE<*W*b4P"~<) S7Wjw߲du[|ނ#gnvOޯ~(M,/_18iUFOH,T)UQ*D,FrIB)Q.ۧ޵P|Ot.SAp<@kvͺtL (z2,$hBՎ%a^UiO=`XV _
+`J[VfHB:cʲr.zmA>OK:kq`NziѠC!,TzaKCGƷשXfXgEKߜr&]'f#k+!CCefiKJ(RDz,'d*ySF4*dJEBQaryl ׿>]s5؇UByP65-gwx}|mtn܍Fҳ?h9`& SK282`<E ?Rţ&P:у~I7e)-F6<%0Ǔp-8  U]
+BTKdrPq('$)WF?Ǡ?74ti h7fKܝ`暦۷9c%ǳ
+Y>fk咗%tpJpLRdҘ"`I
+)
+3NTcqE|H!;GiO}WrORHr4va_Ty6oJ:ٸādOGWhd"H<#ӊhUSH	LIh2'UDf[IEB')>{${MGuxx :S"vTs1$Þ~T7e<N S.*1@OEL7Vc8&UJc$45}W{7[f7`Ztmၟ7IRC	Tg;32$_uIYxϩ_նQjqDQRi2㏽AF><IIb 풑BG~<QҸelDXve޴a.gH"c]ꢒ4ܭŝ\)Fw[ִz;0?xXzUQ@ƕ1I$
+7`	Uf*E`㤵 EARl.%i}
+ke;V7o~┶LiFYֲpm[S%%XB}֌_ݍ}	<إ$uAڣ[L	;)}m@ճ#-	ȒIeN8rD$4 Ecp2*U//*fb-s}wԑpi$!E%Q	$ ;h01%&`֌ES7@ppku-gt
+ÞS$u?/|v=gkE3jȺ3A_WK*4o-"-YgִH'+?aމ>䫵|'nUMeڱfAbRi@y1*XNt) DJâ2j< W~{3g'T{idr,2!@VF4*S(@'Q 1>-Y4mٱQBbЕS]7*1썹q[54aM3f,IYg)hڰRv|'f*77
+6EOCO`b`!l׀dfj$.A"أ(Ka4Ӽ_<9]xY=.^z'$'`I< (H">AKD'hiݝ@RUL>l!]we'&.4̴-N#%H0'O>ea5w>P	*x<  8 \=PӱqP|vL^=> ~sWN+]2;q#]!ĔSʽbظ'u-fBX2
+|@l5mP8ϼ7o</7=.~sS6&o=r }E@%U ?ġB(WQ<(T>`gt0NeɞX?|_2.M},V45s5'oם{sC.1TY=>??w5Bj0k$Rګo^ 6Yky,5uLhpcY9}`^+$X.m|$<^"攖%t"X
+{~s!tmg^,FLmuó7cA8Y14j5f.B^?-U?/UqPwn9۪DL"
+PK?t嵮mYpV|ҴPG&Ħ
+cr 'v׫g߀{x&S2@ z`XXF1p|PC*O]5`LJF-&ŕonu	~~+%]yo{}ua-VG7eY]}+E<r(e$ Q"	 %Wq mU*P&EIwd* Q;CZ##_śL *n%ά
+Y߿r;_y;W)5ޭ!nRwU[NwrSO_{Ͳx.c]Q="xI_xՏxZgkϮ'ӳ\$?j7$yeV|?ء}~dO8<1)4XHL)'CP@0	>$2t?o= +
+hFz KBSƓB<{(T:[6G$n/A
+}%Umg/>Z-H814
+:do9nAe S EUxR|@(( .H/ٟ Z&_޼dN<Υ{I|:~ö=H#kc64O<px(4*EmTFŷ;0毼N	؉ndVNXrߞ9^ӍVaI _{$`ʫ! >@2Q빨+dn}xg<o3:p鵹>iBr%#1 0Q %]Q~wK#C6@{cz{I%Iy4)TIFD@+*OU"Rށ-?ZbݜJfWg
+\S+c\A$1 F @+b2 Ǔ	~a%o&-TY,*E0QyrPOF&n6Q[)I(j@DB*@Aw*쓠-164%Bфx8^ne#Jod`CN6ښj3+IjZ&Yǌ`hLG	v*56l*{`{\/Pؕiƃm>1IV4,₸Xژw	0vܷDP$C@G DO '4E6p&k!\-9p-cadVs;ekQ
+&t=ѧ@`mՌ0Fմ~ʹ<#%>:c"P	'(lJ $:KJ$<<J(9HF@d&8dwAЮD/>
+>M1/Y;?`Oxo@3[io+[fӻƮ˳:˒aҩop"Ɣ8??\DjD\*IJ%0%Inbl(ےxkFe7FkߋFnՌy͗^7WW2-Sj|Ugָ,VV+{++C8i`J O+v"K 9} @StƊԣE;@yEyU7d*
+\ J& brC7$_2*i~P:-n Q?(">"(^y57LSVKNH?~cqm|`ÆI ZZW=Jkht UͦذWƦlxi~5ep<z,
+R1	"äKQhY1yȸ>E4vAhwc-]z/MSzΦaN=Se)+oL'!{[ч.|'vaz1P3n3pZ`ǰ&1`Rڏ'*g?k!7%3q[^=ʞ(ؔGָbm˻ǕJC2!%6>tx㱧:sf|sZfbNxI_9?[5,OͶMx]kr7!T	ͧ%!T%k)YI,1,* pND;gOwn_	(HO
+Ryei6d_M'i?|*%!<%RBRҤr?5р!ʛ7M8WviXիwx+,\ydf)t⾾}FW}?qw,"'hqE2S[:?!q\
+X $%RLb?I\OSI­m^5]x4W^󝸙MngzzON4Օ9W՟Z)$qA2CS.A[/LԲ ~NH*4	ڽX׋Z`q̳Ձu+0'KUKWa֣otxt/?'˩|eLBi 
+z4$
+#*JD 3GQ<EiV3PcR2(MU׋K#+hegz^{s2a$ >y]WhKwب޺ ¶^{MDT%[3q6N	`B׌s謵FZ8*_i>ȈHTv0$b2HQ
+|+ar_=AiʒӏNG{z7uZq̑
+NrH~/?F+}eC$Q$ l#`*qGP&2<~enAF鿍?Vr;֙Cc?퟽9*Bg_U%{{ٻpz,a K`z' B]XoJ@ ٟX	~ƿBm|shY{&=iVWqwֺHNȌjk:e_?ܷz= 9f(T`$$D,"Ʈ sN6[9 [3)38-D\גdr˒r&ҚILU5VhwFF{ZȍMۚ&-;~"u}	l:)'cVfm5 Ӡ>3i	VVIU4 :ۏ(@EOLJ(ۃgPPIVH.o3`x{7nе)y!<.-rldX  w&0.s(5@e'LsYg;6fKJađ|_^j$x]Ai)|z{y~sOM,皝ej
+YSI`@Eи,!	p, ~@ioz.UKm+%w5QΒ_qiH9[Qث:s׭L1ǉɖrC$Yk]u7Kn^p=~]Z8Y
+WR)'T
+N|LA$pV`(U&otWy]baxz'`]YMlklZ"I"P|H>vGoK&N|-@.
+g}K*}"Ac}pQ "Q&%IJq%rI*-'wY"]hS~o,Ja䰾;Y&;D`(O%
+A`5GIeàl
+Ky~|_e|.Pv\_\;Эv3c?=3j_T,)wF?}mcL;
+C
+&g-V{R+u16|A)
+=)l=VX1C4rR0kqZh<]	3,!8Uoǈ&IS%IE$uAJ
+}9H@6 XTB^@ǳOmw.^/6D:waK^]4	)qd"TI^#$I\kҾq@7-DjC&xiln#")|y2Eʻi^sĖ#سHjjƱrL/
+à"JHDJ%)_,#Xkg%KPֹR7h ㉓~|sPn{{3a@=¾| !@;Y 	IHHHV;:jժ^8茣WS>7Xm<9ӫW^]?~V"ղ"yzHmڜW
+Ƹj7׷]z	Oݰ]-(<Ιk$
+[Z寿{"uܢ'^ <\ ZOL&!TֲTz"w?<Ȑh=DwvذZ{'iߏ7
+ƂM`eTUӛO^T&P},=!v<`ސlRXQX$cĝʩվiAv'傂P;R:s{
+ûСϽܷ"$(V6؄R0\% \^qAC)I&“e>_:N HiGʘ4U?^g~qt3E	U
+QW`fJO͔fh+vg7F;RT>¹ەBz?V38P塉oOsBVK
+%.JؘJ4F,6Ǵa/CKZ6FqVqZ!\/`֡ Gޅ/IB2p/
+KkRt97L
+0q%v 9#mPtdC\}+%>9^x`$	 WC/!d*޵RõWCX)Q+q\nR4OCEQg8uNbݒY=N`$@W$>B&0B.$B<SRtf
+yQlm*R:+ٚ[wu-u{}3<N9Lg檥gS'+37iZ]c	l
+* 
+hB^yH@u;H@-qdt_nNf	u^9w[yS_
+,q>;354LѾ~cls[J
+<	JR-l6˱>JG!ՠG@0zn٥[[L0}0؟/)*ͅv>LYV_H"@!i<^1r~Ç-$,YiQׇ~Tdxݓ'1oh5ܚc/z#  3*ͫzo|ͳtBUAp6Q`QB\!PY㚼k.k5	xxVhىZZjF,2̴Z-;l7'N]?T*otZ:tec0/m妏K&;;pd:SCB .sș\𫔘2T#m8Us8u_1*4AٗUMKQeI$i`J2BeVY{y `W}i"zh̡xBfooqn!%pQ^c0 ƀB[!͗Q;Hb_
+绨z2wۮd']v:}T=m@o.{KE;ҝɝٓuvЪgͺ"<'{$
+;A0.)nLx*@(2įZ
+ZަҴF`N1.jθ%rLGŤKΫ_Ū19UTX:.ҪmW#چ2tܖ\gX?a?&[).V^3ah| ks^Т˃nXՆ7l謋7-O	$(xsيfO(;y# [ZPc, ߈E:h843{Z^y;gĪ%Oa(16BͲF.ƅ֍H?rGxE]qlK߮w89~a;_/FA/Bwb)$b0I-C
+L$P!QKLUU*.
+2o4j!<7$x!s?tpɯa),Re[f
+Dk9DF!Jۑ͓)>@8f0Nu
+
+ONI[C.pj8'0AU+	(PAX,?C3kY̼OrN?DѨcd:c#E
+wnWhf66gz榭֞)enD{`bj}Qᖚ^١sXL޷LK]-R/$KVu]
+FQ?`%cZs&\<uq&>>&J]x	ډmWڈ޼!	8JUByT$::i [X`h=.w/G*/^(D`ŉg/hS_2уス7*V'") *
+y~0Hb P̥2{<tP:*.'dVAFb:*&]:Ɉ̷ZQ+<YFBljԴN~|o:Ԏ,D@[*LDz* -A0Q2Ԓt:>w¯>eok,)ʡݖ5[Ahc6!tWQVfQhC<N҅̔ VP#51CbM9űn7ۅC{+U^?ۋA$ F@@F2L{|:EUs<޼BmF:!* G^V3Tpir
+lI0IL);VOF ;ͥ*GP߽'s+6c:mO(]1	pEd<3ȁcԭl)ҙa-*SCpiZeGEZ0_[vRe<$YjӾ[P+s+UmԤ^(g,RAgEl.~'\S/9n^jiJ ȀcTظnz[\6L|«-z+4ϑLI:
+.c9Կb")WI&>q.Kqw\xz<PwYhNv
+/,[d#eyz%
+:LBHv&eU`u߃	:̇7xY"cRrVSJ)\zr8%.6+3w
+6wܥV+E7KI:$)9ښe֮:w-Q*+;	_E+X+:?ēvm֩gjw)=sM;/b=W^5.{kgDjh]Y̵5}s/œ7T_0iiVN]ʅQvW䑺i^)uf2~zO&)6HjZJ*kڪUP&f|sc&˿^1C40J6߭FCe~܃#SɩZ/ctjfg|e?Oyk~ w4HX-NH
+km;[>ja+ؐ3>R7EZd X 	q/v)ԥO,䖴Q.{Tv8^nMTR.uN>
+0
+Įj{ы̅_Ք>Tؗ/l-Ex
+!vFcN4V>q~wPW0_Vֻꏁ=gD$#!W
+C)M,^yCrE뜽>KƱ)[M!"|t`}T> 9EӓdD06R*|c#aR6i5Tg>KLTrս!}
+K?[Օӯ|-?M0-[= ]_%s+$xRBшHZpe=·q}ҖH&65n>
+R7^ɻS;eN#c>Uk#Qr?ڲjy
+*U#5IRb4 ,i@\?X/6R$C%񛱧غI*voב[
+7u6zq5ddvCKs2%\@:5xM]w2Z6AwK-So_QmӶ!Z`s=}y$Ri]]BX[RN>&=	jgs#z*%:WfbH4 ]0"/nTפ
+ϣ.~fJii ֙(2x,<2v"XPB^b1+-ÊQ܀q
+sE\u@.k[VO4_w-fsmN2 fJd^<hEQ@pl{HY<ò-ZUƓJ|h~,ZJL@lJl+귯ʽ-ymtzTq~{e*vRp!dsHFlqJ
+/ogRHJ02W\|%˓t-,K(\
+w$ 㷭BB P
+KfV!nlht1
+iW#Qiiځ*6RQF,g9<Hj|'HC"}cS	ܽ	rTZ3?=(sF&Zc"Xm?XW*TrTe6^g9jGC8q*2't
+QUU!XNEy@삻д)xEp@U;O??U<4
+.~mՄ>k]ݕH2fU>R9bΟz>nK73ۥ,BvV 2D%
+@^L~3t^[}-@ѝ2mWjKO(=U\0 ѡ!A {d ~AL|OW_ve\a&ߝr?OԒQ0M'RY 4A3
+*1'3	U!.uK9xI5&Q՚V=19s_t49pifx~YUS3cZUo7V$|94>'MYݟ
+м}}^ί:xUH&hb&P(;!QrڠAٖNʼ֕w_i%nMJ77XQ9Gn|lZϿpמհ}QPrust{_IЈ2`lEX>4M$ &eh^:ڮT:K~֘z&db
+t+L:ߣRZ	PI	"]e?#=E)<fb'p0}n9\䄣:9L1k-yCBIxj`tcN~9г(]:bM4Lՠ
+Oג>/HG$H!ߣ6q[S{<4ZrͩJSdi:ܬI).b
+Q}K
+Zhr>`&VI		lK?V-FM2	%׮B_n6fsyH2aA0!D+,pYʣT?Y[ꕊ$q&L21#1:8]U**
+?!1^1Uܞ=66_/S\=lR?2  !Xbo	L.mTn~&k+(pax
+%
+2 !BG 3?8ibD7~xw9W3RĽd8lu|2h/LTzz^3x4{<dN\֏
+ۉDꙁ-V'?Wś5ґiv؊Yzf-bŵť2o :L-_}gY0w0ܡUJ/|%u`B|{e-vt$˗&Bt:nhO=]P:	8b]⍳p&SRrCO|zK[fWrݹ#
+-^GR_	+<"6'.ʪ3G|@<)$Jp9|0)2d3%y#P.Z舼CljFiqg e*]'O06֜D6:w7G޺IɝB̽%;YeqG:X4׾h{HwS[w$gTwLb-7ή*wf{dP?ٯa	n|)0v-k"X7ŵ?.)}q(mMV+چSR%n$ƕ%rT}GY6DG+`N*]@(DbiȐʢ7){߱<m3Lx)gǜT3?!.2'ow?.ˍfYXF{>fٳ&-~X+ۛ4m`qst#OM7|x͸IE+DsI.۷d6GoK:ڼqP5f	8Ae YLtRR#M;V*|Icƭ!s2+TS'YCE>Y>hquM];K<U\-kY@Q\˕Ho1'?H~*(P?zz;Ync͍SEuɒүƅ]E;AAVgg;Ϋ55"'*٧[ŐAPa?Cu7a:qV-pxgDnEvD:}P	HIț>mjM+DTBW;
+Nd7#W5
+ 5®d!tbN+jԦ^\#ϭ!yzB?`Fw.U_B`J8ޙpE
+|lL%BOrҏF61 U#HȼAr|>ؔ b9}ВC8)>{۱bb<K	g4AM%7&s1Uȑ0FSjA	=LdY
+HE̲Oe\VYDDNN='nXGN~cBAR7[2[@j"U8aN:R'Abp*2fb4|6L}Ao0p'S+)^zi.
+@ϦE3EΒvr,aM&Va|E/XC2O c~㕩Hp
+VrpMr{}\Lێ.MDj7o#UQi%Gׁ,èm25tl
+{-ｨor=9+Rd7{Rej*^FQKr} *v;{!c	446hmm#;DIsN܋e&j+ډ}'=HREipw9u7^ɦrQ-E4ҹj?dtR
+p6\kwɦT-cy­W,I!'^96$M'C\.(
+2L%2p雟}Y{|sz
+
+%`\+b>F:\*f=L/44"K{I
+tOܺ9')j%C!4rZJn4/Ijl|rp＜I\-BG;<!P"\ŏ3		4__ΚvJ*ҏ~>`Msܟܬ[J&'vg>~}nkG=>*4:.zjY[5WQDs6״؇+X#EEcDJO7OoZPK;!_\kDU:v>T2ī*5WNBT0ц c&q_.,-0lKCkк9K.7Ǝ߬6Jg	/x|tK,n.LX.MZ kФVLA P2}E7O~wؾ5;TW&>wQș'c7TU@0CUqU[ji.SK9fMz|G%>TrY*nG5E]s"GS{˱
+U]]õ]k )sNdY%~p1,.Orq1A h4-A۠<Dpb)!(o=Cifɒ]:߇:{D h*I X+!PwJSN8kv_k
+QWڷt0&%%{[(oGʸ^nAјNK<r+59=$&*/FسlRH*C:|^">^%b0 
+a2Ep?
+2msdTZtIǧD^7Ql2HBA8}z҈ʡ6+FxocKN>oʿ
+\-w	eٿYi2O;?BYfݒx{ǧp-E J˔$!e!ӆ(Hr  QFf5fL~( 7w/]ǐ=ֺq
+UsL:6#l?m=#ffVX
+u>7XVxdCU??sǶ^~1Ods		̘+YD$&90᜔eQC`5i-]?U٧Buع۶I{<7#M\o2U=ivvx#~Zh }5:t{ia:;Vm)Hq/es9i`=@(~`]IU3u}ۿ6Ȅeaњ2Oyd@@ՊS98Ia1URxI"72qZ%ؠZG׈kk.kZez6ݐ Nv֭j?:{Kz[Olܢ.>4dy)-n0,gqnUy ne*ED[bnP9-]kSukx6vјAFyLpè >:>}Wc{HZg,USj>$		ZiE 4rp
+a	@NHC]O=Cna<Ow$բ?GcJ<*lD-[dݸb]2c1nb9~CJע8L:1tLg9t !2 z]~z'ȼ^W+c癟z+dswk{i۴ÇTU&n[7V}/pd\k,ږ,hlʎ}~846	@8~
+CeJzXݧZ5vMnQ߾'rE\tk9`ȻϕSN'[(,iL-Mو\(ܟ^Hjj|ѯӇ:A/NX봒GWvJmmXȲ`޻yϮ_xai>a8ں2o7>=:4Nl1.ҧe~ֆ{#h56Eï?Ym86zbo-=Qk.wn]Yg.d/qY/lʶ5ڛN,2mޕU2aZKMw~xV#^juENu`Z,.7uˉ\!+M1GWc#
+6ipv6%/:ĽZKCؒ-Y5ͩμJ>bruIw,uyP@+okݢ]h}5>;#ʕُ3:nD+YmJ+k_.Bꚹ~\j%S~j/\YY	EpMJٝ_PVoJv֯M>ҼchW4^Y&I9m\&D%a[N>SmްiJ4ܺ^@@gw]9-Ń=v}q\+\A;rۅ~k!7^=Y,,SrGs#k[
+&g̱kL9KqrTtKsd`<69s8*\CXۨӤ~ܬזu*r/U_2QҳKq/ɗ,/v'm1QRpM_lػO=T
+}K?u+E HG;Pi_Z(?e	Q;l("wfo{sk*?>p/Gm%IYńfx}tZ_3	$Oߐf5KymvCTl JΩ}=93e1
+O+Jh""hC?3ծf[I?ܷlY&f};{kCk;s,-:փ[
+x&N9JZ{<[R;GU
+0GtV<y̸Hwm⡼"qjYhI[+2Y(+AIk}F(cY,eADGώ~TR{/eKR؁BC7lQkoComvRLYJn]O[[)Nw&W5s7
+P*ZWӺ}W6ջCdo]=vTS䮢%I4btOFgkMѡI,`R&}씵~xC UT$)>|tnv+w;6]3nUkԬة|mѳЖ*1ӻyL}Gź+1[^u!;3AUK@\p;GA%Ǟ=#MܽnmmѧV1%lE%=9%\50qYӼӠyUyjvN3:mGhy}bewSٿ-ѐkȱairllSQ;_d ۞@̭'ol'5
+
+zY565e7(cVX-옽UaM* ZЊV%suDP6y>xvlj\kuY3AU}Hpuvvd ZY^,l+ye鲝brhP4VUS\}|Wm|s0l׎+FC[o>H0GLc?\-o˛,cJk^q뿩Lռ}cGK6'{N*? B*LlSa/ڷǌbyHX%U=ʅmE]v6R*g_*.,yjSzñ{LbYknύUVGϾο<ssaC6TB+ߏ1j4dC%pL c"C
+$9`"ZJ7`~e#B	_ W
+F,蜊*(~h
+xR3?"{gG6G/|gNT_l=5kmbNw9NN*4{>G"ϗ._|~HߥА;g~$w^P2.CD%FM` "?
+ !)FCRIHY]bFjwlp*,+~<EZ&ZM^ܣeZEN똾EYӬ-)[IJ߸41DI8fU WLz*/&{jj/X[r9)^"lZ7ymwWE6c2T,"g쓣%u->]lƻ)3L|kȸhu5^o5ŭဝ6ܴN^xמw6f;S
+8렲[4àol/m"H+YXm[s.&ղ}KKZ&:CWc0M#9XGI^JEL#0̔%xe DW7*cIʦ;-3҆[зX
+Rb4
+_+ȩV߲Jן,8ntRG]/*{w~9:iaCHjjfXڥVIy?=hĊT{\SMidjo+lpz}#ֲ$bPÇ&
+?y>'^qW6('y`_gܪv>MfO&*N<7ջ^LdK
+r^DmX sTi\9cfz{ _$
+szfڐan5y/㫃uEsUKzö ɅƄ^U-)j˾LXbf!gmxǘnxuRWF)Q״63#h4
+h|6t*1~i߲8+[x2iAnWI]T ,x["$pn("C-+W=@^BNZv*1N,Yg[jBSG]
+zYz_*pQĢ. x`Х^pw!<1*BFܓ[~
+iNQ'P9*ňA'H1w``Z/͐>+1b2&hEt],)6'8N{43+Ց:JƋ|sV~SJzJ4rJ .HAHA<72H	+> xu/O._Ww+z鬻oRKQf#^ΖPP05AX2)F"+&DS{)v.qյx	ܐaC/	ƃ;|@D6;~!YR2 'c	%e2!e /7'sߣh+jl+:
+7	آ/<cUq}t[SMXXz]dt=o+`'֓GXZ)I<vvO:Qf~%7z&;	<
+\H'24)Fk0zAꌰ@.˜:Ɗh(J|g.=]9ۋ2|vb]T=fybl?0,.fP@zrQ0=K#}ilt@-Z`
+V2@KoFܕͮ^y8_h[(
+WMws*}{@g,]xYIug-W~
+!@76@*a!63)3uAtw/V[0'\w:ϓL;LeO=+Zvqt=G{P1_3|	WwTKdzLqg
+Kn340!Xj}"<%! 0 
+Br&牋dN
+C;)ڟZmnYo
+|VO/ݫ ې,`w_)k)ԜuцFEP颙l
+%)xH
+	P@tl.`bLŕ^~'K;lHL5,jI>_XK.wl7RJ0ԏ@i.Qffw^XАVR}rqOArΚֹu靖
+Ktrɗ!WnA͕5 `# OE`LPGjR RSe yE<斝ɶDuuoX).<%SUN(nS5Wkk#E!w`aĆ'*=jho/	ӟyd:O[B%3AȈ%m\q$v?a?
+8ѨTH&*
+UKR!EHxgfY`M)c<,&Zjs/8&lh刦к\:qPmyѷ}z]meǛ/4|t_z~uӓ==-sVDҕ䘲R'Ҭѯ \O"FP~葾BkÛ)Bإ3Klڗu^(1oܿ
+`^bg˽vcVt!Gf&VxBJ2V⢕`/̗GwwqbkmtVINfg;엧QA),PA2)BXaJj:{s5\Um]B'ª@EaGm7Ѭdu`~k7<Ƀrjm	x	fKAAq^}gbX>1P3Qz1^g%^N6.ZZj]<Mh)d2DhtW]WwD:+ň諝X҉ QD8'蕁9*$bMۜL@:L
+N2g#uᚃѦ\֛՝B5
+"]'o`6O7TQ:Q3|O*#ɠ)rR1H:U~Ѽߐ-?Bhx93zfBu~og1|ĳ~C8Ç2d@qtTbY
+|\@A&Ϟ:T)c?ǟp**ݦ7ot9EQFg^9qou}W z)f(w#"SR-~b]9i>j'۽_ܺ|汲YoM˝I!enwhrPyObV@<%)EDBP%Q*I&Ƃ Id
+"CK/)_kTejAUYi]9ɟ6)Uٴ| # H >@}S%BMX`3E[a|Cgxĺt4p\$U@C_MV T 鄘`RBF@ T>h"҇W*ӑZ"Fdwу;̔휺qx合M%I6X:%I"$B!=5&M
+<fxt2z|+icc9sGRyQPƠktHH}B210JLMihݽ,wcTX]b#y{
+_翦vrӞOw]ɳw:2]мUbc
+Y[ɠܩdp6U.3@
+SD%DO! #Y\Üt:{oðOkZTÎkVs0="ǞpFf_<@36f-vjUT/]jښ|FŖּ}'2/c]-P)bo>٥uƻ}E\_Rۑ~P	m^擢Çrvu80w,,7L%dvv41o{燌SߟؚU
+8Om1Y؎3ԶHQhymX>&BbI;2~>nUO==2hVs&(fsw(t- O*A4䀸 j#<3\>P8ط/Q3X(@HmӮVi-Mٴ	*'v@ȁfH7To  
+l2[NPBeu;N@3 0TJWI後jh?{xʉv\@6$XLQȂ@p	nDBgfhHw%6㵔x[	!D3*bMg{>	u$hS,U,-N+<)c}[Z%HBG@ zNl,aTw@W9kN=Ϲpo1u^NG=3_<0V&~W}D*(aL"h⑨yx't*bJĝaf#^7/dʾI3}Kz߸}KްDXGnr(;l.tC@Q&+̎9Tb
+3|4ȹm?L!8eQo$;Rk)l#~R#E:Rp#D@ddfVr_ڿdU˃Cd½ha`E~Jcxj/Jmi](x:m]e:&f90Xbl=~A0fZGں
+_GČk_{[tcAwc48RvRfkD)t9qjQ9pb
+TA,7(`us6ktgJT\Vp8ZFRoMmQ-LGGCR!:b_!VaGmZgKw9Й#KT;3αb |z1KmQ$Z2_JXtdQ1_픺kWȼbf:녎R$t}Մfb2`*C6קW0+&&{Kws![8_+ɰ>2^EfSs9G$}2pD!j٫8>Tqh{d4e[{^nҶF$L3JL
+0VE<|௰Lצj{m^Ӑcyl':Me߼7*;yDM#W=Cb'ҩNKq+P+%
+BbeB
+L(_/m+꿅ג{
+*x bS9P-TZAW/]%d 9HML9gqŐN̠vSEݦH|{;C<ʙ;:z,\Y"e+>j`;8h+DRLM,-:(b8+LUs"C%CE5/9DBӞrVbo*F;w/ho=g#h`'Uᚳ?P(	#JH>O	(CtA%4Ci8la}wn?W~R <
+ԙhQA,wf?~à'JPuSUk/;V=^taea}.[&zݴT7iv4*aپAҺ!7u{t|kUD(w&S)ulv75՟_!;2EF7?0Ri2p!},I(){3>*S"Z=|"ٴZYG^ZIgK:b19߈P
+zsr[#Vu^t,}~]ϩsGj,s'~KZcoTUk3JNllOhQq82ǵ4:_XBJ6BR*BC1IQ3̃AC=3#$bSyVl||ln;{;U$O.حi-
+xVט6j?ud7mS+n*k1%
+U^qpoې7߅IʡĠ>"TFJ%NU%
+
+`zz34X%h]*6;</AkX}VK׫`MήVN#?LUm4z񜹡_y1>̙C5Bb,Wy!Q!Gr;MisVf䥣KJz$wBH3
+xt8k?ni0'-
+3{Kc%ϥ^tX` ] *:s/?ٛiY%*?>>p6~az7Gk;)iG
+6+!ȸ/	sդ핑w<}{V%D%`#0L'cC2 >LAPgî_3W,1o5GMc}Zy;tgn1F@o}ȊM_a'nhkeVvim(ȨzՆ鮵Fy{U2ޤ?ݽw`k5Z_0x\R,npuL8ɾBTNKPl缇=;ڥhpa4STHLJ'gM/5rn*W.Nt~b-F}c1\	fGW&>}>ed,~w79x_m_hʃ}X6
+hwb_v$y=>n`XGXK:H~>=1E4լ3nnK yZkRɊ_m/p/]vb[fNfa>?._[;fr]~^y#jev!w]+-M98ҔAcR6L!{#qH߂zE{PC_9=|s2x*NN[v
+|9ʰMTWO`\[[&Nz,
+?dR	>0JyH&WBCdp/puo*5+MW C9dY!i/!F2 L>E<$Zfo,VzRfywz=կUul!3Xjzi4,ȱWzyq~*+"{p"k3
+C88"љ"lI?CeCߥԲUztaD{~z:9$86nM\8T_.kZ%Gz	wEǾtujǸTnnNJNT@$AL}d~Wp&P}AL|"<ӏ#c._)<NCpT>D;o)}^S%V9Z'RLˇJngH.YHgP
+o[O'{u{/,[mrSeKlI.__"d)
+ X`E`'C @ 	}=ELET/9s̙zfNhGB'p@Zc<>8%-9_.71ʱ闙S?r=~~WN2{lfb8PU2+~<$]x67E OcvDw,^_4XLt^GW?k?O&3.]K+gS8%v.L
+Ѳ=ޞr@͎G7=6o@t8h# &EC8Oya
+6n282
+x
+>kԭ~/p敋|+v%zR{h85}%&Hnz"oó?g.̼m[Cŧ^
+Ne:AcmN9LBD5X.	Ǿ܋y5PfӉޥt NX92	N#=5x=r''W{Gk_M^zwݸ386m`MsfԷýoܖ?}wqco>񳔺0Ӓ|z?qe;Jj.YL#QNi\Oׅ!xjh)(}"H!|ѲBf%ǟu;11%s{+ULw
+$v	_އ>	f \@ҏ̧<́@f!Ꮁx }>a 8L>>0$a|z<<BI8gH+H,|+BmUhAX`!%Y hkC^|1҄Ap
+	|GG	U9'U	dp7|FU@ Jm]Zfug=l먯V6K1Ua;nրqA̡	\`""2BVY
+%l%K)?ʂ)Ծ5u8%8N2R` ^VQJ^#,>4((!Tˠ f
+׋"F ,
+l	R'ER/Aq7t^Ҫ*6et/Y
+*@+s[@"%pmd;U2hPI9(&vU`LGL[6I"GI!Tq잃9T|˃&Wa!Uz23(ʂjŲ<zUpQk8DF3dBƪUXU|,AtVXyRb/"㽌GiVAvKZi>cic	#xAac߫3Tdcs2%Lf%)]g}9hyTm5%94ң_Of*[zd02ͺ#-ފ$g(N]	WT4!9
+ixN3;<]ׂV|]׆_U|]ׁ/N|]ׇ >YCnwm|wwh]pvZN'S|=8)oC(7w&YJғa.m,ɧyt2tr){pyҧį̝BA&X4a'IC^;hܽs_+o	8m\fJaKy<eUN
+H͛r8RU<"'UCQjb80d=Bұ44aa}x9܇c	Nj(=׌v/Ŀxnhh`#ntv,᎟Nou&{,rorA-#.f<A[OнXJv#b'IGԾSUwEYJ棩\Xߏ/Od$hsq\Hkló?s	'Ȅ0k&3AurI7̄Wh&CpnT3!c6=¿ntf|& V{0sh4(Ao%yf~71!C>aLBI	:%B/,5>
+59˼cuO]im QO i*;ښfudVR׹|E+[ש	PM-`>I06	7` TYBHҐh4@5%*Evv8h&acue7yMjvVsNf']#
+=X8X;0}q$ 6x_ci0X?f񝚺{y5u0_Sw3͝ݤfg5uqFT:XD2v#OvNWw'b!~?\d|N篭4etjvp85v$kaf;Ivk,-RФfYa4ƾlŢ:ZZ^s;o.#;Gǿn[{_}{_dq6:f{$״9Oq zu;XvMf6r3|U78?T-?-Yeݞ5[w!gMv-
+jIƞӾgݘ8ۖD,?.7Ň+ϧJV8ȗvOss3`g򹖛]P|ჽLYO\A-c7ER:Z"L6ʬXٌ]V5:O4dm~w/sEh A diy\Ȁ="gL1JfK y&w`d,zB` J+$NB,xⴻ{ɦri3h\$ ka+|i1ƚ|jsKF`0U@b䚥JڥC(kOE. L~
+;_ޠI :z2[bu=LzmU؋P|ר` -@~Q1Q|+e0r~6S0^Cƛ`@	`!#:@Q/O88qC8'-"R<@2&^Fܦg3f鴃'VjGXAtMg~
+k6iu79#"< 3Q#lkzZ`)0	?Nx<1
+F
+<i8q#t wNΠ'p<Q 
+v O </8  o czW
+PAUUmjZfhl-墡ZPtC73xq-<KXgk 4S|eFaڇ@*>3n1$b\棁"}{k|	@7B-ߣ9WNeZ k0AvRF`EY饓QOUȝQg
+e&d"3pAgMp
+xʼ6-/RQyxyJ<"cg~NƘ[<Ly_5tgrU@SȡzT¿@"/ZXsjc>ݟSo?$?5Ma=P64AӢ{.Z#h@۫w\}p@{~oh#AvH8"cqH@;/䱀vJO~F98htqI:ZḬK[aqUXquX;5
+n턵K腣O: Cz`phqk(PwpWFws~DxXb	hSG1
+ǌt>
+hcnLӞ<@cp1s/|u>:_聖}?}N(X!ΈH|u.E\ozIsIU<d%pH;82óf3my`o_sm5}ԗa+O^J{I3.[`~m#}|
+h?M-x =.\)`ZtqJV_ԥY5CBAx? z7\_c8 INm$	VM"vɜC HL$ʚԨv9Ugw VTl6kV*1ZDڢc WAkۤCaM?cqM?SiM?syM5kEE/svYӯhmۮŴ5uh0ĹyC:.Pn-%Gf0ACvSfV:iwv"눦j]1iڤku
+jo6'4cVks,'S].jϸsK7f{i	5]aT%eK)[ZpF9ʶl-l탲emU0טe
+Y>lȽJ:|>3Kmh_H0'Ph-d>" Bfp|,[kPF&RЎ	az2+=(<U:x2@Ex0ОXh↤W8]!=qCNp0<P$jZC8sCa)c87!}ttB?X#Qt|)b\tΉ9~#-
+Q=b`lhq='y
+ie;H^/'kֵzp`lRn10BmѮc<xt㺎a`\8nZ%Z7K?ڠ01 $wF#vK7V1g
+U2	sDӵq}B'I̊CnyOsˌ>-1s?SapQ-ϹE|	믨hZB~6aÐ#I]cNFJҺuYXWt흞a%Fת0sk:(<
+z3szJ,ɱ_?Q2Sxk% : 	:c	/ADQ`%h%ݍDbYrcQP7C_4icD+H$Gp|%œ/Mg)".k<ri)IRS9Aԃ B0FZ4h0	e}~ٵAn9<-Gg9ƣqt"PglP;<.9Ị%]
+"cv%F6=sUa^8D;Z<x{u;->npˠ
+>[rwqHp3&Np}fyԦ̣4	jl.[2CKTڳs"[~bDP{	$RPK,Y+̃V{nr˪H1'J,ϼׂ`0A,z>	J4w
+j߂??yAǣ`%+8;&g98D-Q
+ޅCl]?EY2iAdc@ i",.LoJC+DBWrTH
+RAAi++܆4m.B"dFC2=0 ,ھb::2#XH;:A!T4΄sd΋.CP\
+idBdkd:Bqi7B!VCBwP/Bk(
+طm{wM0snLGifgC9Ҟm>-,= ː[!uwioBf2>KL	3BlDhzG3!}Ô
+i>BfaPO0?%}ïf|i?B?_3q_o
+~~#$AYF GRD0RH'2.s/p!&ǻp9h9SdT(08Y0"G
+daK{a6zjMd90/Z&׎8r"|
+fYv!Ű.[)rXnhZ;aƣq0;`ڡ8nPFgX
+wãz},i1ߛa2o;n3G1r$)iڣ4ȳc4Ǔy~ʜa`"d{~"["Π߄ԓaRXYa>C =hjCE-آkpؚYVO
+}__??OCq
+OPA,@Z
+]<<؉4)('6K#C,D*,AaW"HA+`q+!y 锃)EHLIuW-r+k̠.`$-uo(GpbŏѺ"/ރEN3x N4EF"˽Q}}O0.o48<MgY}y)`/T$Z{0ZXAH~kWio,r7ELZY(,JE	ܠx{+M{G?'>WFu~F z02D2ݤLfLqt+0$ssǩ¥ti;]|b9܄sFq91ꮋQF\q1jaTavb.FQn98Qc,_Nw1j1jŨI;b8q8x*NL7_18sF	sF=ES3OLX葋E],f tb98x*lNL7&M8g'iŦY36͹Ŧ'^6MxM<gSϑۉfvĢs6	lglZpiŦgM]lzVM,"g;gWMۉfvĢs6	lzQΦ#F\zzD:zHuۯ#[~
+'ip[]%a00LTpIs⒁<b0K:cOܡ+<+4IGB,Vd_V./c䁷"rGXW ,dm>bYs5#k-Dl0F+GX`SqFX6h>qg\6"_WA~wC2rR>8H#-XceXHC2&HޕAF"8ڀ}G"Nr+"\,-`褃t%6IG9ní\9s<vYQ&gp؍K9>2frEXtǞu;܎qq9taE9wE֯F	q%G垻t4!8d0gNlĖ;&8	^O97L]hT]N*WJ夲u9t]N*_(J.*?1yoT(g	!BTx`
+>Pp`wcZHhTv,z<q"z~N3ѳQv.u^⧙~.O\V
+콂-:kXoGZX`\h`ybQ^OXn]j_`5uMעw_'.|zw :~M;~o~;~罹q>5MꥦY J)6=6mDMM3ѹn<<7ȍgx΍xɍߢ_EoIn,q#ō47,n|ZD.~|>u>u5:}
+݆(`JO_awOkCAү8V
+m)
+FJQg(}|lOm^mQٞ)se{l/[Mh4Zw܆a	F@4Bd`<6FW|1}}y8d&q8f͡'q8m10:k3
+wƆ^0Z3H̻ۿl\B%ոl\>c@;q5ačF	#tm/#Zgq>0p1}E|o;]h`aNm3ƍ	cҸo<0#cژ1fƜxjƢxn0^xc5ƒ2҆n88b3FkG`Fhu0_owe^rم0ϕ|.;].5`B!3lF̨iG<h2G̣1y<i2Og̳9yl6/-%ռl^1P3Lhfev=fg9d4[my׼g9nNI2isƜ5s9o.3|if2kwlNKfL{q<Yes|gf3k93oG`b2`c|4BPj,yeڼ~[qħjd5u~lv]وx6zP
+m]6*WihѺ_>6M}6naru/&rhnmnլnTDRHؿڨ6%?p$aHHIHIHJG\aL蓩`m(Q=Uef	U&#:AA2!Q
+NjԊGCH3zG
+#+	Ͽھ;"Df´]Z0cGfB*qҬ{$`G
+#n1eT\*Lu$Ac"ꑉl4)/Lɣs$@ԊdTlEPQȉqvz[KkRȔzGfCERȔJGΑWP92*?#ҋ>4*R*	ulvw^]#I$92eH7<EeW9B*G^t@_@KA\6JG)H]S:%Ch᧡vP;N4ԎpXv%a~vTҀ'mΨp1]lj5U\ljMU\ljhAvt+H5Ԏ$'P;v#UjG..xU~ovd
+#TKd[V;2RoC454vydJm1Z2]H(P0auLdH&W@2YAdG7S}2#lHݣϦ{tp8 LR>OIGfCHiUPjh4LVsx}ac]RvT[~x
+QCHP:e#S]G
+#:"#sD*Gq$p~1.U6B*Rو[F4􌸵fTE2j(	墿j/Q%F5
+#@U6EPs4W"5ԊEtR-eAlnO1O5Ԋ	yujE;VN3jh)mCFny~LEu"_VPzR\cZOھVT*_B(j(y^j(^1HNxňzj	
+u"%P'jϫl$HCNzm$Wmj5ԉОDZCj+I.uJT#""ioh*E
+^2j`4ݚ6.54Dvџ8TMohՆ!Ґ3Rri1R"K㥢KE*xѼDT̗+/4t×PCiR䇠;M8_遥zM'@|u.E\
+]W
+3Ig譮vJ4~6i52яhG5'5vZhg:C3Fϵ̢k/ߘ핦%<w-phPT%eK)[Z,e[Ve{le{l-lZQ\/h
+3, u[+qʞ&jHPh>!rRI2 2ųDՔDi("eh 75䖣: f"z`'ytZgu 9e"yyBY.-P*j(;TZEx
+Z40`\HHHQ6zEaJ6xZZ*NΕo=IsF4ԇ߹͛[nIYeY
+j`:H\A+xǍL=|fe5k]{-}Ԋy
+퓀,
+w
+j߂??yxj<xTxQ,e!%+ڤt{'u;$ /	耲QvQ\Xi( x	%[!E
+iFd!x;uc#0C'zSd=ΆΑM;/kiC-r).JHk-ҮzHɦuX
+&zBܫ/ĲBk=M
+ط$nB#FCcx<4ISByBz? K+7!G'yg:¢Q,z-H>7TtrB7N^)9ߑ "NK3rVZI#DVb%Cz+rw/C
+sI9"^ yV?aHOB졩yx!iՙ&6	g2}Z
+kTX۱ZQb^
+o?@%5-=#3B?CiZVj0*ʠC ζ{(36C.a@W&$)РH^CrR,+}$,P +ȌNN<٘0\yEc5?epco	F__"pDp,Ect>5tD͆.SCDxi25tP
+&#Wej2]F=QKImĕtGHE.zF|Ni$04RwQ
+~"ov$tU,4RC{{}H=bn*V4"o0JF24]ݿSdT/5ݏβQO߇Q=MhSsLt6^>zܨt}cM*6zLǄ(BGqlG7o'b엞>a6=]8EC~H8-_ALpFb!#0^Cg8`ܿ=4͞Cڡ^v&+tkٿ=(ҽ{")-ƳHcs|b>5s|f>7"ɡۻx"n'
+V8̖L>XX5LnŎŗ2_A/n&m`'F҉qP̯%zb#%ͬ2+V6c3U٘$:E%;l[Y) [Ko#;HV
+Lֲ|1gvCb(J̧?؉LB^ B1!5TPTeR2<_,3Dwgwwb,ZeR&N
++Wte`9dk \r6ޞK*`!P(UA-q
+}P,'SEqV*ċc%_Y.ZL5_`C)ٱH}M~齿s_R|Aڬx_呵26m0V򅢻~5G|rl>2dVDY	;ʹQe 5,k63^/ֶ2g@bj||a sȝ<+HaT<w!!K*wRSm#'6KlqhڜVUzRˁf!ƃh5dh)Zi!D Ab	
+9C[e=&
+Ir"n
+6dZp<ȄTZ#QeXmDk}qa32WTk2lHe)R.Ʈ<K?ļ$sΗrzYN0ե|391|%tWn4@|!ibKlmm	
+!ZA}	d/y7TTMz)CQo";AiVbbG9Z";trb9B"vVF
+Sk-_%簸ZEUx!y_vLqq%ʰ']^~=jeȓLn#rZ}T86.YX)Ȕ#hͮ6L})(lnʼ	]!Ζ+yT@.T/h/ gZ
+_^^<7Dgu4SA3,W2-W/
+&V'6U/Xvkh;_boqV.c?^ݜ|QүB S_6{D{;z'Z^
+/ 9_>""P	vE{1mku)Asgɣ{K;(?A׀_>+-a$2Z$SuMݧ};-AfhrzeBvVm9^/W-a;[oNmtDIļͭޱe-YٙXU[)ih\Ϥ=} <(.xM$ jl?9YNV5LNt
+C]CCUӫ8]#Q6Wz*eXʼZuQqB54Ob69t%3xJlQ#ꯚZCƒ}Y.`;)>cW8gW9'9IvTUWk`N^Îtb0@kZVj8<BzZ3T[U(={9L䳼3wm?d6,Η%S@znFWEQNmh&H{]<'{}:[)%W,^ vP&kv1uݐTZW刪.'NTʑ7T]8-#%Gq-
+1zJw@ӼȕmbK*NJ*MIq7)&J@;|uOoX![`jW	z	cUr	~(K+i3+pYe:A2(u$rT]+1'ޅ_+)8
+ޚ$YDˮ|zswZZcpGRv҆Z`[3noɗZp'V>T9g^$W2;78S㏟ϻ-؜Pcz/==]C.7Q{:w%l;fqب!ovY	^tjm.n׶+.WM^Plau@VmD!1 )hq3HCYHe'x3R&MVT ]s"SK$#';2&%"]쮔&$h|BVS*"	ӵ|UIEskIUa
+#>"~	izx;iWu"K
+_V B8=] }W'aUXϤ [񟕛JQ۳WB6үݝW^gg)JP$ΖσWP7SةNtb	l]kyě3Xu*Igwzʃv#E㹫D/!;iVS>x%N8D'ް6nY960gK'b@k={>"
+UST<)
+ V2]~ͅ+;)iIO-q}zeaw}ʾ@oi׼6/]FB`_vK5Z0o}(Mqj\w񄋸 d>o!GeHDΗT`*ai]@2)fCsB>uj;, e+&\է\m);L^Z)΋ln	yjyަז-_\ԋ\ZEKҮ?zQȎԧY- eiݫhnY.3oBhU:<Q7:gK"nBmJX';CJU8tz3L;m;h¡u6]%evX)vr(շ1wh%H1B1CQqKO1kƲɶK+] ! zpz~Rm/4d
+-w|wZ)
+:!^VP
+bɎOrN
+?7WlZ$
+2d 149>%7`3obB
+:h<VN+H|&S~n
+OG*ȅbU	=g|eK41oZ
+	զ"
+Il|CbY(rȲ|I|*:2`ɶ:|˷(J'&)vzK6O0N'	v:eH'@5GU/;^NP[bV~^ek'gX;Kc*&̧M)|-"oc
++%Q!]9CQz C7.nrMm溮sȩfQWq
+./+˲~p^lag<ǸtVcq~Y)anV]!PWgOO˒+ Y#( Pp!Df`>Ӗql0L|^+SM!/{+Ii~~sP%@\<
+7ǭ:xC'#1v2}Z~`9g.q+*tQ^l7EH~#xP'obi
+K)eVf塭ui	R{y?v\ ˵)y~z#V&dWؓdPa)b6֬d)bjE$6+UM>0)+3%#Ew!oUS;-u9tNG0'weύ?^~3bn̍,<h񗳼twqERCʸ`<mf	ܺUw
+
+v
+
+Q&Dڃ]CT0B=UGv)rlu.Bi;W|+aU՚eJ*?8린^P5E~Pv gzRjrx4
+XH>=)N~t1!vfS{SVқq8liMMB#v,ԋ9<U84Z/RKM|NeKi,c1L8X[mBjk+@$"Yx{;;$AE];96K4q:7b<9"'
+8r)XBBk;с(Aىpa2Mce?F(ᝤ3?1~A >ScsNN8p~H<]T+{[#;}!|_H_N.Ss1'+yen@%Փt+^ʕ7Y].5i ?xw%K)eIx*ݥJ<Hڣ2J{>3p^&Ca;Vx<hB
+`R1iS6lǮ8uÊBV5CI&~Cznwx4+8MF't%Ó"efwt~=sI= Z׭V'OA4%zb{;Ҙu8Y`>^&[Uj~/|ݳf*UIJJ~ܙ{ódk+0CuG¼hVb֟?4"
+ԓ,M9H=427,LԕOȏwoׅ<oדlY}@Vf=<ٲDf(>\`ZV g޿-?Ə\RC1r91f1S=|IStf,lm6*uu(PS[]+ScBYīg4!LYeB
+i--כ[޴mj&GO!K/Pd_䄱x90Z:EMI(>A&޷ aM/.(aOh~D;vkk{ߘ7b3]	LC3Vy@
+A<IG.g-.h$?d
+wD]s\WH9;lf8'#6#t:kӍ^}"g}U2Qd: qp>>44
+fV:5J}HL%6R%H7f7З2qھc̟U
+g,{>*#p)"7Co	^,Xj<x^4G^LvcH$M%bkBZȴذ-ε$=z(.	-O9=DGinA9$1ɶXvCIwDPaY%XSIzӃ?}>Y6H;#8]{N*ZrLiYR'ER\pSUtq&ƕDƪ&/ʭgUrN8Ff3%RV(  (ep&3]^la ;/;`|աzaO:^݃JS؞^y{Rɵwl=H2F5*jX|©zvqĴneZg2O\K̜`˧?[Pu5=!bGh~Q!(5x#
+z**DHpl4&J+J[
+cT]Z(\ޖrE^E?TpUd^xNAwqOE8:Mq)9Fe4Ye"3klk$%
+/ HvlXl5ŋ}YxR
+Df42:}xxvoxhggWAb.OG&'Fy7O'F{) 6`E}Qp۲	F(:OX߷,#S0<YLr/F[X^_R/%d4gZ낋Hɹ	ӭ(q+^jKT?t!$iZ19j1RbGʞlJl63٘(8l͈E1L~/MΘܢ9LAb֊BhK>;RĽdbǽv#!r#Ng>mu"*_ 
+@Wfm͘6W椮/}}\*g@#Xt
+3"U vRcdC$T+a.;{W3vR*GYAϟc`ldZVfjck49'>MM»dqa#鴱Rbכqv,ꅼQcڵf^p,$CT͉h呖VvT$o%ϋQmVZ
+n9xw a.qa\2z[:!"B`
+B~:B]O2*Qo'ٝ&}@)laH>D M[pyK=9^yr@ڿ)C9L'ybg2aӍW¤/W޸/a.mWPG3۶J=>>)hAMlڗ@H)}cxb#X/x)'OYVqPx\ⵢlnݱ
+J叴H7(㜶֦hwjДM#L`Ow]4c;E&{*Ee|b'Dc3\(PӓNFV:11<:<K<ySq1Dz͌ b˦Ph	/%>GY7f.b\*auοbOb|ЩT|ҾyiY[E'zJPe&Y#J}S9wKdGiԅEj '$>Jp桾\ʳC jqd cŪ텶8LiZDN|D[j(q4qՊMЏ>Y-pTYy%n	y)09$8<Ⱦ\iZL}p«ryW+qYsQE~:1T?ELDk~`+7Ũ^5cH2_";F]K#'8
+9^X\7<{G;jON/V<|3U	BJ"`<]]ڿ71X+.d?%7lYHmW͗1Hxդ}ā<K%^_Īy!ЖR&}DgXg^C~?:VOqP[شycr"mƳ\!8wӭĀAQajyd	֡9 )>T&5N
+;Ўݾ3+0Q5j'";OgnŶ%ayr(
+*A[mnMF.k.
+bIpX[F@wA˼.Le-γU2H
+6Dyzg'yB
+5#A.tdiQ+n4[V1UTHa1̖Xz6q/q
+UU$M!\+B:eI^p7sIJ1BILDȥ
+~IrT/?a?cF86r਍8_f|u$Ece䒭u>be4|e]_+N`'əYT,$RjuYlҔ@N!3~\RhlZL [X&&aH뢍;u0VSŵ<6)ggJx>Y?xFp8"_CenUE[NPNQrW
+^&rGmeiLbdZ!)'s 	.M;D=T:.	sa|~SwuvuO
+}?HC	WXAڣX!))#t'^YUwX؍cӜh+4(UxFK)^xb`d'@t,ْVCK6^v>4d}Z:Uz)~nWzdϝf=7&{[#=TIɞ'_?$WyM<	bQ%C.\-2}{QY,e!)~WC5/x4W8K%I@eyln:h3={XM䎕Qg@?V=++6z]A&WyeJO';N]Fͽf:`'}@<FZ|"=2+&ӵg#|X*Bqʷ5-t`jRs٘'wbbYo{;D'm休ˌM
+q@vUoWڐ2CNBP$prp%Y-)^=zbQ`:*,]
+=`-\D2P}fq*Caa
+Ǵic\Kӑh-XiI\O8Ef=ȕ9I
+5]@X!`O+i:jflLM=)@a4(Q`ПoDyŎj4@Y^<>&~leNApKYV+=Xqɪ1qXJ7:YJcP̯%zb#v5Y5y{Ҕgӳ.vEQZ&TrB)WO)1Vڢ@1-,V8z3By5XnBUTZ"L5܈m-..F7E w\UPݕTaezxϡW+ɜ*'#1$?WXS5[mO*iXL6՝:rUP|S68LIHͿxsSs^s!UtLٸ1w#FHeq:;T͞Z4ͨ4ڂ4A~{ ŵnZ7fϪRm#c,mbW-Gpgc(MLN81d.FxH VLWr|. *ȎmĮ!BELH@[~؂!b;耘ˣ,Ȓ N*2OǑiğ+/"Z:$	:% Gv[pDPF_-HW!tU9]tBi|BشLmL1m%,1gd&|'>/q\%\#cdZ+h
+:>wB$%qװJNUwj7-eJ^='e>kV@ib)6:#+&7=Ҵ/@}V&|5ߙ9eWߤ{,]K>95uFQ9b8\kr}
+V5qb9  S{\&?eriI}>c(KۄXͶ
+ZzyՅrqB(3i
+?4	en4tSBp9b6M4bQ /r`
+}xgpon3/q/Q2]3NذAݣRo`#˗`hraH[Hfި	h[%ń5^lzcy0W{Vըb?#ksK萁rX'svxE	ұfX8ChrY,
+9q 
+-F (_EEb/`lY6T0pOJ KO1bO\HиdN2VSؼf=h-Ɋk1<V>*I	Q9gB//:TQQ0Iw]m==p/>Sܽ0@4ctpwfrC&J!pa{PO	*h^9(4(z{;1k?|abN1U!1`T>(N?!BҤ1EK8\qVJ*y6$Mٖ	}^D-RD!`Tt$I-WXmpY+@Ȇ1t-).w+hϟ1TA&Do~C09-2BCƗr$y,RI9kq(}K\MTT*ǲ<dk__ߠv,6*V%s@
+bI'?)2eaOeM{>jRW/k*QUxIOz2
+1ͫ揯wU1*H~Y@ˁ7J|V"薙uW\f]5̈́oI7? üc:)$		ʺoo~#Arނw
+D$f'V:jʖ8S 4wgn?ܹJCq0RIrwK/rE5T'^!R6M˚c8̌FbK˵vKhnA
+mBak*]R άDSa))AS-B5
+7jI7k)YoV5:Vs]64!}Uݡ9]-dV d_..-~!,Zd,_W{'>=rUB;Y%21pssqJVb"r(O^ʗUAO578X*5ZzkCY]9DWNRx*w`Eyr;T |1UN1ĥm]"{3=j+'e̈|4%LEoL*:KHT[wk`\*(A<hzlP^kQ5P(&`F)"e8ٮ1\-oj&GՀVn8a9Q[JݩB/<ֈ_ aHARS>UT
+esN7)_IĢ&
+{eA8C}
+`Po7n;) TU~
+ pjuJ)g-%iPU
+\S{&&7
+"?HQuF6@Z;dA9$}܄{"6yQlC#b!3ځyU]R~Lh*P褷<^bD
+Fy{O>0C@sFv{
+Gv|4.w$,f(`;fHEX=k`8
+.yު
+k}pUO_ɼ
+^SyV)Gz+ZDw) p&pvi<;E.$*|!j%HyM"T!aqtNӵtfe1=Aa㔓t)C5Q*/Q bsE(-/
+;;,T1*ڜl۷.sgm7xA=iNK%Ds#|j@LæGT1vr&UW!{*!fHoNpV⭴7:ZyO,Ҧ$QYiҎh7Wj¨Rgpjr*.Pr#Nsz^-໷UM.TC:ƦJVanp6`ZKv8W 2>Ԡp^G
+ݟ`lқ'ZL-$	PU!
+88nPJW@<o7P!A;)	)"Rf
+"Q}A\%t&a5Ԉ骻iAQ]d
+V-ZN;/ ;m\9*Jʺ̣J9O/T	TGRPyľ:.S,N%vtƅ`2\Uu
+kYcnF( cySUs&!>AِC|(p#AY@,mx@HJ= <KA=ïv5<[_)9hɱ&1i[~§lDQ#]ǧp
+蘭~VԀ%W)؊}7+ʍLϲZ2WDj [e9Tj:oQg#NV͜qjWlJƥ>(G*Tx6@O:TbfM7hskA#d ux
+d1⋽5z$b"[.KEvoXuQ#+b\U勳5Z)E9*Cbm5i)PI	ES|0YhXBl+u?
+!}QB4[
+lj'
+`tSCUb<p-P?yq[-P2EwYT؝xIT*?0_ł\
+I"dvoK8PLFy:Kl6]vam=MQ'>fLn-ihOtxY@!dLǅgKy#&#FuMKU-fy/PӘbATc'c1v ckk2v3zJmʪMKjk	8@]ju0^u0",/쬧.LjǹV
+q gpGŜ %)BZL=S+9rw9$.|
+yq@5
+tI9t"FWR?Ӣ:8z]|,H49j2E!UBr~6DJЗS;Ф{
+];E(ytnpI)Z~U/QDKzE+.+7uy#Ώ<o)u-ș/KmԮ@P-^R*6=maCS[Y"_*~o|*BO/Ǐ6bӓ8?,`υ6/&zbOz5p$ⰚjA1őC_:4#D!3YOT΍2ޘS#Ǌ'ox7UTCDzSr ݊3A\$$&Aљ2|(&qCVHՁ	%V(ng*dpz;mvfz3[LIOyFD'Il"ZJk'[vV݌J.OAg.ч8Ɍ<{a1RPl
+n7P}#`x"[PpkrJ5ȎS`ϗ2c6* 1m( 
+'۞sˤD!&RDqAxKTC1@tktJiI,CboY]'
+bwVW])(.SM	
+ѣ+j'ʡQvem7o[ĴTNݺzZyKU ++8L4Rm@@OGxGh(nA꒱`t975έm*CR[gOX(Fzϛs@w٫73;;z;::ɞt:مԟ=a{*l=wu3_^1GƺǺFFG:&;z{{;:'{;G;Y< 9P@$_U;N.l'FlJ*E*zg&.dx+`VP3}%\׵{<-y>#.BG.Xi\kr@n-~Zc7"1i1C,(S	nwjC|=eIa~M겜s
+.}z&LmV
+V,GUr[R\7chĳ\s&K 
+슐tEz!H=~q\fM$MD.
+:{-CZ,WgK3sy@~xS.694y?2γNӴD<H~U⩤69Vsݙk]g3</J9tk;D4XS`(Jb;nxR	&G{7!/ <
+k%^H	(_t#-˲i}mx@ѦlKFx@HRݽ(y?Wy"촻ETUfFFFFFFFFF6'ЙEVY釃.;-B+#֤	  o1̟VSM6Zv
+%aK1aOCxm}F<Z݄~9ؠ5
+AOk_,0`sGE<ȧǅ	.ϋPWV-x4bꮗe1|1fWkx
+|KkpĚ6~Lڗ}qWWP9t"&j@LgR}Gf=YvN%?a2
+C'	iSku1t5YEZE?z9}|Zʕn/ 0Rm^!0-p]
+A<LJ-܄nsj{x	Ndlje3}byn1`P"JDa Iy3,
+zйopUV=7UB:Z(D!Aũi:a$uhwnftxfSg Ȓ7Tv%V3'ȊmAv$oOpUĕeĻ0#Tb`VhB8!&	 xn|Q3;EɚeUk`$;kȩ6MA3~5=V,Y.u2Zv7(=!+ZL"GE&V'`czYJN]e
+:"38's:I6ˑsLLG8ˉHZٛ|Y4a[4H{h73]jMih'A$YWB|#'f
+J?`Jdr+YcR-\IRg u
+̍ TلIHSlcqej-R_uIv^TFM%8t&ob}K*-ot4Dxtg
+|/@{%X(yQ=I'ޫ7Ίc,˚4ZִT/rm")Yk BmܰP{0U4m~Θ5`j9WH	Vk'1fqHl͡[V=.ɀc3ZHO9#%EH$vv j3&|JϩPy0NJŦޗt1
+Q#Qu=ԡ7`V]Qq&BY^,	'4e;Q_u\Kq۴m@Iy#=wH~(3E/
+&,7`|zmaz
+G>TqLpAQKE	oĵ|!/a6P&jcf(uۄ6/ae=_oft%L4/fgx1T&i1GlrsJ#7XFּ؜Q$BCױ)Vl9~D
+x"Bnf1bt<wZ:ӈ%?d'.r'zwmt.F8:c4qV̒9>6٤H{Jvl0j9xT$7?h5-#ݻL>/"vELۀ
+ݴm]kG9ȆK1MP# ]w1IZѪk;,E|bmk3RbGN5?DjJNN:qs!vcCH/Yce֯
+lHlc#'SIw TBw+u9w]J<zFCv&"
+(8$o\U	˵ ^o,XV;ToHRc %qY)@5-oӦmDcL@n#J26.mLF$'lA\ջr -H̶^YڜMȀ5[6fLn UG憅Uk:_*6"O"]L|a<oP)E:ز4xsK?H;'A_-a:?lpDn&қMK#Ah&?:뛕h@CbsDpըY-U5Gm؃(
+Ҧ5L%x[V&lib
+iE5&E35Ojml|t nnk˃zWh4j#;JK΢FB~i)ɂ8ASN9cG<"}~?wg/ *$r-`ss
+N!I汵SƘ6dkjs.3RjTMD+"SC;[fT^ahsj=-oJi܉uŮ@!ubtb
+Mќdg)zes_>Z63z}	x~8h#iQsOX1l
+_1-X{9$d)íBpB/,o)l?1un*Wk>xh*?[x /[L^_|H ڵ!-YDѹZxxaWN))OI~f?SsJLMYyߊ(9(YJ$YJ$Ֆ@I@OKi9-Y%˴ 89)0#f3R`FpR`V
+JERnVJYhVKkJQYI.^I.WrI.WI⊦EhZ;]dtg̤q}3eFjgvFNbgogʜhN	9)>'r҆9AwNНf+
+hቲ`]* f⥲.fe,5.e,.",ՖrRڅ#EnY,Y,c1%F,Y.qKG@-Ӗ
+»eݲnYx<-Pʴ@N.'3"a041fuyF{eaﲰwYػ,].{gwy<G-+GߨvQC劓!,܍xa"$~yHqfvIqT\H}%?qJrN1]P^~fQP*
+.EA(H Q$DQ@{E0Eb?ܢ"ޤZ~fxx`xcQ4oEݏL"w?ޤZ~1@Zݏ7b".ŒIVNхV2."Ƹt%霒tNISxpK<%\  a%iXIVa%AMB?~)"+~ !Q(ܔ$ -ΙCC0C0gJLdH7?~4~4~4~
+1cx(sGM	.ejL,PD%	@).eR\,Pn	[@%Pn	[@%Pn	[eYjFf50i11əV(}ݺŔt'&hڣ]bf56ijnXς.ꤧW:MbXLw[e
+[.@|]ۅnˆa)]U.eI,$}$ɶR-logrun>H4Ng3PAksu7.z]k1u[d9aӄN3Xic_Z_E+a~EΔ 1
+gBh^wz:?v^6Hֹ+nDqy-sȺ7FګJC'	:voC
+*
+lø;i,϶hKٲzNw{wor}?^-"yDd63o2n`\pޖg%	;k׎)Aᱪ_Uw$<n[þ46;DR`-@`!䏊m>V6(b Bg[7iYb2tP`c/p tPn(=:*\?[:.6xst@rv]/z< w_j@c
+wnΕ3+2_{[y")iLql}:0tEr;Q9E
+r$.\|Ar3r]	9D'5jw"p?ODSsrAuA|&Dds!Wj\Lc`",	BFfWi )lՍ1өEOu#Q*<y4[L_a[5Ij40P^Dm, 6#6Ynö8$]*r[ʨmmKKrμ
+֮i1luGH5t8Ī*cNb<PDM
+/*ŏvS&bjx@}Fhw;	uW=2yf:.{l*XE.!-XR:Tf &tֆ΁V#. m#J}cOϟ	10ÿ/phjP(PӪ՗?{Z.`k#7+ե叺G[ၵJV?9||vYӌgulqu䛱o᫯?>5Pw>2[-G%H~4}Q9O+[u_Ϧ`8qCK;U
+FR̓J	~J&̷Th~	>v`|6/OZIpSπInP
+:@Yy{.\đ6b}WƃSjyoIΡz/ANC2Yq_ѫq7ΫGFc
+HD"IYwDu1l_	!=x3'뷶v1LZy~_@kK?Zj4>7_Std+^"B`kIS)	< [:m|.ѥQt;[4Tyb_p!&ˡ9>7^1B;}f,ti}ks߻OU:+9~HRbamxП@nZi|L𘾩|rB-4:Ew%b'u,zp9~&3ߗ\)R:S_Q>H*S0qy C2I-mx9l:A 	!]xTߜ8MC^tcq)8ulxwCΪГ[Mu;lvM\醾<nOfnU *Q]1OAcPE8
+OP0W8l7s_:Z	_rCZNc<w>cd
+
+j Y(d-
+%C*tmU[O)ԞeLc.G#Z}IBϐkԈ])ael%fYAȷCM,}\1g ,Fo^>V(Rߨ
+~0l*o3l}nF^ǽ!Sb/#/Nk@b_& Ph'P2Ozv:tyTar?f>Wqjv|L>+O!Tt{?[4E|b|U* &#8:ӁIs&3C1=/xg>1
+`B|Uw,E_u
+jZS
+7nX|p#XNcֻo0޶OӒͭAIM5Zo:hfUo1tи-_ m /6U3|tkfjZ͍JbYVd>fh02dvi Xkyq궅JaI[$
+ɨ#J$vwذ8靛F3NkbhXǔ1H6x~:xIj?^Ƿ1F21k$<~_̧@YzИ'xB92zZw<kHBpy?&?Ssٽt~$VVɿ3+x/N]o tDdDF +͇xBث/M\HͳfC7lu=*7wKgc;5|PG>*ai`g[*n)EZOf<a	;'&@%$HV>-ߩMĝ,j6,Nd!}MJZm(%m􄗝989}iTd4Wj:Μ*\lN6P[ $(`)r0 Cu:+fHcȘJ:<^+Ӄ}gmllG/TC,qwl!!JNut_u+B]Dg3ƀpϖHM6iX2=Qޯ^9TlE0'
+CS$J_(iC]K+F8j)on}FӖc<Qԭl'0 =`<DlgWm#4WR|]S?!zFo-X[8tcCBFIeemP YDۃpX$rԡ>IGF{m}03G->{§c7<P
+R+{Kʑ%!Uw2<mO^3٠$ay\g& }]8I
+|*]R0삗@YN{Vsp
+Mw|{;J|ô<>خ?7MlB*a0mfN!C~ii5ͤMݚv0ͦ8)6 ٴYM̙*33`3JWɼ*UjRyD}0?W&sν28WG\;E
+QH xۮWDز7DO.!@dиg5v_vYn06O%43\Հd$o+a)q4
+IP+6m-|WWY" ׆׬bEI싧ctX5+_
+$,s%s$s`lJ<&W
+D0$Q-fJ,ZL-F3EKѢ̢ӉѢәEgEgEg2&FfǊ_E㝃1pz:l8& #6-O1슓Ye0eʔzI23Ym"^tf=PLzge e
+SbT1=3ի`1`Q
+[6r[6]lȕr%>JX%c,粱KXΥaD,'+3zli#W~GgN\Ffx6;CzwL}2%'m+nkPmm^zooT|8' Q1>Fxp\κ"A)!DH]\!!͡N`PxG唪L<Bq!@`~vx ⟂RXß꧚>D|p{吾`; E:c=GhSm8twM;0/.R`Eg1Ix#NFTH&MjxL]gRК><*r"G	QsqO?l5@Gg-9<0eEpY-cTyX:`*_1i9DSZvK+N.HCaw\G<:^/.iwGj?`۽ |4.+#Ķ= &\k{mkcڳ:D-\0P>B1+ޤ1/+>/br㩽~oK뽣)=D~~/ʢ41$5/إTԍ19뇈(b;Ӹp<=;XyUǠ3xL'g͍m4ٴH'3`(oNrf8xp[[
+BǼbJ
+fiaqqY0*ghơ5AP?w?9Da~|sՉG8DL7݉7]e8q=R	b@Ĉazy~MIң,R@1fSfʯF}\
+xFiBOq,Bk/F38;
+߇ך"8
+fbITܹ<-'jLǡ1_G9ح~RsYz0}/?
+9}Cǜ#1_aC{KUVx~P |γ{aNp.V^']Y{q+rwgUϸtHf[V֡Zzf4_Fg|F78HCj{@8"8c;T24!)Gsq!VT%_vFAW
+_3԰;peFRW0EFJaQZ8n!Qii[. oG7^$n
+~=bDKF=4yeĹXF8vz@":#*"\RtkrӕB$G1ިQE45lڦmbaX}f *C==WQsk	rEz~Pw#B枥GArȃٜ-e2jNaz_NI/6jM
+\hcDc_M-ؓ8'y,AfsZ*F0"TΘCQ֢=KYTb%t̒UpK׈ݠ@.r|-Cؠ7eԊGsWVZQw	v>9O.7=30_=7ˇ66؏1vnt :8H-~; H``܇lU7k=އleNNVF8j=< 談;2<bsۈu0Z(݋pZ:w"sDWH##n=4կ]^$B&*H,9.;	ӶVWF:b&0tʨOXOQoPzҩF,2JﲨgQK
+hQ
+7ٷP%%QrsLeҟJ}0^O|p^O+=rS;(W^R}0=%F^%{SxX2cyz=j=kKkByh m}Gjң7G}ަUt%%t.Y=Ykؗqa`|Ćrg;72?$/@ϡ8u>Ŷ8mF~y>[Mxry^^Ii,!ɃKEJj2̴;~1axV>pXq@^5~tNAYC6_W@',Z+1>[>,qY5_+0/"O҉_[Ĵz5_9BUx.dA;/q<tơ
+覺Bd	0zq.{3,Z+	t;FzON>P
+Đ8A[b
+, 5h辑	["=,<|T-&Y83A#D,)ix1Oezs&cRq^#Of`K,B#-ڸ-AږN|Bn͜r`]rc(yRam8E_Y7f>HpZEَZ(71#$"	rctв)G+&<W'FyaH-쌏%&GJ^wrh_hfteM^ LMoU>	j
+Wt/%[TKB-1|2X[q 0k9d!\2A}Wfxv~!
+DcUfqBл|r"pvnuppw0#CTs\k
+?'tSVL$yk+}b+az(j:I\=^(aۇtcK|f6QWA.*5w d87A?y.gFXmVڟ,n
+0Qq7ҙ9`&;b'#/G83lXs-=b;p,
+5>bk-nm5j᜶\*9?~
+Bjǈ2WR"@u'TKs8_:U.xn𮛕Ë10@$hV:8?榸/u}I^.zuDZ:3*B7UxѵfT|􄕆Ld,hsA'5>OL!ffze	AQuz+YxYd:i	AbSfÂAr_u(yӴB(F7PFBF̬re&+c6Me!>PBMlTfNř*^\".m͊\=`g(SŃ`Ft1g22/Q K2ÝOV˧v;#z;)M0H ]bJ~̬`i+cj4W:M򼙹Efg:J;sʳZ^-o1ʂ#Nq3XV%>sB9FLG,,A=B@
+>
+`2O
+;gtP^f[3b<>b'hG#\5̦ij֜#b~ Ym-hBƞx}PxE/>>..ˑY5g#
+%}^TUFf&.[gݥs;FRn-VW (JV~23ykBˬqlVN/
+̚z[6P0#IKB7"Ў8?3jeP`5yzə$gQ&|DC8f9{)%@==@^lYjg+$6HzlDȪܒ3fclF0eϕg!#j1M5%+:8\f.
+m&D!:lܪ漂C̹4TealFp3yx'.nR+(mԶ=:%]k0հf.-MN*tF( _V:V:;|knAyZtRv'.yv_y߫9qx_m P;ѾJxP#S/ ~ޢpu땭FװZ -Ϣ
+'jAW
+DW"}cչ^1<)o2lh@9v%ی;s*hɶ3w6?'c;:8/oB{!
+렉TuV>ku_6!ͯq.&iǽ,&J}2R</2z[pzRy{MȥZdv+>#RQv	a@ N4׹\%"Yx4YA2`!)PEiJq딢qk³-y(jۅI}jEXf)X9wI:7dh$łeRwD}JZe)'/b'|CKz͇ᅤz9˺VL0>B?%^կ\cAΣ/8w/Ṵ0[Bf)/&ǧ7Iô@~ܮwZMy 7M7xrkyfƷ)*o+x	ex&Of2)F4E<SjS"2>9cIkz)$!\Ѷ9IO<ca?lWY%G*hp.wfX"Zs.YNu9hFD܄x:%.g%Aq3r|"D|q-F
+MGd^7SIED8
+])3{IQڍx68)0M4CQH
+i&_HtN6j	_FMTGSLZĠ
+>kf$=._L6BXBGkf/2|`}m&)1Gާˈ;(;:%$[7A;xxX%yRcw@\sDZ^ܬS>v;n #덪{|L0ѪDU̲Kvp cDYS_JԘM8`[:o!$0:L@ x,DLKe8WRWiDK?s/T]>ɀ'XY/;Si?s3?俖y#W떸f?fpgZ&QI/; *!dP')1,wR-g<h4(
+-zs%SY+3Cf_ꌬǖAN󠓈!@:^c;k>ye(}ЮI<4._D|A~?ύ]g#yt7Fe?&t]?h3k5nDa&ӚV~I&kk
+<sݞcGXHQYǻU%|R>9 ӠVݼDhrnނ{
+X)d͏'cS9Lf|:Z#yȖu"_N|j!\Hd
+tQqw[ȝ4v4:*W	DE1>](r
+;ق:N@~gB| NAJ_i_̆XKEQxȅ$W!rʙ| beXR
+afx`WP C+tϖ/CKt.}ZUW}ҡ)V0k0NʐrVNĤjL.,|ט <lXF6y>ģ6!|Kb8ÛĂzc=;ױh
+nxE0qDON, PYB𫍭ZRy粘)lyE$XKU'6C(lj"uOUG؆umV˶1EGy6&A^'L76$Ay@|w
+`rj|CK4rΨTM)C!GؔƲ&\
+vFIS.ߧ>(ozZRtJ49PPӴhdνZB"uERt5wPQ=^ipʬs5H4O=٣<̭8@
+l~VDV1АQ*<;&A9ϛDԸ	5f[	0oJ{imI^U&2wBVƗFi`̕쑅%3%Qfg5bsO[ؑ;z*B%b\/maa]i
+oȂF!navLe Q>Zw(|q@+$n9__@
+:Oq:p^s1s<cWJΟ
+$tNЯ<}F c'?tCc7Jә)fpYv1(# dMԐ@N+A{EҍEh'4R}'A]GhmY9
+AЗ4Q{K4╖f"}@[bRKfO (rIY5VE4,hIb[8Iqd'47V|ˆѺ&c<۠+ O	,lE`GT=	k[  L2Dd+*Kwq0d|ZU1! TgpSw`
+r]*ѳ! WRaW e!=W	N#BxmiW@GAtK]{kWyS(^Zs#Fm)UCGXx&@T7>Bh"QO#$v3αaJ9?hC[!pJ$	 AvQ
+ugɛ:f0slez?jpukb4>>0D|mEey0u<u4;7sìء:l%l
++sG9rZ;V܆PǑMA,
+н~N{5l.V[{d6
+ Gs5ږò͞}]t_RBIuy~mX%ˢn;.ֻo`pΖmIkA(_o!kKANj*o	Eu_G8B}'nQnIknq_F%VQf
+p ,fPI |/-ȹ+i(2>4WH+ez}v˄Pg^OYSjf/԰x?þ	23ʗ`}y"2PXˡ{&:U)ރ87;bV"MBc.[K.St{hDu=d_%Ԉb~W^.BacXbu,N.bCڇH2LD.{*GUUa	bJIņwbdUXB*F~]z
+p(sbl&Hhļk	Ci鵑bU&em184g'C[
+IzՉ`u!Pܨ_5IzAlɐD(^&rh2!X5;
+@ti^zĵhKW!_̊'}qhh<ڛ3Q@n/ֳJ2\p)k^d:f_</!!;0&`jؐddD,?^W,\p)d?,W3j,xSUnu'MLMY.1Bm)blDp8&dzk]*zu)i~Hz,W{7m%`ۭGc2Е8"˰*ZUGlZ5D0hkF<)$MJ!Ym2P%Wt6c6:ۧZ"gځ;f0 "}[>oC˿mި*dT0LfPfD8$oY	R6ɫL{@KJwb&rKb@~V<-Vj1%ƄO$$#n,ނdm>H=}^6KrP(1$fq41\\O:Z>G[<F&3aMxֆ+:8nMpz[P~eY%ɱwD/Ι,G|ܙݻST螚+sjlqS^9L	n	#16DSVi '0%=Ɂrv\NQ|o^§aEG57HPzd^aRBWOYF)8`޼9X7KqCYto!$T%p|cR>aۅ%r>~,_
+
+"{qV(t{%Tr+bၑp2cuc&M%JIdGN3֤ObQ"uwrɱܧmĔ,	
+dbS,x9PҔ\w2}jv4f()*HjkX/irdf^H|ɂ
+sK{9C'>ãCRJ;\e.X܄+D[cw>v;mcyOg*ݞ.?|ebK0a8l_Ț0+ Mzvxt4¬oBҞEL^s3}P	|Eg^
+tj<GhM:GU"ϡW{
+k0Ѓk;<)mULZԈ
+ iI![t k3y:+IW[
+STlsì#&ŉ$͍~la_0)$_+뿮УlEwSC a4o:]?qկ^Ɇ(~=sL+huvS7gr9:9gtPcIlr1[bJ6.yå;g
+
+ko&zE앑=B5}/sʳUjN bJESm9*P_K9 ,>W "zcaG.Yޫ⭶GFbƩ0ޟP[`$'U"!:i{?фߑݞ-[cRՠu4-Xs]B=czaEornđul[;w)]Rf@~Ci;DIA	sg_Bܗ|f>bHKHojJ%5Ms{1	94yg	9jG1gqѣi1yI,+{g+d>:=DPZ7Q;J^H_5{;CKxVq Ŗ5wxa fиz.ck7KT6Z
+M7Vpn̼Mg5s.)Zޗ2TgdfVWw*"f;>Dq4gG,Y&M*XC$:k2KPu%")שuܑz/G3b4זLgTφ9߯m`qW]<eG(ӈ=8%+
+bk*f
+4yxZ/Gӎh
+/$T #./XzAt/"k5'ϟ?_'XD?N`6;ma6,:ccw5\vu<fhn|Zݡ0({hWԔ{a"40&zޣ0/n?wn81h
+ *`Swnƿkr`c \#@]ϚVA6܌#4>vєE&ɺ)(`QԿ´3vc}|P6a݀|v^0荏&Tmor87ċ" QDFc"ow3u@_M\ֳj0(~;Soc(XCZ҄b茴_`
+ZɮIN.nOK3
++X	6S[EJx `pUa.Jܷ}Y̰ l~j`K*FaO%]+{$(ݜ+(C.瞴jy3ۨG1sەNn?MPdC'Ni/wn ߽awd/^V`ܻYqZ`ܹDK?ՋNarw8{Ms{ֻU0Y!UYaDljH7y'9qeljאl
+VU҇˶[Z" OjGh_9Bd<zf667NЧ <i:N$cr f^"ED3U5X`7a-oAkF23O߲nUq<r9FFA
+
+1ՁNd0`bŖcb_C+ϣk+ܕ^ Q2e!-f֔GL74v c-95ܽld2}LP1A|iR:NOOb
+CϜ@^t}VX;	IFe2:O]P0- K(e{Ѷ"o-=pg^VDbuN5(KG[ꝕsk޽}96_Pى~<hb%P(D\+ uh65!PQI9Jr\}Ij?R0fOӛQbsGVYCeXމteeI5qѢ`M-h_FB	Ix¸fV=0~{*
+_˷T%D)J̓w*-u\\HE,SϤ}]7\EX£C"0̗ 9qlpE|Zb' O1؜HEs͊!Ss:P۵ۄ}gAS2xѝJo5#feeskJ
+5Q7_f;Lf l`S?R(>ɴt o:%}n<&Y$N-ͷl^V#PuhXi>[6&םL^z2&C~"S^wfp]*Fn:tN5DD#][~1a/?>$~[,L"O<o}CK\Ue!-jF<E;].Ɵ¢uv&Jy%
+t(@9o;5˕ ̚ўFhOۢHT蛤0@/y!l`#mL*qe
+-y3d6YhZLD's:(X	?D}#XhХ	1}<h2gVgNL#k1E7:dG)NYW-fEm4vd3`lQeEhC?[\F>U%{Vy1):ju푞:v[t-!53RtI3ܠׁ6PyP/u=i_3ɷ;ݠ¯5ZAS◰DE]bpvnD>P"&e6r5i{i56?{ش?V:L\~={_4#mrS-ەF[Aۭz5[ _zIˎD5mYy,`&k=?0昺s]"<e܃5_ܿ6mBqC0K{9}2Ɲ1$ʌ|inQ`<JoD@2|ث~ڴL6ڭauZ%xSt5~L?OD*c_h-̔LN}msǼkF"R/߯tj7Y'L*6#8F7)]j}w*jg&'vQm)V-Јvzw*͝[N6ٙ]dnpnrJ&tz2sekh3l3oehZU_5_[Fmm˸ aC|ݽk9"u2w}l	IܶxF?Zc6pc,F/aҠfI{)q%vӮ-b*0DVێ. q`}J(IAH4>#%I?
+,Tv ޮ:C>
+˄?s閘LfugSh:I#=v"xοɬõ?nH-'_>#vY=y	b׮
+JvּrTQUԐEvDx"@%|}&e-E,ť#VBP.F7fSi(^ǘNY3B/Ŵ&M7eMܛJsgpa.R;*#b1nӇiz=J}x}>Ta'vw\ʌ?_cWFꃞ=[Zn		Ks 
 
 ================================================================================
 FILE: .\.git\objects\7d\b934507e740ad178b873a402a06e91f82191f1
@@ -3675,6 +5117,11 @@ sݵ
 #DDQx ɳ. 󫜘d?^&B+pC,,H_C.d:
 
 ================================================================================
+FILE: .\.git\objects\7f\18399db8ec7689b46360ca2ca6cd42ad828432
+================================================================================
+x+)JMU04`040031QpI,.6K.fp9~~h9(((?g+:cT7Nz=* \KS~03/,y<byj2oŃ(r+,L-f)щL|Jbً٢1@Q=`
+
+================================================================================
 FILE: .\.git\objects\80\3c4653fe43742f96ec295580c1c5bd64256c13
 ================================================================================
 x+)JMU0`01 Ǥ⒢5"[X򦳺NHD%$199X/(?1pugduα- 6l
@@ -3685,6 +5132,14 @@ FILE: .\.git\objects\80\9bdcf9e1bccfd9d576ba0d68f97bbb00d475b0
 x;
 1 s	hi^~m<nb&Z tx=%hd=fK*+9Zzz:++xKpq띗Ro9}l_͕z
 ^'QRvA<^e^?
+
+================================================================================
+FILE: .\.git\objects\80\f18dc41dc7c7d805d1ea75206b0c4c0ad85e34
+================================================================================
+x+)JMU044e01 Ǥ⒢9}7*^lNc_οQ✟\ZО'=sߦآkw
+
+LL\KSZ
+'vPaByKt0
 
 ================================================================================
 FILE: .\.git\objects\83\f117c72c7836b321d0ab56dc90cea50678e789
@@ -3705,6 +5160,11 @@ FILE: .\.git\objects\85\416871ab8a3c10d350e6a07a1d2d330ace06a4
 x]O90+,?AP!w !&1ı-{#(x_lmIqgHvfNWJzllYHBx.휈(ix0HnN03
 a`2BIyu}k/ZX8cc:y봒
 A:0E!oӺ_xu+HhG
+
+================================================================================
+FILE: .\.git\objects\87\6e15640df76996280eb269715d72d6057831dd
+================================================================================
+x+)JMU07g01 ׼̒Jlc?K,VO>rzE}WyE\/O[**_DR 0!
 
 ================================================================================
 FILE: .\.git\objects\87\8d8dbfb57e4f3abfaca29c0a9d51109fd75231
@@ -3757,11 +5217,30 @@ x+)JMU07g040031QpN,IM/K.f{ꩇUVżSJK@yS_
 |n- ύ!
 
 ================================================================================
+FILE: .\.git\objects\8e\4eff87f65e581eb675213c50191ed763e2df94
+================================================================================
+x}=@FsHAeX	N
+B,`N2|ֆNa`=T!aQ{!!R)rU&`Z2`f[0]դ` /ۻ`QJ^v$XjXÔ9 d\VhÈj9kW.?)V$z~a
+
+================================================================================
+FILE: .\.git\objects\8f\8359f22fa97d26572a62f9373dedce2b44d24e
+================================================================================
+x+)JMU`040031Q/JI-MKLO-K.fHPlY_"oB委& )^ƥq~܄[Y_XO A"n
+
+================================================================================
 FILE: .\.git\objects\90\2ca10c3af3ecd3df639c1edbb499f4c35e0d04
 ================================================================================
 xON@_cP.96D
 Ezp+KuFǭ*	3;N
 =EPo)իSJ,%[b{{Wd^ϓc@QpܝeUs*$iۡ3tTD<WPo;w=ĉvqg(@B5 ^|߿`Ya~T^ߪeW	a>>q;
+
+================================================================================
+FILE: .\.git\objects\90\76c182a73a99aa1c31ee717f8061c4b69fe18d
+================================================================================
+xeJ0=)z 
+/fG7XRM-.nN	Mps}{ՑP8TZ#,v^}ag&fۙc[{yb Y18J#rh1tڽR5pL#p+xv
+Ωx9Ѵ7ļql_LMҹb
+L!)#=69qĐ2T5I56D
 
 ================================================================================
 FILE: .\.git\objects\90\9282f4429d8f2dc1a0b87ca183b55541de63e7
@@ -3801,9 +5280,20 @@ FILE: .\.git\objects\98\4f4cffeb6dbdf7a8813b213148707b13243144
 x+)JMU046a040031QpusN,IM/tIK.flq0;fGl/委&@*9QIy	k]@dg8畤VLYU$oJ9.m[|3: %)74
 
 ================================================================================
+FILE: .\.git\objects\98\933d52318679abab4b2cdb894e05d02b248921
+================================================================================
+x+)JMU07g01 ׼̒Jl_R6f)XĮezpCJ<JK-c[/"k)O  
+
+================================================================================
 FILE: .\.git\objects\99\cc92e1aee5e82c6bf7949cd58977aa66cd2c1f
 ================================================================================
 x+)JMU01e040031Q(O)M.MKLO-K.frL?wãoOZց
+
+================================================================================
+FILE: .\.git\objects\99\e308c3c27b2c77b3f51403983ac86db39e2b4d
+================================================================================
+x+)JMU0b040031Qp+I
+K..(bPw˔H2UP^TɐoT=dUՃj"/u*P S!#
 
 ================================================================================
 FILE: .\.git\objects\9a\3434e04d29d94523742cebc9b743dfbf569061
@@ -3837,6 +5327,12 @@ xRKN0dSX>į$*E
 b㸯cgԳH\Rx43okejru3;J*4 Y۔KƚcebYH=ݢG<؀[ `ip3vc.^I!ݓh^+H|[%	X#l A j2k';L޷@IVNj\	|17_rn;x+-%πO):bw7,F,ƾ)6*c]|	_Nv?A4YN
 
 ================================================================================
+FILE: .\.git\objects\9c\8e31d9f79a73a33faddc63a66ac6f7eb159fd7
+================================================================================
+x+)JMU04`040031QtN,IM/tIK.fX%_eϼo;5-o
+WZZ\ZUʱw-ug!4Կ(g|Ig&j1yǲ0uE)%Pofw|>̟_cgaoU C{
+
+================================================================================
 FILE: .\.git\objects\9d\5e7db0d5841879a04328d170d20f077c2ba053
 ================================================================================
 xuAN0EYDHI6HZXIܩefl,8WiPty]+S;]yjdQr4l=+k$G!i᡽G<Ta)4W2B{%a%q?GYxśJ~>
@@ -3852,6 +5348,12 @@ x[
 dG"/S^8C~י6pxS!h^Y}nv[6l_N L
 
 ================================================================================
+FILE: .\.git\objects\9e\8fb10b4e7429d0eb89cabefe3f17374c00af29
+================================================================================
+x+)JMU044f01 Ǥ⒢ 'NGmv240031Qp*-K-.K..(by6}
+ $;jKiyE%~*Xjo a/
+
+================================================================================
 FILE: .\.git\objects\9e\ff79f8f1f89cea8a82f15f0badabb8707ac469
 ================================================================================
 xQ
@@ -3865,6 +5367,18 @@ FILE: .\.git\objects\a0\d96e1e13ae12bbb96da224df22f1b0b46b0ed8
 ================================================================================
 x[
 0E*/Hޙ\Af2BkJkE7߅\jtظĢT-+0EK%1͈5b߻A().U`#`=RчK+{סuy\L8x: y^Y}nv[6l_N MI
+
+================================================================================
+FILE: .\.git\objects\a0\fcf8c82e93c83cb40e4c92c913063b67e42fb5
+================================================================================
+x+)JMU0b040031Qp+I
+K..(bPw˔H2UP^Tɠ)Pu3 +!
+
+================================================================================
+FILE: .\.git\objects\a1\d1d578350d8c5621a23f4762ec736f85f736ba
+================================================================================
+x+)JMU05f040031QpMs+,J-/,/tJ,NK.fP}yx4Myk
+V%l jxH
 
 ================================================================================
 FILE: .\.git\objects\a1\d44ee32deeefdb4d62af00626f204e90c0ca08
@@ -3900,9 +5414,26 @@ FILE: .\.git\objects\a8\a5a342588fde0e306848579a53a1526cb92510
 x+)JMU047c040031QtN,IM/tIK.fdunW{'[WZZ\ZUwI~;d>y>sZR׼̒ʠԂ 4K|n*&]3U0E)%PC//c,v¢ kJd
 
 ================================================================================
+FILE: .\.git\objects\a8\dc204f03f04252c21da29dee306daf08849436
+================================================================================
+x+)JMU044e01 Ǥ⒢9}7*^lNc_οQ✟\Z0cma[:;X/ht*($$:&'%g1N(6~m
+ 0
+
+================================================================================
 FILE: .\.git\objects\a9\c3ac2a395dfce542ebd263f699c7d9901e348a
 ================================================================================
 x+)JMU07g01 ׼̒Jl>_ZУZX3757B{XVvZ 
+
+================================================================================
+FILE: .\.git\objects\a9\dfc66c16910429c62453050fa027b7f518e8dd
+================================================================================
+x+)JMU04`040031QpI,.6K.fp9~~h9(((?g+:cT7Nz=* \KS~03/,y<byj2oŃ(r+,L-fVy=ˢY:챊  Su=
+
+================================================================================
+FILE: .\.git\objects\aa\1f7a3f03af8eb21299dc075ba14b2939dbbbd5
+================================================================================
+xEA
+0 =+A<XJWYInw"^g	YcЗ&n YT;khQI!ZZ#9IѓT2P:!rZ4چ?/s6d
 
 ================================================================================
 FILE: .\.git\objects\aa\6b76f36ec75efa0fcbe84482cc1a498f853b92
@@ -3915,6 +5446,11 @@ FILE: .\.git\objects\ab\e7e360a8489f4f837b2f307112be5cd4c4aaf4
 xm1k0;W@2յ`T
 5U%#^َJj{{Ojvy2'OֳCəXVaŊ|F:bʄ0EGI`ܧ31\]~h 5zaL'
 5<B /[8w)P}5URXCFc?ĥֻ12x.tcqܖс\B!C$l'.ip&B-m:9J$8Fj*>
+
+================================================================================
+FILE: .\.git\objects\ac\548a94219ad6c35c7e16da8c3af2f2d6b964b5
+================================================================================
+x+)JMU045b040031QpN,IM/K.f0\c)\ut5G'zaJKsS@5%`/|k%nmWB@o!T&@RzSjSJK@&mdrɓO9gנ%  ZI>
 
 ================================================================================
 FILE: .\.git\objects\ac\567c54ade620b91a2f989fa72451997f57c016
@@ -3948,6 +5484,12 @@ x[
 0E*/5i@Dp	`:P5s.i5m]ܵED{B`'BO}1|v1JG8fZ4wl)Y=b6rX,B%
 m,O}Ӽ]gaLI.%<=8 şM
 [S/$M
+
+================================================================================
+FILE: .\.git\objects\b2\6f56831ee19321f4afb882f363d282ef20ae66
+================================================================================
+xJ@SU ۚ6R
+klǲلI1>;{i~)Vs;s9I$encoHD7EZp)'F!8ՍqKk(Л9Ɖk"A]N|kwwѤ#4NjuWERp2Ns5\¬:Y{v/u7dRkk$w蟹nWNn`t@;7jnA}SE`{r'al}$Ӫk_13'pm\ꐽ[`z-',OF.2aPgP0^/A[&C$&dH>*UܵPdsv4/
 
 ================================================================================
 FILE: .\.git\objects\b2\e813d37a38a55f5ac149a7efe945deb1cc35fd
@@ -4112,6 +5654,12 @@ xQAN0WXyá !@Aʭc[ZзqI|*	n;;3vmGfg_-H$/ݼ|P`HuKU 5=<	1RKJŵ¨
 Z7w^f+zΪ)?L7J*|M6N['0ZqHdm?7)z
 
 ================================================================================
+FILE: .\.git\objects\c5\6789225b045424d361f7550848e0761ca39d2d
+================================================================================
+xA
+ Eef4PJPcz>ZJRiwY'XYytSE(ć]:QLn`Ԩu) R0ѐ{z6qk\^;oB}	`g ĳW;,FkM(
+
+================================================================================
 FILE: .\.git\objects\c5\8d22deef74edc170c42d9bce04993aea49f02f
 ================================================================================
 x+)JMU023b040031QK,L/JeS.QGŻ_Gl湻(8g3,wfԳm~YQ✟Wɰ*Q=zoӿ5.% $xr/@ ]Z 4K^3i:ڷ-3/1'(?+5D8'yG@֬e66^K-I-.K.f=ˤX~MCjRq i
@@ -4126,6 +5674,11 @@ FILE: .\.git\objects\c6\ada7c8f2190f2148fd87aeac34fb6ddf50f224
 ================================================================================
 xN09)|줪.-
 hNP Ma)KB2*ĻJosb`{xYPlɿ#3ϥ^Hh:^)AXiэ1992@^Mͩ10IǪ=B{efgԻ[b(s~M]aG.ͺ?8(Oh;A5ڬOj?:-\fM>M3'o
+
+================================================================================
+FILE: .\.git\objects\c7\c2906fb97f202a81d82bdfe7ad5cd5b263da20
+================================================================================
+x+)JMU044f01 Ǥ⒢V7>onqͳ3kuC3̼b₢,gӗ{	BRl~期\ZIeZVOs۷]. 0
 
 ================================================================================
 FILE: .\.git\objects\c8\692fe26992ceb6466d15adf46f2c7facde5625
@@ -4145,6 +5698,11 @@ x+)JMU044e01 Ǥ⒢~2q~>Žݩ`Q✟\ZPr)wgUy!sRm}f&&
 .%ɩzEY;|_[: L1v
 
 ================================================================================
+FILE: .\.git\objects\cc\339a05cda477a527ccb52c301f0a442e8acd90
+================================================================================
+x+)JMU04d01 ԒT5!]Sg];S'vӧk;SB3N?-w>=6C3׼̒b₢,]\%Z7N()Cˣ :/5
+
+================================================================================
 FILE: .\.git\objects\ce\f86146ae62cd9d8811cfbcd5a593ba9d6d2904
 ================================================================================
 x[
@@ -4162,6 +5720,11 @@ xAN0EY#S7q*!\3q2Si2Ei=[k)襀ϑ%hPbXQL"%/S
 kj̪侤#Q iby)ͅJ'ǸnՎ庶oHQd=筽8o<<"!s=[^vl1+~ P
 
 ================================================================================
+FILE: .\.git\objects\d1\f3d25b79bcffebcfc9617eb9ef2a8db635788c
+================================================================================
+x+)JMU05f040031QpMs+,J-/,/tJ,NK.f+.wVuCZlS ue?
+
+================================================================================
 FILE: .\.git\objects\d2\6408c5cfea5290decbf7f748c3d3503981ea61
 ================================================================================
 x+)JMU01e040031QpI,ItLNN-.K..(bgơwQ
@@ -4172,6 +5735,14 @@ x+)JMU01e040031QpI,ItLNN-.K..(bgơwQ
 FILE: .\.git\objects\d2\d34d7846cff5ccf81c33273abd2291182fb85b
 ================================================================================
 x+)JMU0g040031QpusN,IM/tIK.fxx}xB՛'>%qpE)%PWP4 w$
+
+================================================================================
+FILE: .\.git\objects\d4\9f84f12fd5fc3b677bef2b670107647d44430c
+================================================================================
+x+)JMU067`040031QK,L/JeS.QGŻ_Gl;TcNs~J^A%Cgۆ+8(13+i=
+ Pp*-K-.f8~hBz)Ds~^q~Nj'+]\!|
+aajnMYS::mj1H$$:&'i{D_*dp݈3(r+z+!0\3
+Z.g3y'J̼Ĝ<w]\%t0ծ`$YP!%zV|g˯IWaHM>UWRQPkFxR$۲S:O|hc 
 
 ================================================================================
 FILE: .\.git\objects\d4\a8145ad1e29f4db1cc14e71dddb824952e097a
@@ -4214,6 +5785,13 @@ FILE: .\.git\objects\d9\a6a151757243d2773c20cf4859d0e3efe3dc57
 x+)JMU044e01 Ǥ⒢*ޯį!)%Q✟\ZQcѩ,ec{ɫ\C3ĒDb₢,Vǌ]6-5:Ƕ G.A
 
 ================================================================================
+FILE: .\.git\objects\da\4f1e4113266f515c54351c2bb5c47aefbb9b1d
+================================================================================
+x]QjQEVȣPVGl)uobl˘dСtCsrnJJxz>4֭9!ZɌ%8\L<y"v(ۅ=EwvcLKsM=\0YIF%2l>z
+MMY1VŻʦA
+FPlP-.ھ$?g ouN'`!_6q
+
+================================================================================
 FILE: .\.git\objects\db\2eeb02fec79f0b1cfc5aad28f55d99cc078521
 ================================================================================
 xEM
@@ -4228,6 +5806,12 @@ x+)JMU07c040031QpI,.6K.fp9~~h9(((?Wnznӯάz Q "
 FILE: .\.git\objects\db\dcea46b6e2047549bb86fc8f27032d25c0611f
 ================================================================================
 xKOR041dx{M@Q~VjrBpJofrQ~q~ZkPHɎKA ҽ((I,JO-q+JM-/ʶK-).IKI,J13GfXd ?30
+
+================================================================================
+FILE: .\.git\objects\de\4a8a7ee305f6dbe97a55c65a9ba526ed812b2e
+================================================================================
+x+)JMU`040031Q/JI-MKLO-K.fHPlY_"oB委& )ޔ,p;>'_jz.
+ `g%
 
 ================================================================================
 FILE: .\.git\objects\de\559683693ac5eff44be42f9dfdf4ea17b73a9f
@@ -4262,6 +5846,12 @@ FILE: .\.git\objects\e5\e304531ef3dd49228e4086981813c9ba82ab41
 x+)JMU07g01 ׼̒Jl@A>j}1;6:qM/d8zy2VU]"2 ׏
 
 ================================================================================
+FILE: .\.git\objects\e6\2bdf529f3a2188b27d34c6ca23ed4f1dd05457
+================================================================================
+xRMO0|UO^%q"&wu |ɮ<3M^Q'Ggl	+F0&`o4=w1@nX9FK[Az-W+0WεF_7ye4J9	-e'0:x	IP@-2%S@j=ncʆ7VZ!.S@ڃ^q[ŠѵnJD*6*p:Jzi,*M*YNN휝3VU)YuO{cߩ%29z۝qI]jݷ̪'QHT
+o0 tޑ/PDuX	3+O	m=g~W?_s
+
+================================================================================
 FILE: .\.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391
 ================================================================================
 xKOR0`  	
@@ -4278,6 +5868,19 @@ FILE: .\.git\objects\e6\fceb5363e602ee49fdcac7e913f1e06cae913d
 x=0Fs
 Lb*!VH*vIxY6.(b30^Hy{0,Q[+uki(&8`f:f1%//j`e9~R!\T8%|
 QIg	7h.'H%}Vpl!
+
+================================================================================
+FILE: .\.git\objects\e7\d4ebf60ed74b19a8166b43d7fbeb9d201356b1
+================================================================================
+x+)JMU0b040031Qp+I
+K..(bPw˔H2UP^Tɐ1ϯo+^R@ $
+
+================================================================================
+FILE: .\.git\objects\e8\0975ef6f1949fb8787cc92b990453893b8a6a0
+================================================================================
+xE
+0D=+BO-ҊA .$nEwc=8ycr5	;t{̯%%3*VDI#EDz<Mn$
+'"v3(zay9hEQ˃RXo* $>
 
 ================================================================================
 FILE: .\.git\objects\e8\286e325209aa59652dc93b9c8976f9e27620d6
@@ -4429,10 +6032,21 @@ xw6}xCִ*ׅJ%&l)Kp*)
 '3VŘ3cH9hx)r[{1HϗFĽ=Kq'hkAS_0|}~T1O
 
 ================================================================================
+FILE: .\.git\objects\f6\77f079e757de39729a2c33075d214dc07f2bcc
+================================================================================
+x+)JMU07f040031Qt)K.fпseN gGdTTx=rHW{a=. @$
+
+================================================================================
 FILE: .\.git\objects\f6\bb48f184c90c149f8e858b7fda17b6cc635bc6
 ================================================================================
 xI
 1 =Y:}oN2GB|E֥kx=b\Ѕ8H$%{%zV^]p0B0XrCD"18[צx^'}aoSyNkfl}vAwG
+
+================================================================================
+FILE: .\.git\objects\f8\6d9414fa396673e17908d23f74bbb14b085ba5
+================================================================================
+xKj1D)4g'y>"G0Ԣ(xœ}XZ
+kNv!fl>υ"RXSf61xwvbzk~?>)5ss:)UKN
 
 ================================================================================
 FILE: .\.git\objects\f8\7edd3f81319a05b1355e89456bf7d2a26e88d8
@@ -4447,6 +6061,11 @@ xA
 FILE: .\.git\objects\f8\e4fee0c574ccfb8bdbda1a9f1ac597c89a17b7
 ================================================================================
 x+)JMU044c040031QpN,IM/K.fB$ψ<CegLYiqI~njH:W%=&SJK@|gNT?XF s! Z/
+
+================================================================================
+FILE: .\.git\objects\fa\1adf5ab199b6391172072a35c1be406b12f36c
+================================================================================
+x+)JMU047e040031QpusN,IM/tIK.ffLz{?8L1֓W_ZU8`rd7$6a/\a@Q~Jir	T-9GaSG-U_TQ✟WZQr3A;6՚;_BH8 E
 
 ================================================================================
 FILE: .\.git\objects\fa\1ed8ac67a3d61a1cadccb87c0d0c39869ba4d4
@@ -4474,21 +6093,33 @@ FILE: .\.git\objects\fb\204416cfcafd4926527a03a8421106f95d01ca
 x+)JMU0`040031Qt+,K.fz@__6H$ tn
 
 ================================================================================
+FILE: .\.git\objects\fb\454c0303a69319c763389fd69e261cedb5916c
+================================================================================
+x+)JMU4`01 ׼̒Jl/EWĺzV(xBgU%3|_el2Nz
+L *F
+
+================================================================================
 FILE: .\.git\objects\fd\4bd08da298721707dc853bf68fa85398f32f27
 ================================================================================
 x]A0@Q=E7&;4.D #(gsᑼEbXΛShSx/>8CI|7Ah:s0MS |, ;4J/ގ 'o,
 hylRDs}c*]:V6/uc:TM"d8R/U
 
 ================================================================================
+FILE: .\.git\objects\fd\4ecde6a8895c246fb10d546cdb62eb917a5b3e
+================================================================================
+xj@{ާX6BxHr(
+J:.i8;Z|H}fh	6|?r<}+W,׻:S%g]K*ByNxl9ސO(MzMQ[0WZt06aނ\xwb6E]n+AWIO ,;WN!S|E. (
+
+================================================================================
 FILE: .\.git\refs\heads\main
 ================================================================================
-5b58dad89551f8a2c9f9b0a91ff1b512c2fe31fc
+c56789225b045424d361f7550848e0761ca39d2d
 
 
 ================================================================================
 FILE: .\.git\refs\remotes\origin\main
 ================================================================================
-5b58dad89551f8a2c9f9b0a91ff1b512c2fe31fc
+c56789225b045424d361f7550848e0761ca39d2d
 
 
 ================================================================================
@@ -5788,17 +7419,55 @@ FILE: .\Business\Business.csproj
 
 
 ================================================================================
-FILE: .\Business\Abstract\IProductService.cs
+FILE: .\Business\Abstract\IOrderService.cs
 ================================================================================
 using Entities.Concrete;
 
-namespace Bussiness.Abstract
+namespace Business.Abstract;
+
+public interface IOrderService
+{
+    List<Order> GetAll();
+}
+
+================================================================================
+FILE: .\Business\Abstract\IProductService.cs
+================================================================================
+using Entities.Concrete;
+using Entities.DTOs;
+
+namespace Business.Abstract
 {
     public interface IProductService
     {
         List<Product> GetAll();
         List<Product> GetAllByCategoryId(int id);
         List<Product> GetByUnitPrice(float min, float max);
+        List<ProductDetailDto> GetProductDetails();
+        void Add(Product product);
+    }
+}
+
+================================================================================
+FILE: .\Business\Concrete\OrderManager.cs
+================================================================================
+using Business.Abstract;
+using DataAccess.Abstract;
+using DataAccess.Concrete.EntityFramework;
+using Entities.Concrete;
+
+namespace Business.Concrete;
+public class OrderManager : IOrderService
+{
+    IOrderDal _orderDal;
+
+    public OrderManager(IOrderDal orderDal)
+    {
+        _orderDal = orderDal;
+    }
+    public List<Order> GetAll()
+    {
+        return _orderDal.GetAll();
     }
 }
 
@@ -5806,10 +7475,11 @@ namespace Bussiness.Abstract
 FILE: .\Business\Concrete\ProductManager.cs
 ================================================================================
 using System.Collections.Generic;
-using Bussiness.Abstract;
+using Business.Abstract;
 using DataAccess.Abstract;
 using DataAccess.Concrete.InMemory;
 using Entities.Concrete;
+using Entities.DTOs;
 namespace Business.Concrete
 {
 
@@ -5837,6 +7507,11 @@ namespace Business.Concrete
         public List<Product> GetByUnitPrice(float min, float max)
         {
             return _productDal.GetAll(p=>p.UnitPrice>=min&&p.UnitPrice<=max);
+        }
+
+        public List<ProductDetailDto> GetProductDetails()
+        {
+            return _productDal.GetProductDetails();
         }
     }
 }
@@ -5866,24 +7541,44 @@ FILE: .\ConsoleUI\ConsoleUI.csproj
 FILE: .\ConsoleUI\Program.cs
 ================================================================================
 ﻿using Business.Concrete;
-using Entities.Concrete;
-using DataAccess.Concrete.InMemory;
 using DataAccess.Concrete.EntityFramework;
-
+using DataAccess.Concrete.InMemory;
+using Entities.Concrete;
+ 
 namespace ConsoleUI;
 
 class Program
 {
     static void Main(string[] args)
     {
-        ProductManager productManager = new ProductManager(new EFProductDal());
+        ProductTest();
 
-        foreach (Product product in productManager.GetAllByCategoryId(2))
+        //DisplayShipCities();
+    }
+
+    private static void DisplayShipCities()
+    {
+        OrderManager orderManager = new OrderManager(new EFOrderDal());
+
+        foreach (Order item in orderManager.GetAll())
         {
-            System.Console.WriteLine(product.ProductName);
-            System.Console.WriteLine(product.CategoryId);
+            //Console.WriteLine(item.ShipCity);
         }
 
+        EFOrderDal efo = new();
+
+        Console.WriteLine(string.Join("\n - ", efo.GetShipCities()));
+    }
+
+    private static void ProductTest()
+    {
+        ProductManager productManager = new ProductManager(new EFProductDal());
+
+        foreach (var product in productManager.GetProductDetails())
+        {
+            //Console.WriteLine(product.CategoryName);
+            Console.WriteLine(product.ProductName);
+        }
     }
 }
 
@@ -5938,24 +7633,85 @@ namespace Core.DataAccess
         void Add(T entity);
         void Update(T entity);
         void Delete(T entity);
-        List<T> GetAllByCategory(int categoryId);
-
     }
 }
 
 ================================================================================
 FILE: .\Core\DataAccess\EntityFramework\EfEntityRepositoryBase.cs
 ================================================================================
-using Core.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Linq.Expressions;
+using Core.Entities; 
 using Microsoft.EntityFrameworkCore;
 
 namespace Core.DataAccess.EntityFramework;
 
-public class EfEntityRepositoryBase<TEntity, TContext>
+public class EfEntityRepositoryBase<TEntity, TContext>:IEntityRepository<TEntity>
 
-    where TEntity : IEntity, new()
+    where TEntity : class, IEntity, new()
     where TContext : DbContext, new()
 {
+        public void Add(TEntity entity)
+    {
+        using (TContext context = new TContext())
+        {
+            var addedEntity = context.Entry(entity);
+            addedEntity.State = EntityState.Added;
+            context.SaveChanges();
+            System.Console.WriteLine(addedEntity.State);
+        }
+        
+    }
+    
+    public void Delete(TEntity entity)
+    {
+        using (TContext context = new TContext())
+        {
+            var deletedEntity = context.Entry(entity);
+            deletedEntity.State = EntityState.Deleted;
+            context.SaveChanges();
+        }
+    }
+
+    public TEntity Get(Expression<Func<TEntity, bool>> filter)
+    {
+        using (TContext context = new TContext())
+        {
+            return context.Set<TEntity>().SingleOrDefault(filter);
+        }
+    }
+
+    public List<TEntity> GetAll(Expression<Func<TEntity, bool>> filter = null)
+    {
+        using (TContext context = new TContext())
+        { 
+            return filter == null
+            ? context.Set<TEntity>().ToList()
+            : context.Set<TEntity>().Where(filter).ToList();
+        }
+    }
+
+    public void Update(TEntity entity)
+    {
+        using (TContext context = new TContext())
+        {
+            var updatedEntity = context.Entry(entity);
+            updatedEntity.State = EntityState.Modified;
+            context.SaveChanges();
+        }
+    }
+}
+
+================================================================================
+FILE: .\Core\Entities\IDto.cs
+================================================================================
+namespace Entities.DTOs;
+
+public interface IDto
+{
+    
 }
 
 ================================================================================
@@ -5965,7 +7721,7 @@ namespace Core.Entities
 {
     public interface IEntity
     {
-            
+        
     }
 }
 
@@ -6002,7 +7758,7 @@ using Entities.Concrete;
 
 namespace DataAccess.Abstract;
 
-public interface ICategoryDal: IEntityRepository<Category>
+public interface ICategoryDal:  IEntityRepository<Category>
 {
 
 } 
@@ -6021,15 +7777,29 @@ public interface ICustomerDal:IEntityRepository<Customer>
 }
 
 ================================================================================
+FILE: .\DataAccess\Abstract\IOrderDal.cs
+================================================================================
+using Core.DataAccess;
+using Entities.Concrete;
+
+namespace DataAccess.Abstract;
+
+public interface IOrderDal: IEntityRepository<Order>
+{
+    List<string> GetShipCities();
+}
+
+================================================================================
 FILE: .\DataAccess\Abstract\IProductDal.cs
 ================================================================================
 using Core.DataAccess;
 using Entities.Concrete;
+using Entities.DTOs;
 namespace DataAccess.Abstract
 {
     public interface IProductDal:IEntityRepository<Product>
     {
-        
+        List<ProductDetailDto> GetProductDetails();
     }
 }
 
@@ -6037,110 +7807,64 @@ namespace DataAccess.Abstract
 FILE: .\DataAccess\Concrete\EntityFramework\EFCategoryDal.cs
 ================================================================================
 using System.Linq.Expressions;
+using Core.DataAccess.EntityFramework;
 using DataAccess.Abstract;
 using Entities.Concrete;
 
 namespace DataAccess.Concrete.EntityFramework;
 
-public class EFCategoryDal : ICategoryDal
+public class EFCategoryDal :EfEntityRepositoryBase<Category, NorthwindContext>, ICategoryDal
 {
-    public void Add(Category entity)
-    {
-        throw new NotImplementedException();
-    }
-
-    public void Delete(Category entity)
-    {
-        throw new NotImplementedException();
-    }
-
-    public Category Get(Expression<Func<Category, bool>> filter)
-    {
-        throw new NotImplementedException();
-    }
-
-    public List<Category> GetAll(Expression<Func<Category, bool>> filter = null)
-    {
-        throw new NotImplementedException();
-    }
-
-    public List<Category> GetAllByCategory(int categoryId)
-    {
-        throw new NotImplementedException();
-    }
-
-    public void Update(Category entity)
-    {
-        throw new NotImplementedException();
-    }
+    
 }
 
+
+================================================================================
+FILE: .\DataAccess\Concrete\EntityFramework\EFOrderDal.cs
+================================================================================
+using Core.DataAccess.EntityFramework;
+using DataAccess.Abstract;
+using Entities.Concrete;
+
+namespace DataAccess.Concrete.EntityFramework;
+
+public class EFOrderDal : EfEntityRepositoryBase<Order, NorthwindContext>, IOrderDal
+{
+    public List<string> GetShipCities()
+    {
+        using (NorthwindContext nw = new NorthwindContext())
+        {
+            return nw.Orders.Select(o => o.ShipCity).Distinct().ToList();
+        }
+    }
+}
 
 ================================================================================
 FILE: .\DataAccess\Concrete\EntityFramework\EFProductDal.cs
 ================================================================================
 using System.Linq.Expressions;
+using Core.DataAccess.EntityFramework;
 using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 using Microsoft.EntityFrameworkCore;
 
 namespace DataAccess.Concrete.EntityFramework;
 
-public class EFProductDal : IProductDal
+public class EFProductDal : EfEntityRepositoryBase<Product, NorthwindContext>, IProductDal
 {
-    public void Add(Product entity)
+    public List<ProductDetailDto> GetProductDetails()
     {
-        using (NorthwindContext context = new NorthwindContext())
-        {
-            var addedEntity = context.Entry(entity);
-            addedEntity.State = EntityState.Added;
-            context.SaveChanges();
-            System.Console.WriteLine(addedEntity.State);
-        }
+        using NorthwindContext context = new NorthwindContext();
+        var result = from p in context.Products 
+            join c in context.Categories
+            on p.CategoryId equals c.CategoryId
+            select new ProductDetailDto{ProductId = p.ProductId, ProductName =p.ProductName, 
+            CategoryName = c.CategoryName , UnitsInStock = p.UnitsInStock};
+        return result.ToList();
     }
 
-    public void Delete(Product entity)
-    {
-        using (NorthwindContext context = new NorthwindContext())
-        {
-            var deletedEntity = context.Entry(entity);
-            deletedEntity.State = EntityState.Deleted;
-            context.SaveChanges();
-        }
-    }
 
-    public Product Get(Expression<Func<Product, bool>> filter)
-    {
-        using (NorthwindContext context = new NorthwindContext())
-        {
-            return context.Set<Product>().SingleOrDefault(filter);
-        }
-    }
-
-    public List<Product> GetAll(Expression<Func<Product, bool>> filter = null)
-    {
-        using (NorthwindContext context = new NorthwindContext())
-        {
-            return filter == null
-            ? context.Set<Product>().ToList()
-            : context.Set<Product>().Where(filter).ToList();
-        }
-    }
-
-    public List<Product> GetAllByCategory(int categoryId)
-    {
-        throw new NotImplementedException();
-    }
-
-    public void Update(Product entity)
-    {
-        using (NorthwindContext context = new NorthwindContext())
-        {
-            var updatedEntity = context.Entry(entity);
-            updatedEntity.State = EntityState.Modified;
-            context.SaveChanges();
-        }
-    }
 }
 
 
@@ -6150,7 +7874,6 @@ FILE: .\DataAccess\Concrete\EntityFramework\NorthwindContext.cs
 using Entities.Concrete;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure.Internal;
-
 
 namespace DataAccess.Concrete.EntityFramework;
 
@@ -6164,12 +7887,10 @@ public class NorthwindContext : DbContext
         optionsBuilder.UseSnakeCaseNamingConvention();
     }
 
-    // configure Products table
-
-
     public DbSet<Product> Products { get; set; }
     public DbSet<Category> Categories { get; set; }
     public DbSet<Customer> Customers { get; set; }
+    public DbSet<Order> Orders { get; set; }
 
 }
 
@@ -6180,6 +7901,7 @@ FILE: .\DataAccess\Concrete\InMemory\InMemoryProductDal.cs
 using System.Linq.Expressions;
 using DataAccess.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 
 namespace DataAccess.Concrete.InMemory
 {
@@ -6237,6 +7959,11 @@ namespace DataAccess.Concrete.InMemory
         {
             throw new NotImplementedException();
         }
+
+        public List<ProductDetailDto> GetProductDetails()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 
@@ -6291,6 +8018,21 @@ public class Customer: IEntity
 }
 
 ================================================================================
+FILE: .\Entities\Concrete\Order.cs
+================================================================================
+using Core.Entities;
+
+namespace Entities.Concrete;
+public class Order:IEntity
+{
+    public int OrderId {get;set;}
+    public string CustomerId { get; set; }
+    public int EmployeeId { get; set; }
+    public DateTime OrderDate {get; set;}
+    public string ShipCity { get; set; }
+}
+
+================================================================================
 FILE: .\Entities\Concrete\Product.cs
 ================================================================================
 using Core.Entities;
@@ -6305,4 +8047,19 @@ namespace Entities.Concrete
         public short UnitsInStock { get; set; }
         public float UnitPrice { get; set; }
     }
+}
+
+================================================================================
+FILE: .\Entities\DTOs\ProductDetailDto.cs
+================================================================================
+using Core.Entities;
+
+namespace Entities.DTOs;
+
+public class ProductDetailDto : IDto
+{
+    public int ProductId { get; set; }
+    public string ProductName { get; set; }
+    public string CategoryName { get; set; }
+    public short UnitsInStock { get; set; }
 }
