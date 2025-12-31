@@ -1,11 +1,15 @@
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using DataAccess.Concrete.InMemory;
 using Entities.Concrete;
 using Entities.DTOs;
+using FluentValidation;
+using ValidationException = FluentValidation.ValidationException;
 namespace Business.Concrete
 {
 
@@ -19,10 +23,14 @@ namespace Business.Concrete
         }
         public IResult Add(Product product)
         {
-            if (product.ProductName.Length < 3)
+            var context = new ValidationContext<Product>(product);
+            var productValidator = new ProductValidator();
+            var result = productValidator.Validate(context);
+            if (!result.IsValid)
             {
-                return new ErrorResult(Messages.ProductNameInvalid);
+                throw new ValidationException(result.Errors);
             }
+
 
             _productDal.Add(product);
 
@@ -48,7 +56,7 @@ namespace Business.Concrete
 
         public IDataResult<Product> GetById(int productId)
         {
-            return new SuccessDataResult<Product>(_productDal.Get(p=>p.ProductId == productId));
+            return new SuccessDataResult<Product>(_productDal.Get(p=>p.Id == productId));
         }
 
         public IDataResult<List<Product>> GetByUnitPrice(float min, float max)

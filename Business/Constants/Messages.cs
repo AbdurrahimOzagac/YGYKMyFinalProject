@@ -8,4 +8,5 @@ public static class Messages
     public static string ProductNameInvalid = "Invalid product name.";
     internal static string MaintenanceTime = "System is under maintenance";
     internal static string ProductsListed = "Products listed successfully";
+    public static string UnitPriceInvalid = "Invalid unit price";
 }
