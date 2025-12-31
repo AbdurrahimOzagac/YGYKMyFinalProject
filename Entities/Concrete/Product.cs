@@ -4,10 +4,10 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Entities.Concrete
 {
-    public class Product:IEntity
+    public class Product:IIDEntity
     {
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
-        public int ProductId { get; set; }
+        public int Id { get; set; }
         public int CategoryId { get; set; }
         public string ProductName { get; set; } = string.Empty;
         public short UnitsInStock { get; set; }

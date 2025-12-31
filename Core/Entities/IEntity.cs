@@ -4,4 +4,10 @@ namespace Core.Entities
     {
         
     }
+
+    
+    public interface IIDEntity : IEntity
+    {
+        public int Id { get; set; }
+    }
 }
